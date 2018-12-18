@@ -1,0 +1,480 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Title="Ядро распознавания номеров автомобилей" Url="html/7e6b32c7-4e10-4c6d-bc6f-2bfc91539012.htm" />
+  <HelpTOCNode Id="110af6db-d6cb-4890-9ee1-6f49b19ea098" Title="Требования" Url="html/5408a516-8588-4b4e-982f-90d19f1bcc4c.htm">
+    <HelpTOCNode Title="Пререквизиты" Url="html/Prerequisites.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Title="Защита ПО" Url="html/873428af-4406-47dd-a9ec-8183650876aa.htm" />
+  <HelpTOCNode Id="270a3d05-9f45-421e-8962-ad15d880dfcf" Title="Интеграция" Url="html/Integration.htm">
+    <HelpTOCNode Id="fd78d9e2-7a3d-41d3-9bdb-14ea5cdf438c" Title=".NET">
+      <HelpTOCNode Title="Ядро распознавания в видеопотоке" Url="html/ed13c3a5-f0cf-44bd-be1e-7f9c3ff9f3c3.htm" />
+      <HelpTOCNode Title="Ядро распознавания на изображениях" Url="html/408243f7-a867-42b6-b50e-943b751532df.htm" />
+      <HelpTOCNode Title="Настройка" Url="html/5534ab84-9b1d-4f68-996a-9c0e4f7d19a2.htm" />
+      <HelpTOCNode Title="Активация пробной версии" Url="html/dotNET_Trial.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="7d8c0672-d057-4a54-a1f6-03ec86258404" Title="COM">
+      <HelpTOCNode Title="Регистрация компонента" Url="html/ComRegister.htm" />
+      <HelpTOCNode Title="Интеграция с Delphi при помощи COM-технологии" Url="html/fd4d5204-246d-4d6b-9725-236c63837145.htm" />
+      <HelpTOCNode Title="Интеграция с 1C" Url="html/412649c1-b9e3-48bf-a4e9-5dd549144457.htm" />
+      <HelpTOCNode Title="Интеграция с Visual Basic for Application" Url="html/1ad69d8e-ad0e-439c-ad57-5437dde3f479.htm" />
+      <HelpTOCNode Title="Интеграция с C++" Url="html/68ac4060-777e-4333-b618-c7f9467da02d.htm" />
+      <HelpTOCNode Title="Настройка параметров" Url="html/80ad73c7-79fe-4958-a1e3-638cf8c89942.htm" />
+      <HelpTOCNode Title="Активация пробной версии" Url="html/COM_Trial.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="bcb7c32d-cd7d-411b-8fcd-3e422ba99aca" Title="Приложения">
+    <HelpTOCNode Title="Поддерживаемые видеоисточники" Url="html/aef22bc3-b21c-407f-b9b4-153f4ba4350c.htm" />
+    <HelpTOCNode Title="Типы номеров" Url="html/a348907c-eb65-4e62-8178-13ff13b2e6db.htm" />
+    <HelpTOCNode Title="Сообщения об ошибках" Url="html/Errors.htm" />
+    <HelpTOCNode Title="Параметры настройки" Url="html/58fee9dd-587f-40f0-9621-22ce9ee553de.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="e3ef0dba-ed7e-4ee5-9ca0-ac538fb9e528" Title="Recar2" Url="html/0dd0c505-07fc-c3e8-128c-d1a0701f2a29.htm">
+    <HelpTOCNode Id="73a05f7e-a3a5-4968-a4ea-5dddfadee9c6" Title="BaseCoreExtensions - класс" Url="html/0561b959-4ae3-eabf-dd45-dfa4e434be86.htm">
+      <HelpTOCNode Id="f036fcfb-a557-4e6a-824c-e7f27347ffec" Title="BaseCoreExtensions - методы" Url="html/e3d5edd3-5a20-70a1-dc00-84ee6f89d51e.htm">
+        <HelpTOCNode Title="ShowSetupForm - метод" Url="html/f273fd22-2c6d-a3de-368e-3833b24ea879.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="ChannelSpeed - перечисление" Url="html/1050c193-f7b5-c31a-95b8-3aa116d3a58a.htm" />
+    <HelpTOCNode Id="097c25df-0174-4dae-987b-1c61d2c92b49" Title="CoreExtensions - класс" Url="html/5ba49a35-7e5c-029c-481a-c3ab6ec739a9.htm">
+      <HelpTOCNode Id="9618e631-db87-459d-a1b0-d3733613af7b" Title="CoreExtensions - методы" Url="html/8b8a0bbb-e209-86cb-e7d7-e0977a3001da.htm">
+        <HelpTOCNode Title="GetSampleImage - метод" Url="html/ee898904-3be2-ebaa-599f-d221baa93f1f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bb3561cb-761a-459c-adca-9edb915e7c09" Title="DrawingConvertExtensions - класс" Url="html/67592883-d8de-6ace-73b6-1cfaa6443988.htm">
+      <HelpTOCNode Id="b118f266-cc0c-47c8-8efc-54d9b8a2406b" Title="DrawingConvertExtensions - методы" Url="html/16b35c61-be94-72f9-20fc-bb8368ef4c4f.htm">
+        <HelpTOCNode Id="09224a38-d382-49d3-aa29-c34c870faf52" Title="ToRect - метод" Url="html/a3c3f4be-1db5-9a9a-1a8a-2945d6cfcf72.htm">
+          <HelpTOCNode Title="ToRect(Rectangle) - метод" Url="html/e3a3aa7d-4728-e9ab-b1e0-62fc72383ff9.htm" />
+          <HelpTOCNode Title="ToRect(Rectangle) - метод" Url="html/b22d59f5-7544-a591-ca90-0cd6554651aa.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="9718fc2d-3e7d-4cb8-bf2d-971705b13dd2" Title="ToSize - метод" Url="html/2201d2ec-9586-3c65-2847-1f3157594236.htm">
+          <HelpTOCNode Title="ToSize(Size) - метод" Url="html/1f2324c2-3123-fcc2-78b7-e54c513b7127.htm" />
+          <HelpTOCNode Title="ToSize(Size) - метод" Url="html/d41d4450-7f21-6c63-6274-4123cee3da0f.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="46c5c605-2af6-4fd3-9cc0-726951a5f231" Title="ExtPlateNumber - класс" Url="html/03e48409-642b-b9f9-7b66-d18a4ed134f1.htm">
+      <HelpTOCNode Id="172d2a3d-407f-44df-bd5c-a9dd3908b5a1" Title="ExtPlateNumber - свойства" Url="html/fb36905b-6d54-e2fa-0049-0f45f88c3879.htm">
+        <HelpTOCNode Title="FramesTimeStamps - свойство" Url="html/3a11561e-c1b2-4564-541c-b7d1cdc0a1a5.htm" />
+        <HelpTOCNode Title="MovementDirection - свойство" Url="html/f8dbaea2-92ca-b4b0-457c-9f8499814745.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ExtPlateNumber - методы" Url="html/0f11ba28-64b3-ae9e-f0cf-c3ab49418866.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="89dfd8bf-8020-438b-8c5d-23ab0defa249" Title="ImageCore - класс" Url="html/0ecd30a3-2420-dbc0-b961-311b9ee08659.htm">
+      <HelpTOCNode Title="ImageCore - конструктор" Url="html/a2cc3f00-943c-18ff-6da6-33459a318b80.htm" />
+      <HelpTOCNode Title="ImageCore - свойства" Url="html/2c61224a-320e-720c-ad5b-7142d598498a.htm" />
+      <HelpTOCNode Id="03da0cdc-60af-4018-a429-3c8fb5d1a0e2" Title="ImageCore - методы" Url="html/56d9be6c-ee39-2126-75bf-3376a860fc6e.htm">
+        <HelpTOCNode Id="48aa9992-7c9d-4e4e-92af-2c9b7adc7bb9" Title="ProcessImage - метод" Url="html/d70e782e-b804-f2fb-079c-1b6a4440d271.htm">
+          <HelpTOCNode Title="ProcessImage(IImageMatrix, Int32, CancellationToken) - метод" Url="html/e80c3532-1a67-6abe-1d17-a14b6f1777c6.htm" />
+          <HelpTOCNode Title="ProcessImage(Bitmap, Int32, CancellationToken) - метод" Url="html/f8de59f5-8bef-922f-71a2-2e8199ef95e7.htm" />
+          <HelpTOCNode Title="ProcessImage(String, Int32, CancellationToken) - метод" Url="html/a5acb166-8c84-2c2d-41e6-cdd70c7012f1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="90001ec6-39e6-4fc1-9d7e-ae8679f420e6" Title="ProcessImageAsync - метод" Url="html/95e4bacb-fa23-501e-2adc-3c98d8699cb5.htm">
+          <HelpTOCNode Title="ProcessImageAsync(IImageMatrix, Int32, CancellationToken) - метод" Url="html/86de877d-a6ab-8201-d65c-061d82663675.htm" />
+          <HelpTOCNode Title="ProcessImageAsync(Bitmap, Int32, CancellationToken) - метод" Url="html/b12ed571-5d8e-57e8-ec37-dc80c7323597.htm" />
+          <HelpTOCNode Title="ProcessImageAsync(String, Int32, CancellationToken) - метод" Url="html/043bc7ec-091f-6b1a-78c5-96c61e9527d8.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ProcessImageByVariants - метод" Url="html/7759dccd-3abb-e65e-7add-4decad2dd089.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="85ed99f5-dd8a-4edc-8f91-514d50b3ac71" Title="ImageCoreExtensions - класс" Url="html/2b4f57bb-b91d-8628-7953-265dba5838bc.htm">
+      <HelpTOCNode Id="9ed11117-3506-472a-a3ca-862f008fac70" Title="ImageCoreExtensions - методы" Url="html/3261f08a-9fd5-b9f3-c75f-d9fe8deb8daf.htm">
+        <HelpTOCNode Title="ShowCaptureAreaAndPlateSizeSetupForm - метод" Url="html/b14bca96-a6bb-bae9-ddb8-035e840c408e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ac7e7230-a840-4594-9d6c-5cf671d5e82f" Title="ImageCoreInitializationParameters - класс" Url="html/5215cb7c-0cb3-2030-288d-88b6ced0b254.htm">
+      <HelpTOCNode Title="ImageCoreInitializationParameters - конструктор" Url="html/de03fa7d-c3bc-bd1b-a95a-aa913fdde73f.htm" />
+      <HelpTOCNode Id="a85d0388-3c88-46f5-bcd4-e4e305787199" Title="ImageCoreInitializationParameters - свойства" Url="html/bda491e9-b573-60ca-9687-b7f60540fe55.htm">
+        <HelpTOCNode Title="ImageProcessChannelCount - свойство" Url="html/24ea057b-29c3-c646-55a3-465d090f4143.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6a31cea0-6a8a-49f2-bb24-4ee17e70c03c" Title="LicenseInfo - класс" Url="html/41c89417-4e35-5a9d-3870-dcbf9d7022b0.htm">
+      <HelpTOCNode Id="2e5cee4c-e0e8-4e76-913e-6fea745090be" Title="LicenseInfo - свойства" Url="html/6565c783-f962-76b7-d65b-a049d808c2c7.htm">
+        <HelpTOCNode Title="ImageProcessChannelCount - свойство" Url="html/ea163e34-8314-371b-f8e9-8585a5dd2a53.htm" />
+        <HelpTOCNode Title="Owner - свойство" Url="html/78276377-0876-f5dc-fed0-b7fa232faaa7.htm" />
+        <HelpTOCNode Title="Speed - свойство" Url="html/ce98d199-8eb6-400d-ff80-96e956547b09.htm" />
+        <HelpTOCNode Title="VideoOnlyViewChannelCount - свойство" Url="html/fb3bdb74-531d-b8b6-a866-e1d388acd895.htm" />
+        <HelpTOCNode Title="VideoProcessChannelCount - свойство" Url="html/06c832aa-59fb-3981-e19f-795798a97749.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0488d32a-f8f7-4a12-ac1c-ae287a976894" Title="LicenseInfo - методы" Url="html/c2da67ef-5877-f075-99bd-3c6addf5443f.htm">
+        <HelpTOCNode Title="ToString - метод" Url="html/5b88e37e-7ec2-eab0-5baf-a641f6eeeb26.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="MovementDirection - перечисление" Url="html/01832ec4-d1ec-1ade-377a-2ec812e1a2d9.htm" />
+    <HelpTOCNode Id="a58d6a0a-58b7-4907-a2ae-37344cd2dec0" Title="NumberRecognizedEventArgs - класс" Url="html/47a62179-bab3-7c15-4618-5e6f873d4023.htm">
+      <HelpTOCNode Title="NumberRecognizedEventArgs - конструктор" Url="html/8d04656c-4054-9f36-edef-5efe8a35147b.htm" />
+      <HelpTOCNode Id="a461c8b1-3ac2-482e-a340-07405de240a0" Title="NumberRecognizedEventArgs - свойства" Url="html/3e5bfa78-d0cb-1eb9-45ac-50aa551a0c5b.htm">
+        <HelpTOCNode Title="Channel - свойство" Url="html/e422e801-fd34-3c73-56c7-b94f739b49a7.htm" />
+        <HelpTOCNode Title="EventId - свойство" Url="html/4ae2cf40-130b-0ae0-b8e8-31fc3bda3b79.htm" />
+        <HelpTOCNode Title="Matrix - свойство" Url="html/48df8b68-b030-7f9e-57fe-b3991b09b3a4.htm" />
+        <HelpTOCNode Title="Number - свойство" Url="html/73cb3a41-073b-24a1-c883-98c0a6018617.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="552b5a20-b891-491b-9ca8-e044de3f0595" Title="PlateNumber - класс" Url="html/32a9f62f-82c7-f7ca-5f55-1fb694756b18.htm">
+      <HelpTOCNode Id="2ac8eccd-86c2-4c69-b25b-17a6d673d0a1" Title="PlateNumber - свойства" Url="html/febbd018-b7ed-4fe0-9666-eda7c2cc100e.htm">
+        <HelpTOCNode Title="BestFrameTimeStamp - свойство" Url="html/21ddb1d5-60e9-9291-3aae-ba67deabc89f.htm" />
+        <HelpTOCNode Title="NumberType - свойство" Url="html/b049977c-e00c-82fa-f10f-608983c22c09.htm" />
+        <HelpTOCNode Title="Reliability - свойство" Url="html/76184a15-beca-1d3b-26cc-094e520e0e80.htm" />
+        <HelpTOCNode Title="Text - свойство" Url="html/51ee2045-a609-fc0a-118c-66a443c643d9.htm" />
+        <HelpTOCNode Title="Zone - свойство" Url="html/0d970621-85c0-1909-d02f-3ed11080f29d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="32a51e2d-bd0f-448f-8373-fe3668bf0880" Title="PlateNumber - методы" Url="html/b02647ff-4d6a-364b-9bdc-5dc2c9682cad.htm">
+        <HelpTOCNode Title="ToString - метод" Url="html/38b9f4ea-1876-dfe2-ab86-6ea99e39f8bb.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="ProcessingStrategy - перечисление" Url="html/c7f11a08-b956-1ebd-e8e5-0baf8082a04b.htm" />
+    <HelpTOCNode Id="4013dcd7-cf8d-4e3d-a120-e91e259a38e1" Title="RangeSetting(T) - класс" Url="html/2910bd38-cc50-a5e9-0b85-00e9fafb978e.htm">
+      <HelpTOCNode Id="61cee1ab-35c1-4c46-adcf-ea6e9d601f44" Title="RangeSetting(T) - свойства" Url="html/840c18cf-03de-abc8-6123-5a855e944824.htm">
+        <HelpTOCNode Title="Maximum - свойство" Url="html/7b1fb871-99c7-e459-6383-4a0acd39bdd5.htm" />
+        <HelpTOCNode Title="Minimum - свойство" Url="html/efd870c5-7d10-bb11-2acb-eb5584ccb5a9.htm" />
+        <HelpTOCNode Title="Step - свойство" Url="html/4915932f-5796-8c11-c0a6-e5eac8d3eacb.htm" />
+        <HelpTOCNode Title="Value - свойство" Url="html/3aada5bd-94c7-5fc7-b627-2dcfb8bac578.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6003ed15-34d0-44f8-85af-f372563ed520" Title="RangeSetting(T) - методы" Url="html/1e5007de-e20a-081b-4d60-4dc336552788.htm">
+        <HelpTOCNode Title="GetMaximum - метод" Url="html/476a81e7-6cec-ad9f-04a7-5aafcc9390ed.htm" />
+        <HelpTOCNode Title="GetMinimum - метод" Url="html/39b6d0c1-1a99-8979-77c1-85cef454c97a.htm" />
+        <HelpTOCNode Title="GetStep - метод" Url="html/d95f9a86-634f-caf8-733b-cdd876917365.htm" />
+        <HelpTOCNode Title="ToString - метод" Url="html/2ee9bb8d-23df-1f28-1495-b5a2bd75ccc5.htm" />
+        <HelpTOCNode Title="ValidateValue - метод" Url="html/ba46e555-c420-c8c1-1ca6-a2693d707e86.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9f2b58b1-2b8f-4a84-82e6-a0e489b58cfe" Title="RangeSetting(T) - события" Url="html/1875c8f2-fd00-db3a-104a-3bc8c9c5e362.htm">
+        <HelpTOCNode Title="MinMaxChanged - событие" Url="html/da7b8a86-c703-411e-1219-20027951d702.htm" />
+        <HelpTOCNode Title="StepChanged - событие" Url="html/e367c97a-c769-a6a3-a200-7d995f6607d0.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d84180d1-c4f2-4bb0-a85a-2e8018301845" Title="Roi - структура" Url="html/262429f5-c169-d506-9f23-8cc61f10759c.htm">
+      <HelpTOCNode Id="6b630133-14ac-4eb4-ba60-e0d68ba7f5de" Title="Roi - свойства" Url="html/f5a5bea3-65a4-7f72-2f76-c8bb65fe3be0.htm">
+        <HelpTOCNode Title="Points - свойство" Url="html/33b007ce-2194-cbaf-ea60-36c0e0d9735b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="91f4cbed-6fa0-4f89-9c3d-463838c7d631" Title="Setting(T) - класс" Url="html/76bcfcc2-d123-a60f-de58-e3e65126f7c7.htm">
+      <HelpTOCNode Id="f429cec2-36e2-470c-8cf4-7f5d433e0784" Title="Setting(T) - конструктор" Url="html/f045faf4-46a8-0cda-83ad-a669ce4a459c.htm">
+        <HelpTOCNode Title="Setting(T)(SettingMetadata`1(T)) - конструктор" Url="html/91c7a048-8e8b-4545-2675-4dcd284ef773.htm" />
+        <HelpTOCNode Title="Setting(T)(String, String, SettingCategory, Boolean, T) - конструктор" Url="html/c1006d26-0189-56d2-e372-d1d5faac94c0.htm" />
+        <HelpTOCNode Title="Setting(T)(ISettingValueStorage`1(T), String, String, SettingCategory, Boolean, T) - конструктор" Url="html/f5915e5c-36b5-c488-1332-a0b20e6b468e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Setting(T) - свойства" Url="html/24c4902a-fd6c-c37e-69c6-fee9246497ca.htm" />
+      <HelpTOCNode Id="2692301f-0fe9-44d9-92d7-330ad8b5476b" Title="Setting(T) - методы" Url="html/b4be6de9-a31f-3f3a-4568-c207a369762e.htm">
+        <HelpTOCNode Title="ValidateValue - метод" Url="html/0ac17d5b-8848-e7e7-7672-131abb960d70.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Setting(T) - события" Url="html/bf9c16cd-91a5-767c-a99a-1e237cd38409.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="4ecc5acd-9c9a-4eda-86c4-250cf24365c3" Title="Settings - класс" Url="html/724ba2bd-56df-8c51-8ab8-4848297280db.htm">
+      <HelpTOCNode Id="56f3b852-20a9-49be-a990-364ace44946a" Title="Settings - свойства" Url="html/cf6c98fc-79c4-d320-07a8-ea5102b29e0a.htm">
+        <HelpTOCNode Title="Item - свойство" Url="html/9fa92661-7fa1-9a41-7335-68cad038b16e.htm" />
+        <HelpTOCNode Title="Models - свойство" Url="html/9e85204d-6775-1e6d-ed86-6de3ba65459b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="947c5c1c-cbd3-4ca7-8a3e-399c3f199698" Title="Settings - методы" Url="html/413d3fa3-160d-728e-b3de-93a3afb07965.htm">
+        <HelpTOCNode Title="Apply - метод" Url="html/a123ac9b-62fa-bcc7-67ee-cf74514da612.htm" />
+        <HelpTOCNode Title="Channel - метод" Url="html/9b88bbc4-c710-c790-bcaf-4c588d983f6d.htm" />
+        <HelpTOCNode Title="SetDefaults - метод" Url="html/b335fb1d-f582-571f-09d8-31b306d9cf76.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="TrialDelegate - делегат" Url="html/a67a1876-f24d-c971-69f3-b98101a0561b.htm" />
+    <HelpTOCNode Title="TrialState - перечисление" Url="html/b08cf0a4-8043-118b-52a2-3479a627a883.htm" />
+    <HelpTOCNode Id="599c6c9e-b9d3-4bfb-a3bd-91ad5037981b" Title="VideoChannelSettings - класс" Url="html/e9c16317-8a46-c70d-6253-3004e99076b2.htm">
+      <HelpTOCNode Id="dd436c35-fa1a-4ce0-8d38-91dc2ba9fb8d" Title="VideoChannelSettings - свойства" Url="html/d4486326-98aa-8a5b-4647-68ebe5748b59.htm">
+        <HelpTOCNode Title="BlockByPrevDecisionMode - свойство" Url="html/6d868942-5303-3864-3dc0-3ff0a0c9feef.htm" />
+        <HelpTOCNode Title="BlockDirectionDown - свойство" Url="html/34fc74ad-23ff-b984-cf09-c1d86912db8e.htm" />
+        <HelpTOCNode Title="BlockDirectionUndefined - свойство" Url="html/40f0199e-7fbf-4609-56e7-b135f483ae97.htm" />
+        <HelpTOCNode Title="BlockDirectionUp - свойство" Url="html/fcfff71b-fd0d-9db0-4cba-c232ef66bc57.htm" />
+        <HelpTOCNode Title="CoefMaxThreshold - свойство" Url="html/4d135e4e-fc6e-a37a-1488-92f346498bae.htm" />
+        <HelpTOCNode Title="CoefMinThreshold - свойство" Url="html/43bbcd08-8c17-6506-9359-495ed61760dc.htm" />
+        <HelpTOCNode Title="DecisionKeepTimeout - свойство" Url="html/da01cf0b-0065-66aa-43dc-ad2d4df1b542.htm" />
+        <HelpTOCNode Title="DecisionTimeout - свойство" Url="html/353ac0de-91b6-de74-98c0-95aad29769c4.htm" />
+        <HelpTOCNode Title="FrameNumberFromDetectMotion - свойство" Url="html/38352210-d6ef-9df3-7efc-81766ce9a383.htm" />
+        <HelpTOCNode Title="FrameQueueSize - свойство" Url="html/47eaebad-1a06-e504-ca00-1c6c8377aac1.htm" />
+        <HelpTOCNode Title="IsColorImageEnabled - свойство" Url="html/72525a09-e105-5fe3-3cf3-75ac09023874.htm" />
+        <HelpTOCNode Title="IsProcessAllMatrixes - свойство" Url="html/663dd428-9903-8ebe-f03b-4f142bcc1dec.htm" />
+        <HelpTOCNode Title="LocalizationBrightStep - свойство" Url="html/41a18b2d-1752-73fd-ddde-d2ccab192de5.htm" />
+        <HelpTOCNode Title="MakeUnrecogDecisionByMotion - свойство" Url="html/5778e582-bf9f-43f6-94ff-b3d841031c76.htm" />
+        <HelpTOCNode Title="MaxAllowedUnrecognizedChars - свойство" Url="html/adf58571-227f-48aa-1ac0-6f9a317bb694.htm" />
+        <HelpTOCNode Title="MaxDecisionFrames - свойство" Url="html/a70c6d37-78bd-81d3-b4de-7a7962ca6a88.htm" />
+        <HelpTOCNode Title="MaxPlateSize - свойство" Url="html/e5ab4ad0-4fbc-18cc-fa8e-a02d569e973c.htm" />
+        <HelpTOCNode Title="MaxProbDifference - свойство" Url="html/b4d3cca7-9196-1aca-51f2-da4fe297d3c3.htm" />
+        <HelpTOCNode Title="MinDecisionFrames - свойство" Url="html/43ee266f-8c54-6c04-0c4e-2fc406a04cda.htm" />
+        <HelpTOCNode Title="MinDecisionThreshold - свойство" Url="html/c796a66d-b854-58bf-d178-0b1aee340591.htm" />
+        <HelpTOCNode Title="MinPlateSize - свойство" Url="html/daf3ffbf-dea9-0dfa-4d60-75d2c251dd2d.htm" />
+        <HelpTOCNode Title="MinUnrecogDecisionFrames - свойство" Url="html/e4dae7f5-fef1-4de7-dd18-4e89c1a61cef.htm" />
+        <HelpTOCNode Title="MotionDetectMethod - свойство" Url="html/a66e183d-ae37-a4d3-3d4c-6682eb239a4e.htm" />
+        <HelpTOCNode Title="MotionTimeout - свойство" Url="html/2631430d-48fb-9c6f-58d1-f063e1b08f04.htm" />
+        <HelpTOCNode Title="ProcessStrategy - свойство" Url="html/4148cf00-1f78-7b61-a90f-24dcfc1a6d20.htm" />
+        <HelpTOCNode Title="RealZoneSizeMode - свойство" Url="html/e5a2d313-6ec7-2be3-1a27-173e3e3d085d.htm" />
+        <HelpTOCNode Title="RecognitionBrightStep - свойство" Url="html/6a89375d-cf30-0ad3-d77e-f5a837052914.htm" />
+        <HelpTOCNode Title="VideoSourceCyclicReconnection - свойство" Url="html/9c7ed928-d23b-f20a-c8f4-09bbcff8c11b.htm" />
+        <HelpTOCNode Title="VideoSourceCyclicReconnectionTimeout - свойство" Url="html/d4526e07-fa13-7171-ba15-f26171800570.htm" />
+        <HelpTOCNode Title="VideoSourceReconnection - свойство" Url="html/e845fbaa-90c7-d8f0-ffd1-e1b95ed2ec21.htm" />
+        <HelpTOCNode Title="VideoSourceReconnectionTimeout - свойство" Url="html/7b423d19-92ab-0509-af9a-a99d572dfcac.htm" />
+        <HelpTOCNode Title="VideoSourceUpdateMatrixTimeout - свойство" Url="html/3ee50330-f3d9-338e-7d29-8bd9e762f26b.htm" />
+        <HelpTOCNode Title="ZoneSearchMethod - свойство" Url="html/2cb1290e-677a-8cbd-dcdb-6da1e20d0acd.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="03a32eb6-0607-4a2f-82e1-319e2dd1c492" Title="VideoChannelSettings - методы" Url="html/ea25e31b-7450-b66e-2002-bfd173412a89.htm">
+        <HelpTOCNode Title="Apply - метод" Url="html/9d87f734-35f1-4ec7-f921-747222f20890.htm" />
+        <HelpTOCNode Title="Reload - метод" Url="html/33493070-cee2-a352-ae24-54e389cf8f54.htm" />
+        <HelpTOCNode Title="SetDefaults - метод" Url="html/48c66b1c-49e8-653a-548e-2047d10efd1d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8d39400f-7c7f-41b0-a81d-2d564463f90c" Title="VideoChannelSettings - поля" Url="html/cb0c48ec-faf7-dcd5-345e-8e6edf673057.htm">
+        <HelpTOCNode Title="Roi - поле" Url="html/1dd0d9dd-b18e-b4e7-3ef9-2cd69e5a29bc.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7b64602f-e904-4c04-911a-e81cc2b48287" Title="VideoCore - класс" Url="html/cb693d57-5030-3855-e4bc-6cd1f1721585.htm">
+      <HelpTOCNode Title="VideoCore - конструктор" Url="html/5a956ccd-04b0-6cf3-0841-59535c92e850.htm" />
+      <HelpTOCNode Id="3d97b5f3-4184-4944-9d2b-b91512668fe8" Title="VideoCore - свойства" Url="html/6122efcb-cafb-4505-b15b-bf8dcdf8ed89.htm">
+        <HelpTOCNode Title="VideoManager - свойство" Url="html/4d86c14c-8286-b37a-720f-e38051027d45.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="11c7f1ff-3e34-4b62-9f3b-493d50bfaf62" Title="VideoCore - методы" Url="html/c9b0e0f5-bcd9-de8f-7e7c-ea4f348aa0e4.htm">
+        <HelpTOCNode Title="CreateMultiVideoForm - метод" Url="html/154ade6a-5e17-e196-6795-5c78a95adfc0.htm" />
+        <HelpTOCNode Title="GetSetupControls - метод" Url="html/4dd4d4b6-0071-cb1e-d47e-3dff635310a0.htm" />
+        <HelpTOCNode Title="Initialize - метод" Url="html/c5ff2c3d-8466-5d39-6751-ed38042e3e3a.htm" />
+        <HelpTOCNode Title="ProcessFrame - метод" Url="html/fe6a2274-69ec-dcc8-56ad-97ee7a42ec94.htm" />
+        <HelpTOCNode Id="6902e921-fc16-4ca4-83f6-cd6ca6b54f49" Title="SetupTransformation - метод" Url="html/62090baa-8c4e-837d-aa1b-01098ccca321.htm">
+          <HelpTOCNode Title="SetupTransformation(IVideoChannel, IWin32Window) - метод" Url="html/008477e3-434a-79cc-1176-86ca3a6061c4.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ShowAlgsSetupForm - метод" Url="html/6d854ccf-6491-6d6f-a525-ec112fdd5efb.htm" />
+        <HelpTOCNode Title="Start - метод" Url="html/15ba9417-ccdb-58ec-8a3e-4131e25ca929.htm" />
+        <HelpTOCNode Title="Stop - метод" Url="html/6eb29f35-e28e-ea21-94e3-0633cde91053.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6a3082bc-1a90-455f-b17d-b6f9958ddad7" Title="VideoCore - события" Url="html/6e6c9088-43f1-7ba1-23e6-9b1178fc9574.htm">
+        <HelpTOCNode Title="MotionDetected - событие" Url="html/a7304e23-7fb0-4171-34d7-4b9b9ce8db15.htm" />
+        <HelpTOCNode Title="NumberRecognized - событие" Url="html/2ad4e0b3-cff0-e72d-e7f6-123da0a8f5c5.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ebbc76c4-e52a-4ca1-94fc-65e5f3a02a79" Title="VideoCoreExtensions - класс" Url="html/773c337b-ef08-3750-20b3-f98e5e62a721.htm">
+      <HelpTOCNode Id="d3ecc748-9f66-44fd-b1d2-a8638e22668a" Title="VideoCoreExtensions - методы" Url="html/74a22c39-9e3f-d412-e1f6-21be060e38ae.htm">
+        <HelpTOCNode Title="RegisterImage - метод" Url="html/cd2e8377-5ae7-1e3b-bfbe-050591f2732b.htm" />
+        <HelpTOCNode Title="ShowSetupForm - метод" Url="html/7f98fb01-744b-3429-f10d-56d5958ba487.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1adf1c6e-b4d1-4917-88e5-807997f06f8b" Title="VideoCoreInitializationParameters - класс" Url="html/5028043f-0656-071f-d1d4-743d7fca7262.htm">
+      <HelpTOCNode Title="VideoCoreInitializationParameters - конструктор" Url="html/b73d2c1b-fffb-77d4-199a-7b4a639b561e.htm" />
+      <HelpTOCNode Id="a2a5c660-4f2c-480e-95aa-9bc830cb8cf9" Title="VideoCoreInitializationParameters - свойства" Url="html/79b6251c-b89e-ab38-7bea-bd2338b398ce.htm">
+        <HelpTOCNode Title="LookupVideoSources - свойство" Url="html/7dffd603-5136-10af-c27b-8c86031d6f6b.htm" />
+        <HelpTOCNode Title="VideoOnlyViewChannelCount - свойство" Url="html/19652ae3-5619-8546-42d3-8d655d79c46d.htm" />
+        <HelpTOCNode Title="VideoProcessChannelCount - свойство" Url="html/baec472f-2ff5-9785-3025-352d740a291c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="ZoneSearchMethod - перечисление" Url="html/05029b8e-22de-4f01-f25c-62d4cffe66f1.htm" />
+    <HelpTOCNode Title="ZoneSizeMode - перечисление" Url="html/82273c1b-6a19-b744-1029-545901b3b113.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="78fac59c-bafd-49dc-b773-f38125256a28" Title="Recar2.AddIn" Url="html/96a2666c-3296-a881-fb0f-9d8f97e17c76.htm">
+    <HelpTOCNode Id="b06fb8ab-a67e-4574-b9ff-0cb9ade039a1" Title="IAsyncEvent - интерфейс" Url="html/6e0a93bb-8e0c-5314-3c8e-1ca99f0e1d6d.htm">
+      <HelpTOCNode Id="479d6c36-8aeb-4e2a-bd6b-52321fce345f" Title="IAsyncEvent - методы" Url="html/1a798162-637d-9275-b1e6-ded751715e5c.htm">
+        <HelpTOCNode Title="CleanBuffer - метод" Url="html/b9f54e05-9405-e7a7-c30d-92027d31c4f3.htm" />
+        <HelpTOCNode Title="ExternalEvent - метод" Url="html/f972eefa-62e2-2405-50f8-1dda82e824f3.htm" />
+        <HelpTOCNode Title="GetEventBufferDepth - метод" Url="html/ee0e5f8d-0c94-0e04-4b45-085a185f77d6.htm" />
+        <HelpTOCNode Title="SetEventBufferDepth - метод" Url="html/8837d8c2-7c30-df1d-5c8c-bf34fc16b5b4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9c63f2a2-ed22-4a19-928a-70ec40a6798a" Title="IInitDone - интерфейс" Url="html/e60796ec-d119-a247-2543-b527ace0c062.htm">
+      <HelpTOCNode Id="c5f8b0e2-9211-41b1-a9a5-b97aa37dee88" Title="IInitDone - методы" Url="html/6686583a-416e-dc99-266e-5ab59d2f039b.htm">
+        <HelpTOCNode Title="Done - метод" Url="html/c3a2f123-5e53-712d-f7bd-3314f4b191c5.htm" />
+        <HelpTOCNode Title="GetInfo - метод" Url="html/e6325a88-4479-5077-1315-b6f2f1423f4a.htm" />
+        <HelpTOCNode Title="Init - метод" Url="html/f90163d0-ab26-a4f0-2937-6b74a731856e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="43ec06b0-176d-42ba-be90-674f7680a50f" Title="IStatusLine - интерфейс" Url="html/071d8471-4e35-d07d-5776-14b75f6182dd.htm">
+      <HelpTOCNode Id="6473cd00-492a-4dc6-86fb-64b0be400be5" Title="IStatusLine - методы" Url="html/8afc9183-0d38-7738-4430-dc4dcd51c6f5.htm">
+        <HelpTOCNode Title="ResetStatusLine - метод" Url="html/857864bd-0e95-2831-a0ea-e15a4e682c8c.htm" />
+        <HelpTOCNode Title="SetStatusLine - метод" Url="html/d04d5adf-a811-011b-8074-bfb0662edf3a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="7eeb8751-2bd7-4282-b400-f145ed2af41d" Title="Recar2.Com" Url="html/68726a4f-5108-9c67-8918-cc6a6e73f216.htm">
+    <HelpTOCNode Id="ae4aeee3-f96e-49e2-a4e1-bbdf95c0abc5" Title="_IVideoCoreEvents - интерфейс" Url="html/18c6bc37-a43c-4f41-ff45-e3ffc58ea60c.htm">
+      <HelpTOCNode Id="a86ca9bb-bbfd-434b-8ce6-a5add448fde5" Title="_IVideoCoreEvents - методы" Url="html/ade92f08-ef74-fe0e-1476-dbd9056e06dd.htm">
+        <HelpTOCNode Title="NumberRecognized - метод" Url="html/e85079e4-7fe8-f8c2-697c-c1a0d2de0568.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="59adaa88-09d1-4e5f-ae52-29ced56a8a21" Title="IPlatesList - интерфейс" Url="html/6668be4e-1a4a-8add-41fc-84c2bba3586a.htm">
+      <HelpTOCNode Id="3369d927-a8cf-4869-91f6-e2d1bdea3e69" Title="IPlatesList - свойства" Url="html/ef945cf6-acd6-0e40-1d05-2a6dba737cad.htm">
+        <HelpTOCNode Title="Length - свойство" Url="html/50db43f2-3029-081d-54ec-0357ff54bea0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="befd6e2c-269f-41f8-bfa0-f5ae7bd456bb" Title="IPlatesList - методы" Url="html/9687ac56-5627-eacd-526c-64ce39e88e55.htm">
+        <HelpTOCNode Title="GetPlate - метод" Url="html/1dcd63d4-daa4-d100-68db-1ebc9fde9a4f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="613a8dc3-7541-4dc4-a9c9-d5d78da6da14" Title="IRecarSolution - интерфейс" Url="html/c8fc0f66-db11-9b96-5b94-03633ffca39e.htm">
+      <HelpTOCNode Id="5be32f99-5f45-48af-80d7-8144465140fd" Title="IRecarSolution - свойства" Url="html/5c32cf2d-70cf-11a9-dd5a-1f748a78607e.htm">
+        <HelpTOCNode Title="CameraId - свойство" Url="html/ed220c27-39ce-70dd-c05c-32206bd00902.htm" />
+        <HelpTOCNode Title="EventId - свойство" Url="html/a62b17cc-c228-67e9-6316-306e9d8beb18.htm" />
+        <HelpTOCNode Title="ImageFileName - свойство" Url="html/40f699be-8b3c-6359-8a46-7da3d1ffa923.htm" />
+        <HelpTOCNode Title="MovementDirection - свойство" Url="html/f226594a-ef9f-161f-daf6-bf99f8dc9155.htm" />
+        <HelpTOCNode Title="Number - свойство" Url="html/fb96e5b8-a6e9-4ddd-bcf3-7aedb8c72bdc.htm" />
+        <HelpTOCNode Title="NumberType - свойство" Url="html/b4c5c7eb-0dc5-31e4-e41b-ec8f49e8f954.htm" />
+        <HelpTOCNode Title="TimeStamp - свойство" Url="html/748270fc-8842-9d18-2491-d536fd41a512.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2387ca32-01d4-4a6b-b950-f829a79f79bb" Title="IRecarSolution - методы" Url="html/636b7846-bca7-74e9-1bcc-6f60598920b7.htm">
+        <HelpTOCNode Title="SaveImageToFile - метод" Url="html/2d34bf12-c079-c956-76e9-17271a4c3d87.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a70974c7-dc1d-44a5-ade2-775f5d4514aa" Title="IVideoChannel - интерфейс" Url="html/56c8fb91-c4ca-188b-b3b2-11193d12b7b6.htm">
+      <HelpTOCNode Id="3687f280-90a5-4a4f-8581-15f5d75d4a5a" Title="IVideoChannel - свойства" Url="html/589ab4a5-30ca-6239-dec9-9f1395807b62.htm">
+        <HelpTOCNode Title="Id - свойство" Url="html/391497c4-7c8c-b314-004d-8f1e3a193110.htm" />
+        <HelpTOCNode Title="IsProcess - свойство" Url="html/3cab36fc-4f5b-8b72-551c-5033b78e9a7e.htm" />
+        <HelpTOCNode Title="IsWorking - свойство" Url="html/60d3223e-8443-4414-3b1e-5ab9884c70e7.htm" />
+        <HelpTOCNode Title="Name - свойство" Url="html/cb974d7c-8991-982d-9833-dd5a9afddc7c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bf03d432-eb6d-4d44-9de9-0ce2e7932f1e" Title="IVideoChannel - методы" Url="html/1ae64823-8f9e-5e1a-6b1b-22fff6c91a1a.htm">
+        <HelpTOCNode Title="DispatchVideoFrame - метод" Url="html/56a862df-ebb3-16b9-a7cd-733766ff9a27.htm" />
+        <HelpTOCNode Title="SaveCurrentImage - метод" Url="html/c7e2d9aa-0b67-2833-148b-9b34fd3a178d.htm" />
+        <HelpTOCNode Title="SetMotionState - метод" Url="html/e1a9adbc-6cee-9c38-4db4-66c766daed03.htm" />
+        <HelpTOCNode Title="SetupAlgs - метод" Url="html/8336fa07-2cc2-690b-f169-64888ad8a76a.htm" />
+        <HelpTOCNode Title="SetupTransformation - метод" Url="html/84928329-e973-d067-2cae-0326eda0c656.htm" />
+        <HelpTOCNode Title="SetupVideoSource - метод" Url="html/53aabb6c-a078-b557-9852-22114f9f7283.htm" />
+        <HelpTOCNode Title="SetVideoSource - метод" Url="html/44ceef02-fd9f-ecfa-584f-766655703a94.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="88aee32c-2c49-431d-ac34-4ed7e2d55b62" Title="IVideoCore - интерфейс" Url="html/d95812bc-cb61-9b62-2a15-f86fcfc2ed7a.htm">
+      <HelpTOCNode Id="27426e4e-0acc-41be-9e78-d92e3aaa11ae" Title="IVideoCore - свойства" Url="html/46da8705-a1e9-cf56-0624-8a33bf9df6f3.htm">
+        <HelpTOCNode Title="ConfigFilename - свойство" Url="html/2487d5df-2dd3-2ed7-6680-ded5b55e5596.htm" />
+        <HelpTOCNode Title="ConvertPlateToCapsLatin - свойство" Url="html/42168483-a886-122b-340c-5823bf82347e.htm" />
+        <HelpTOCNode Title="ImageStorageEnabled - свойство" Url="html/3b71bf4d-1843-cd10-2eda-93e23df06c06.htm" />
+        <HelpTOCNode Title="ImageStoragePath - свойство" Url="html/1a2f588d-f66b-26b3-2e2f-b56c5c0d86f2.htm" />
+        <HelpTOCNode Title="IsInitialized - свойство" Url="html/44e99496-a24e-3a92-e352-11484bdcc75d.htm" />
+        <HelpTOCNode Title="LogDirectory - свойство" Url="html/d683dd67-6ed2-ab43-09f4-dedc7cf133de.htm" />
+        <HelpTOCNode Title="UseIntegratedLogSubsystem - свойство" Url="html/b047d52f-84f2-ad19-aa8a-ef0d7dd7bb06.htm" />
+        <HelpTOCNode Title="VideoOnlyViewChannelCount - свойство" Url="html/851658bf-4209-a9f9-3eb3-8f71294dac7f.htm" />
+        <HelpTOCNode Title="VideoProcessChannelCount - свойство" Url="html/450ae9b5-3d3f-2cba-ca8d-b1359b961769.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0e035b58-cd33-4f6f-813f-2e5e5681f69e" Title="IVideoCore - методы" Url="html/2d8de633-a55d-b80b-2c8c-04b0067accb7.htm">
+        <HelpTOCNode Title="AllowTrial - метод" Url="html/bbe363e1-7bc0-1b53-ae17-d0d66b52416c.htm" />
+        <HelpTOCNode Title="DispatchVideoFrame - метод" Url="html/c9311895-9223-07d6-175f-a8efbe231dbe.htm" />
+        <HelpTOCNode Title="Dispose - метод" Url="html/e8d5c88a-a709-b8db-0a96-6cda3a249555.htm" />
+        <HelpTOCNode Title="GetSettingDescription - метод" Url="html/a682857a-4d4b-7582-578f-aeac70a1051d.htm" />
+        <HelpTOCNode Title="GetSettingDisplayNames - метод" Url="html/3009e6d2-4ddd-3561-29ea-2c98ecaf4429.htm" />
+        <HelpTOCNode Title="GetSettingNames - метод" Url="html/b9a2e92c-8f2b-8fb5-e610-308ca002c664.htm" />
+        <HelpTOCNode Title="GetSettingSections - метод" Url="html/cef59738-7a3c-08d3-a8b3-d249d13d551b.htm" />
+        <HelpTOCNode Title="GetSettingValue - метод" Url="html/87b30a95-9ca1-5d4c-cb58-fb66e1ebe4b0.htm" />
+        <HelpTOCNode Title="GetVideoChannel - метод" Url="html/fe89e9ee-f29c-b73e-d7ff-4c03715c9f21.htm" />
+        <HelpTOCNode Title="HideLogForm - метод" Url="html/c24dfe2f-f036-b412-c3f3-49896731d0c5.htm" />
+        <HelpTOCNode Title="Initialize - метод" Url="html/35990361-0fa8-e67f-2737-ed2c510613fe.htm" />
+        <HelpTOCNode Title="LoadSettings - метод" Url="html/64eaa3f0-63c2-a0c8-03b7-462f88132a30.htm" />
+        <HelpTOCNode Title="MakeImageSnapshot - метод" Url="html/2f111fcd-402f-57e8-2e89-a5d1c0dea46f.htm" />
+        <HelpTOCNode Title="RegisterNumberRecognizedCallback - метод" Url="html/948fac03-fe92-c04c-21b5-458b96cbc8d8.htm" />
+        <HelpTOCNode Title="SaveSettings - метод" Url="html/2948e8d2-ae0a-0dbd-6415-a4fdd6831179.htm" />
+        <HelpTOCNode Title="SetMotionState - метод" Url="html/a17402d4-6fd6-b997-6322-97fa462c061a.htm" />
+        <HelpTOCNode Title="SetSettingValue - метод" Url="html/f423d384-b21f-356d-4f88-860cae49b247.htm" />
+        <HelpTOCNode Title="SetVideoFormsLocked - метод" Url="html/67dd0c1e-6e06-2a70-67aa-d6f43a6f80d4.htm" />
+        <HelpTOCNode Title="SetVideoFormsTopMost - метод" Url="html/2ac6e8bd-5104-65bc-45e3-169a2c8be979.htm" />
+        <HelpTOCNode Title="SetVideoFormsVisible - метод" Url="html/f274d1eb-e229-829d-9bd8-2afeb59e1919.htm" />
+        <HelpTOCNode Title="SetVideoSource - метод" Url="html/58936ba6-03b2-600b-94a6-4b13d48e1106.htm" />
+        <HelpTOCNode Title="ShowAlgSetupForm - метод" Url="html/64cc1c08-3977-03ad-98cf-567b7626555f.htm" />
+        <HelpTOCNode Title="ShowLogForm - метод" Url="html/1cbd2509-6be1-e0af-5dce-ef55eb76f450.htm" />
+        <HelpTOCNode Title="ShowSetupForm - метод" Url="html/355ec282-1e84-7400-d65b-cbfc6a11785e.htm" />
+        <HelpTOCNode Title="Start - метод" Url="html/84d8d3ce-770c-c549-5623-ca74c72c87cb.htm" />
+        <HelpTOCNode Title="Stop - метод" Url="html/c0d1f771-b7c0-e824-e383-0e7b3522a33f.htm" />
+        <HelpTOCNode Title="VideoChannelExists - метод" Url="html/2217dd4b-477a-8e37-f7ca-052f261afc21.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="NumberRecognizedHandler - делегат" Url="html/2b87b1bb-0f66-d0a4-4435-ce43596e4229.htm" />
+    <HelpTOCNode Id="ff0ba079-de83-4321-9879-a5e1913f3826" Title="RecarSolution - класс" Url="html/e14aa29d-ef2f-13de-5e80-a958cdec2097.htm">
+      <HelpTOCNode Id="0bec371b-75dc-4f97-b17f-6d3fe2868fea" Title="RecarSolution - свойства" Url="html/d45ed755-8dcc-194e-0b36-24a057953dc1.htm">
+        <HelpTOCNode Title="CameraId - свойство" Url="html/1cc788d2-a1b9-abec-6d77-46be07e1c851.htm" />
+        <HelpTOCNode Title="EventId - свойство" Url="html/2ef78343-5eeb-2874-148c-725de7399c84.htm" />
+        <HelpTOCNode Title="ImageFileName - свойство" Url="html/407c76cf-87ad-363d-771f-4e9f8875220a.htm" />
+        <HelpTOCNode Title="MovementDirection - свойство" Url="html/60057f2c-4cde-157d-b0b6-200f71e9a215.htm" />
+        <HelpTOCNode Title="Number - свойство" Url="html/862d1e7f-d5f7-5b1e-3739-6829fe072eae.htm" />
+        <HelpTOCNode Title="NumberType - свойство" Url="html/2091cbfd-cebd-4929-2528-a1bd57bb5ec4.htm" />
+        <HelpTOCNode Title="TimeStamp - свойство" Url="html/a100e049-f95e-c7d2-8c3c-fa5b39426a69.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="55e9eb93-9acd-475e-9467-781e40c6a362" Title="RecarSolution - методы" Url="html/e4fad8f9-946e-59d5-7155-2ad4792b2e4c.htm">
+        <HelpTOCNode Title="SaveImageToFile - метод" Url="html/e9c2bc8b-42f6-3881-8ced-2548d0f5522e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b14cdad0-569e-4ead-8704-bb57ac729322" Title="VideoCoreCom - класс" Url="html/ccf26244-bb52-2173-a366-1022cb598c45.htm">
+      <HelpTOCNode Title="VideoCoreCom - конструктор" Url="html/54a440d1-1988-fa67-390b-9fe52e36fba1.htm" />
+      <HelpTOCNode Id="51d82918-05d7-46bf-9f78-a1c12dc8daa3" Title="VideoCoreCom - свойства" Url="html/1968f440-990f-bbbd-e86d-a1eaa0aac884.htm">
+        <HelpTOCNode Title="ConfigFilename - свойство" Url="html/6c8c62ea-3525-9635-d1b1-8c15a53e32f8.htm" />
+        <HelpTOCNode Title="ConvertPlateToCapsLatin - свойство" Url="html/37443aa5-b9b9-4a19-08c8-a93d24b9e91a.htm" />
+        <HelpTOCNode Title="ImageStorageEnabled - свойство" Url="html/497b518f-aa74-6e1c-f882-067c3c96f956.htm" />
+        <HelpTOCNode Title="ImageStoragePath - свойство" Url="html/9bb273c5-6dc0-31d1-e0d2-95564d806e58.htm" />
+        <HelpTOCNode Title="IsInitialized - свойство" Url="html/fdd419e2-058e-d2a0-401d-8ad214b3ede8.htm" />
+        <HelpTOCNode Title="LogDirectory - свойство" Url="html/0582cda3-9f2e-2932-ff17-797585a4d78c.htm" />
+        <HelpTOCNode Title="Settings - свойство" Url="html/e4062cc1-35a1-b9cd-dd53-d07d9918dd75.htm" />
+        <HelpTOCNode Title="UseIntegratedLogSubsystem - свойство" Url="html/ac7ce87c-cfc8-7cc6-99e6-bef251d51399.htm" />
+        <HelpTOCNode Title="VideoOnlyViewChannelCount - свойство" Url="html/8583edf7-26cf-7b51-dc3e-dca3128fdecc.htm" />
+        <HelpTOCNode Title="VideoProcessChannelCount - свойство" Url="html/17378201-bc47-a664-c9d3-500e41503db3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c955ea85-3d3f-4308-8438-985fcef7e9a9" Title="VideoCoreCom - методы" Url="html/f8b23342-7919-1574-ff8f-522e6c7e5955.htm">
+        <HelpTOCNode Title="AllowTrial - метод" Url="html/7f777d9a-aec4-aeb5-5f56-d905abd4472d.htm" />
+        <HelpTOCNode Title="DispatchVideoFrame - метод" Url="html/61a169fa-dd20-d3ec-1bb6-959fa5e80f03.htm" />
+        <HelpTOCNode Title="Dispose - метод" Url="html/634a7018-96d9-8d64-a0fd-8543239ae206.htm" />
+        <HelpTOCNode Title="GetSettingDescription - метод" Url="html/312e9eb8-0ae1-b906-bfb0-0de735365fe6.htm" />
+        <HelpTOCNode Title="GetSettingDisplayNames - метод" Url="html/960302ac-d012-3f18-0d77-ebb39cc5fa04.htm" />
+        <HelpTOCNode Title="GetSettingNames - метод" Url="html/ac81fea3-1437-46fc-dc0c-f0c739a398d0.htm" />
+        <HelpTOCNode Title="GetSettingSections - метод" Url="html/18fceafc-47f1-6b69-d612-10da678acbc2.htm" />
+        <HelpTOCNode Title="GetSettingValue - метод" Url="html/3a55a507-ebc6-1b14-5a31-267f1fb6acf5.htm" />
+        <HelpTOCNode Title="GetVideoChannel - метод" Url="html/1f928551-7e2a-f729-6ea1-9240b64d3bc6.htm" />
+        <HelpTOCNode Title="HideLogForm - метод" Url="html/8c176530-15c0-57f1-e1b9-5e8bddd5664c.htm" />
+        <HelpTOCNode Title="Initialize - метод" Url="html/909f247e-00af-635f-67a1-e6f24c988bce.htm" />
+        <HelpTOCNode Title="LoadSettings - метод" Url="html/a34854a1-9f2c-6429-4e7d-c16e3159874d.htm" />
+        <HelpTOCNode Title="MakeImageSnapshot - метод" Url="html/e9feaabd-9778-dade-ebef-0645bb27b371.htm" />
+        <HelpTOCNode Title="RegisterNumberRecognizedCallback - метод" Url="html/80e17681-ccb8-44db-b880-13f0235279bc.htm" />
+        <HelpTOCNode Title="SaveSettings - метод" Url="html/d6bd9d37-2428-cc94-f0cd-929c2f0fe423.htm" />
+        <HelpTOCNode Title="SetMotionState - метод" Url="html/2b837639-9c36-6b36-9664-17421f2b7272.htm" />
+        <HelpTOCNode Title="SetSettingValue - метод" Url="html/5500ea5c-00d4-1c3c-3a80-ec526467127c.htm" />
+        <HelpTOCNode Title="SetVideoFormsLocked - метод" Url="html/4b1a3707-bea4-d1de-700a-2e4423c9a6bf.htm" />
+        <HelpTOCNode Title="SetVideoFormsTopMost - метод" Url="html/e9fed715-e603-6889-39f9-1a2ad937813b.htm" />
+        <HelpTOCNode Title="SetVideoFormsVisible - метод" Url="html/21620465-e71c-516e-f433-b77e1784f6a4.htm" />
+        <HelpTOCNode Title="SetVideoSource - метод" Url="html/c0b4b843-cb4a-358d-c8a7-a6ee8b787369.htm" />
+        <HelpTOCNode Title="ShowAlgSetupForm - метод" Url="html/220a5822-2e3e-2d5e-6c7e-90e8de2bff96.htm" />
+        <HelpTOCNode Title="ShowLogForm - метод" Url="html/d4244fba-3e0a-cffe-62e0-aadcf14d52df.htm" />
+        <HelpTOCNode Title="ShowSetupForm - метод" Url="html/3ce3c2cc-b398-58f2-4471-e56c4f39f655.htm" />
+        <HelpTOCNode Title="Start - метод" Url="html/0e164772-8a42-2f43-8df5-4c58858ef40b.htm" />
+        <HelpTOCNode Title="Stop - метод" Url="html/c927a872-5a4f-800d-b67f-d977cd2388e7.htm" />
+        <HelpTOCNode Title="VideoChannelExists - метод" Url="html/1cff904e-7965-ab96-9919-bebc1d3cc032.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c592f0e5-7e72-49dd-9eca-9d75f733d55c" Title="VideoCoreCom - события" Url="html/edf80f4c-5a20-eeeb-22e1-bcef31974ebb.htm">
+        <HelpTOCNode Title="NumberRecognized - событие" Url="html/c883573e-d448-7e2a-a02c-3b06a38802ff.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="7d319f39-d021-41b9-9066-314194c15f60" Title="Recar2.Internals" Url="html/6da04919-8d63-2c8f-14b3-136fe2e029ba.htm">
+    <HelpTOCNode Id="60a9e3ec-76e9-47b8-8fe4-7d22e2f063f0" Title="BaseCore - класс" Url="html/5d7b3a7d-89fd-7a42-1091-912a0f6d1528.htm">
+      <HelpTOCNode Id="2fe973f2-e0db-43b4-adb8-e55218a284e8" Title="BaseCore - свойства" Url="html/54c28b07-bb15-1603-b7ca-11fc2d756c22.htm">
+        <HelpTOCNode Title="ChannelCount - свойство" Url="html/7d8f4c7a-1b7f-6cd6-3def-e20ae179c5d4.htm" />
+        <HelpTOCNode Title="Channels - свойство" Url="html/25085340-e437-3fe9-5641-a31443ded2d1.htm" />
+        <HelpTOCNode Title="FullVersion - свойство" Url="html/0a07e45f-1a99-cddc-282f-08954c57104f.htm" />
+        <HelpTOCNode Title="LicenseInfo - свойство" Url="html/835f4b5d-54fe-1ee2-10b5-d5ac205cb9dc.htm" />
+        <HelpTOCNode Title="Settings - свойство" Url="html/2dbc41c2-92af-dbd0-1ea7-e47530b767f5.htm" />
+        <HelpTOCNode Title="Version - свойство" Url="html/0f015a00-a7a9-c995-0f07-5e20bdf00754.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="cd28dec7-611f-4854-8365-fb1758c5fd0a" Title="BaseCore - методы" Url="html/efaba846-c897-5f98-5589-2b7d81a1201f.htm">
+        <HelpTOCNode Title="ChannelExists - метод" Url="html/791bf85f-db5f-5b88-d38e-bea1ad3d86f6.htm" />
+        <HelpTOCNode Title="Dispose - метод" Url="html/7dd00cc6-0b34-0ed7-05d4-237fdd964384.htm" />
+        <HelpTOCNode Title="GetChannel - метод" Url="html/f4c5022b-d4b2-17d0-898e-64d9c2b9f838.htm" />
+        <HelpTOCNode Title="Initialize - метод" Url="html/c0709f20-49ca-88bc-25f8-f4af0f845461.htm" />
+        <HelpTOCNode Title="LoadSettings - метод" Url="html/5ba355cc-a8d0-26b2-f98b-6f8e04c0eb8a.htm" />
+        <HelpTOCNode Title="SaveSettings - метод" Url="html/27a8629f-6137-b611-964d-dedc1866cdbe.htm" />
+        <HelpTOCNode Title="SetupTransformation - метод" Url="html/606c89d3-8a8a-2420-6f72-2d25fe454e16.htm" />
+        <HelpTOCNode Title="ShowAlgSetupForm - метод" Url="html/ca8b80f6-e2be-9091-940f-76e62fe445c5.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="65c45030-f840-4ed3-b123-91421284bf8d" Title="BaseCoreInitializationParameters - класс" Url="html/bcb0609a-f3e9-5366-8c3f-78338d44cd0b.htm">
+      <HelpTOCNode Id="81a8aed8-26b2-457d-a270-d69743cacdc6" Title="BaseCoreInitializationParameters - свойства" Url="html/f3286a95-c002-16e4-0a52-e235bb2d57e8.htm">
+        <HelpTOCNode Title="Advanced - свойство" Url="html/0d26e2cc-4020-77f1-0eb3-1c087184cc7c.htm" />
+        <HelpTOCNode Title="ConfigFilename - свойство" Url="html/b47160a9-dd7f-4d48-ea6f-1fb5ff7bcb75.htm" />
+        <HelpTOCNode Title="ConvertPlateToCapsLatin - свойство" Url="html/aac94c99-49cb-c202-bb06-46cd6c6578e4.htm" />
+        <HelpTOCNode Title="LicenseFileLocation - свойство" Url="html/eacb5c29-d708-41d9-07b8-2a662a4c9b2d.htm" />
+        <HelpTOCNode Title="LogDirectory - свойство" Url="html/9fa4524f-2e74-ca4c-a28e-7e09f09642cf.htm" />
+        <HelpTOCNode Title="TrialDelegate - свойство" Url="html/5a24b3fd-2e62-b471-d870-7dcc92272a6f.htm" />
+        <HelpTOCNode Title="UseIntegratedLogSubsystem - свойство" Url="html/3ac16454-e7a8-7054-5815-b5cbc8b3251c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="6be862c9-5cd3-4437-b644-d3ed645bd68c" Title="Recar2.Utility" Url="html/d50c0792-8760-2227-d62c-fe7f043caae9.htm">
+    <HelpTOCNode Id="9bec44b5-8a6e-47e6-bf39-c0ead5e07859" Title="StencilsImagesCreater - класс" Url="html/dc84e1de-15d1-4eab-86c0-761eac727aa6.htm">
+      <HelpTOCNode Title="StencilsImagesCreater - конструктор" Url="html/8cce364c-a2dc-d17f-093a-5a28c953bb10.htm" />
+      <HelpTOCNode Id="506485ff-73b9-41a8-a030-c702e11b0bf5" Title="StencilsImagesCreater - свойства" Url="html/3d42ddb9-98a1-6e7d-d6eb-4b5d3029dbb7.htm">
+        <HelpTOCNode Title="BackColor - свойство" Url="html/0e69ef66-257e-1c32-fbf3-50e44fcfcee5.htm" />
+        <HelpTOCNode Title="ImageFormat - свойство" Url="html/38b34ad8-2d66-daed-a864-0f5eb4023f96.htm" />
+        <HelpTOCNode Title="ImageHeight - свойство" Url="html/b2fad550-e08e-7cd2-fb97-8e8a35162b66.htm" />
+        <HelpTOCNode Title="ImageWidth - свойство" Url="html/07f4fc4c-633f-5aa6-5e65-45a612a7918c.htm" />
+        <HelpTOCNode Title="Opacity - свойство" Url="html/297cf496-4cf8-9a14-343f-85b7364e8da7.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="22c684a5-9bfc-4b69-801f-a27a60cf3601" Title="StencilsImagesCreater - методы" Url="html/21b4b9f2-1151-6529-708e-12dcbfbd2871.htm">
+        <HelpTOCNode Title="SaveImages - метод" Url="html/d43f4a93-9c98-34df-b421-2fda70e1c9fb.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
