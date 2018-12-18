@@ -1,840 +1,749 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpKI>
-  <HelpKINode Title="Activated - член перечисления" Url="html/b08cf0a4-8043-118b-52a2-3479a627a883.htm" />
-  <HelpKINode Title="Advanced свойство" Url="html/0d26e2cc-4020-77f1-0eb3-1c087184cc7c.htm" />
+  <HelpKINode Title="Activated - член перечисления" Url="html/T_Recar2_TrialState.htm" />
   <HelpKINode Title="AllowTrial метод">
-    <HelpKINode Title="IVideoCore.AllowTrial - метод" Url="html/bbe363e1-7bc0-1b53-ae17-d0d66b52416c.htm" />
-    <HelpKINode Title="VideoCoreCom.AllowTrial - метод" Url="html/7f777d9a-aec4-aeb5-5f56-d905abd4472d.htm" />
+    <HelpKINode Title="IVideoCore.AllowTrial - метод" Url="html/M_Recar2_Com_IVideoCore_AllowTrial.htm" />
+    <HelpKINode Title="VideoCoreCom.AllowTrial - метод" Url="html/M_Recar2_Com_VideoCoreCom_AllowTrial.htm" />
   </HelpKINode>
   <HelpKINode Title="Apply метод">
-    <HelpKINode Title="Settings.Apply - метод" Url="html/a123ac9b-62fa-bcc7-67ee-cf74514da612.htm" />
-    <HelpKINode Title="VideoChannelSettings.Apply - метод" Url="html/9d87f734-35f1-4ec7-f921-747222f20890.htm" />
+    <HelpKINode Title="Settings.Apply - метод" Url="html/M_Recar2_Settings_Apply.htm" />
+    <HelpKINode Title="VideoChannelSettings.Apply - метод" Url="html/M_Recar2_VideoChannelSettings_Apply.htm" />
   </HelpKINode>
-  <HelpKINode Title="BackColor свойство" Url="html/0e69ef66-257e-1c32-fbf3-50e44fcfcee5.htm" />
-  <HelpKINode Title="Base - член перечисления" Url="html/c7f11a08-b956-1ebd-e8e5-0baf8082a04b.htm" />
-  <HelpKINode Title="BaseCore - класс">
-    <HelpKINode Title="BaseCore - класс" Url="html/5d7b3a7d-89fd-7a42-1091-912a0f6d1528.htm" />
-    <HelpKINode Title="методы" Url="html/efaba846-c897-5f98-5589-2b7d81a1201f.htm" />
-    <HelpKINode Title="свойства" Url="html/54c28b07-bb15-1603-b7ca-11fc2d756c22.htm" />
-  </HelpKINode>
-  <HelpKINode Title="BaseCore.ChannelCount свойство" Url="html/7d8f4c7a-1b7f-6cd6-3def-e20ae179c5d4.htm" />
-  <HelpKINode Title="BaseCore.ChannelExists метод" Url="html/791bf85f-db5f-5b88-d38e-bea1ad3d86f6.htm" />
-  <HelpKINode Title="BaseCore.Channels свойство" Url="html/25085340-e437-3fe9-5641-a31443ded2d1.htm" />
-  <HelpKINode Title="BaseCore.Dispose метод" Url="html/7dd00cc6-0b34-0ed7-05d4-237fdd964384.htm" />
-  <HelpKINode Title="BaseCore.FullVersion свойство" Url="html/0a07e45f-1a99-cddc-282f-08954c57104f.htm" />
-  <HelpKINode Title="BaseCore.GetChannel метод" Url="html/f4c5022b-d4b2-17d0-898e-64d9c2b9f838.htm" />
-  <HelpKINode Title="BaseCore.Initialize метод" Url="html/c0709f20-49ca-88bc-25f8-f4af0f845461.htm" />
-  <HelpKINode Title="BaseCore.LicenseInfo свойство" Url="html/835f4b5d-54fe-1ee2-10b5-d5ac205cb9dc.htm" />
-  <HelpKINode Title="BaseCore.LoadSettings метод" Url="html/5ba355cc-a8d0-26b2-f98b-6f8e04c0eb8a.htm" />
-  <HelpKINode Title="BaseCore.SaveSettings метод" Url="html/27a8629f-6137-b611-964d-dedc1866cdbe.htm" />
-  <HelpKINode Title="BaseCore.Settings свойство" Url="html/2dbc41c2-92af-dbd0-1ea7-e47530b767f5.htm" />
-  <HelpKINode Title="BaseCore.SetupTransformation метод" Url="html/606c89d3-8a8a-2420-6f72-2d25fe454e16.htm" />
-  <HelpKINode Title="BaseCore.ShowAlgSetupForm метод" Url="html/ca8b80f6-e2be-9091-940f-76e62fe445c5.htm" />
-  <HelpKINode Title="BaseCore.Version свойство" Url="html/0f015a00-a7a9-c995-0f07-5e20bdf00754.htm" />
+  <HelpKINode Title="BackColor свойство" Url="html/P_Recar2_Utility_StencilsImagesCreater_BackColor.htm" />
+  <HelpKINode Title="Base - член перечисления" Url="html/T_Recar2_ProcessingStrategy.htm" />
   <HelpKINode Title="BaseCoreExtensions - класс">
-    <HelpKINode Title="BaseCoreExtensions - класс" Url="html/0561b959-4ae3-eabf-dd45-dfa4e434be86.htm" />
-    <HelpKINode Title="методы" Url="html/e3d5edd3-5a20-70a1-dc00-84ee6f89d51e.htm" />
+    <HelpKINode Title="BaseCoreExtensions - класс" Url="html/T_Recar2_BaseCoreExtensions.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_BaseCoreExtensions.htm" />
   </HelpKINode>
-  <HelpKINode Title="BaseCoreExtensions.ShowSetupForm метод" Url="html/f273fd22-2c6d-a3de-368e-3833b24ea879.htm" />
-  <HelpKINode Title="BaseCoreInitializationParameters - класс">
-    <HelpKINode Title="BaseCoreInitializationParameters - класс" Url="html/bcb0609a-f3e9-5366-8c3f-78338d44cd0b.htm" />
-    <HelpKINode Title="свойства" Url="html/f3286a95-c002-16e4-0a52-e235bb2d57e8.htm" />
-  </HelpKINode>
-  <HelpKINode Title="BaseCoreInitializationParameters.Advanced свойство" Url="html/0d26e2cc-4020-77f1-0eb3-1c087184cc7c.htm" />
-  <HelpKINode Title="BaseCoreInitializationParameters.ConfigFilename свойство" Url="html/b47160a9-dd7f-4d48-ea6f-1fb5ff7bcb75.htm" />
-  <HelpKINode Title="BaseCoreInitializationParameters.ConvertPlateToCapsLatin свойство" Url="html/aac94c99-49cb-c202-bb06-46cd6c6578e4.htm" />
-  <HelpKINode Title="BaseCoreInitializationParameters.LicenseFileLocation свойство" Url="html/eacb5c29-d708-41d9-07b8-2a662a4c9b2d.htm" />
-  <HelpKINode Title="BaseCoreInitializationParameters.LogDirectory свойство" Url="html/9fa4524f-2e74-ca4c-a28e-7e09f09642cf.htm" />
-  <HelpKINode Title="BaseCoreInitializationParameters.TrialDelegate свойство" Url="html/5a24b3fd-2e62-b471-d870-7dcc92272a6f.htm" />
-  <HelpKINode Title="BaseCoreInitializationParameters.UseIntegratedLogSubsystem свойство" Url="html/3ac16454-e7a8-7054-5815-b5cbc8b3251c.htm" />
-  <HelpKINode Title="BestFrameTimeStamp свойство" Url="html/21ddb1d5-60e9-9291-3aae-ba67deabc89f.htm" />
-  <HelpKINode Title="BlockByPrevDecisionMode свойство" Url="html/6d868942-5303-3864-3dc0-3ff0a0c9feef.htm" />
-  <HelpKINode Title="BlockDirectionDown свойство" Url="html/34fc74ad-23ff-b984-cf09-c1d86912db8e.htm" />
-  <HelpKINode Title="BlockDirectionUndefined свойство" Url="html/40f0199e-7fbf-4609-56e7-b135f483ae97.htm" />
-  <HelpKINode Title="BlockDirectionUp свойство" Url="html/fcfff71b-fd0d-9db0-4cba-c232ef66bc57.htm" />
-  <HelpKINode Title="BottomUp - член перечисления" Url="html/01832ec4-d1ec-1ade-377a-2ec812e1a2d9.htm" />
+  <HelpKINode Title="BaseCoreExtensions.ShowSetupForm метод" Url="html/M_Recar2_BaseCoreExtensions_ShowSetupForm.htm" />
+  <HelpKINode Title="BestFrameTimeStamp свойство" Url="html/P_Recar2_PlateNumber_BestFrameTimeStamp.htm" />
+  <HelpKINode Title="BlockByPrevDecisionMode свойство" Url="html/P_Recar2_VideoChannelSettings_BlockByPrevDecisionMode.htm" />
+  <HelpKINode Title="BlockDirectionDown свойство" Url="html/P_Recar2_VideoChannelSettings_BlockDirectionDown.htm" />
+  <HelpKINode Title="BlockDirectionUndefined свойство" Url="html/P_Recar2_VideoChannelSettings_BlockDirectionUndefined.htm" />
+  <HelpKINode Title="BlockDirectionUp свойство" Url="html/P_Recar2_VideoChannelSettings_BlockDirectionUp.htm" />
+  <HelpKINode Title="BottomUp - член перечисления" Url="html/T_Recar2_MovementDirection.htm" />
   <HelpKINode Title="CameraId свойство">
-    <HelpKINode Title="IRecarSolution.CameraId - свойство" Url="html/ed220c27-39ce-70dd-c05c-32206bd00902.htm" />
-    <HelpKINode Title="RecarSolution.CameraId - свойство" Url="html/1cc788d2-a1b9-abec-6d77-46be07e1c851.htm" />
+    <HelpKINode Title="IRecarSolution.CameraId - свойство" Url="html/P_Recar2_Com_IRecarSolution_CameraId.htm" />
+    <HelpKINode Title="RecarSolution.CameraId - свойство" Url="html/P_Recar2_Com_RecarSolution_CameraId.htm" />
   </HelpKINode>
-  <HelpKINode Title="Channel метод" Url="html/9b88bbc4-c710-c790-bcaf-4c588d983f6d.htm" />
-  <HelpKINode Title="Channel свойство" Url="html/e422e801-fd34-3c73-56c7-b94f739b49a7.htm" />
-  <HelpKINode Title="ChannelCount свойство" Url="html/7d8f4c7a-1b7f-6cd6-3def-e20ae179c5d4.htm" />
-  <HelpKINode Title="ChannelExists метод" Url="html/791bf85f-db5f-5b88-d38e-bea1ad3d86f6.htm" />
-  <HelpKINode Title="Channels свойство" Url="html/25085340-e437-3fe9-5641-a31443ded2d1.htm" />
-  <HelpKINode Title="ChannelSpeed - перечисление" Url="html/1050c193-f7b5-c31a-95b8-3aa116d3a58a.htm" />
-  <HelpKINode Title="CleanBuffer метод" Url="html/b9f54e05-9405-e7a7-c30d-92027d31c4f3.htm" />
-  <HelpKINode Title="CoefMaxThreshold свойство" Url="html/4d135e4e-fc6e-a37a-1488-92f346498bae.htm" />
-  <HelpKINode Title="CoefMinThreshold свойство" Url="html/43bbcd08-8c17-6506-9359-495ed61760dc.htm" />
+  <HelpKINode Title="Channel метод" Url="html/M_Recar2_Settings_Channel.htm" />
+  <HelpKINode Title="Channel свойство" Url="html/P_Recar2_NumberRecognizedEventArgs_Channel.htm" />
+  <HelpKINode Title="ChannelSpeed - перечисление" Url="html/T_Recar2_ChannelSpeed.htm" />
+  <HelpKINode Title="CoefMaxThreshold свойство" Url="html/P_Recar2_VideoChannelSettings_CoefMaxThreshold.htm" />
+  <HelpKINode Title="CoefMinThreshold свойство" Url="html/P_Recar2_VideoChannelSettings_CoefMinThreshold.htm" />
   <HelpKINode Title="ConfigFilename свойство">
-    <HelpKINode Title="BaseCoreInitializationParameters.ConfigFilename - свойство" Url="html/b47160a9-dd7f-4d48-ea6f-1fb5ff7bcb75.htm" />
-    <HelpKINode Title="IVideoCore.ConfigFilename - свойство" Url="html/2487d5df-2dd3-2ed7-6680-ded5b55e5596.htm" />
-    <HelpKINode Title="VideoCoreCom.ConfigFilename - свойство" Url="html/6c8c62ea-3525-9635-d1b1-8c15a53e32f8.htm" />
+    <HelpKINode Title="IVideoCore.ConfigFilename - свойство" Url="html/P_Recar2_Com_IVideoCore_ConfigFilename.htm" />
+    <HelpKINode Title="VideoCoreCom.ConfigFilename - свойство" Url="html/P_Recar2_Com_VideoCoreCom_ConfigFilename.htm" />
   </HelpKINode>
   <HelpKINode Title="ConvertPlateToCapsLatin свойство">
-    <HelpKINode Title="BaseCoreInitializationParameters.ConvertPlateToCapsLatin - свойство" Url="html/aac94c99-49cb-c202-bb06-46cd6c6578e4.htm" />
-    <HelpKINode Title="IVideoCore.ConvertPlateToCapsLatin - свойство" Url="html/42168483-a886-122b-340c-5823bf82347e.htm" />
-    <HelpKINode Title="VideoCoreCom.ConvertPlateToCapsLatin - свойство" Url="html/37443aa5-b9b9-4a19-08c8-a93d24b9e91a.htm" />
+    <HelpKINode Title="IVideoCore.ConvertPlateToCapsLatin - свойство" Url="html/P_Recar2_Com_IVideoCore_ConvertPlateToCapsLatin.htm" />
+    <HelpKINode Title="VideoCoreCom.ConvertPlateToCapsLatin - свойство" Url="html/P_Recar2_Com_VideoCoreCom_ConvertPlateToCapsLatin.htm" />
   </HelpKINode>
   <HelpKINode Title="CoreExtensions - класс">
-    <HelpKINode Title="CoreExtensions - класс" Url="html/5ba49a35-7e5c-029c-481a-c3ab6ec739a9.htm" />
-    <HelpKINode Title="методы" Url="html/8b8a0bbb-e209-86cb-e7d7-e0977a3001da.htm" />
+    <HelpKINode Title="CoreExtensions - класс" Url="html/T_Recar2_CoreExtensions.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_CoreExtensions.htm" />
   </HelpKINode>
-  <HelpKINode Title="CoreExtensions.GetSampleImage метод" Url="html/ee898904-3be2-ebaa-599f-d221baa93f1f.htm" />
-  <HelpKINode Title="CreateMultiVideoForm метод" Url="html/154ade6a-5e17-e196-6795-5c78a95adfc0.htm" />
-  <HelpKINode Title="DecisionKeepTimeout свойство" Url="html/da01cf0b-0065-66aa-43dc-ad2d4df1b542.htm" />
-  <HelpKINode Title="DecisionTimeout свойство" Url="html/353ac0de-91b6-de74-98c0-95aad29769c4.htm" />
+  <HelpKINode Title="CoreExtensions.GetSampleImage метод" Url="html/M_Recar2_CoreExtensions_GetSampleImage.htm" />
+  <HelpKINode Title="CreateMultiVideoForm метод" Url="html/M_Recar2_VideoCore_CreateMultiVideoForm.htm" />
+  <HelpKINode Title="DecisionKeepTimeout свойство" Url="html/P_Recar2_VideoChannelSettings_DecisionKeepTimeout.htm" />
+  <HelpKINode Title="DecisionTimeout свойство" Url="html/P_Recar2_VideoChannelSettings_DecisionTimeout.htm" />
   <HelpKINode Title="DispatchVideoFrame метод">
-    <HelpKINode Title="IVideoChannel.DispatchVideoFrame - метод" Url="html/56a862df-ebb3-16b9-a7cd-733766ff9a27.htm" />
-    <HelpKINode Title="IVideoCore.DispatchVideoFrame - метод" Url="html/c9311895-9223-07d6-175f-a8efbe231dbe.htm" />
-    <HelpKINode Title="VideoCoreCom.DispatchVideoFrame - метод" Url="html/61a169fa-dd20-d3ec-1bb6-959fa5e80f03.htm" />
+    <HelpKINode Title="IVideoChannel.DispatchVideoFrame - метод" Url="html/M_Recar2_Com_IVideoChannel_DispatchVideoFrame.htm" />
+    <HelpKINode Title="IVideoCore.DispatchVideoFrame - метод" Url="html/M_Recar2_Com_IVideoCore_DispatchVideoFrame.htm" />
+    <HelpKINode Title="VideoCoreCom.DispatchVideoFrame - метод" Url="html/M_Recar2_Com_VideoCoreCom_DispatchVideoFrame.htm" />
   </HelpKINode>
   <HelpKINode Title="Dispose метод">
-    <HelpKINode Title="BaseCore.Dispose - метод" Url="html/7dd00cc6-0b34-0ed7-05d4-237fdd964384.htm" />
-    <HelpKINode Title="IVideoCore.Dispose - метод" Url="html/e8d5c88a-a709-b8db-0a96-6cda3a249555.htm" />
-    <HelpKINode Title="VideoCoreCom.Dispose - метод" Url="html/634a7018-96d9-8d64-a0fd-8543239ae206.htm" />
+    <HelpKINode Title="IVideoCore.Dispose - метод" Url="html/M_Recar2_Com_IVideoCore_Dispose.htm" />
+    <HelpKINode Title="VideoCoreCom.Dispose - метод" Url="html/M_Recar2_Com_VideoCoreCom_Dispose.htm" />
   </HelpKINode>
-  <HelpKINode Title="Done метод" Url="html/c3a2f123-5e53-712d-f7bd-3314f4b191c5.htm" />
   <HelpKINode Title="DrawingConvertExtensions - класс">
-    <HelpKINode Title="DrawingConvertExtensions - класс" Url="html/67592883-d8de-6ace-73b6-1cfaa6443988.htm" />
-    <HelpKINode Title="методы" Url="html/16b35c61-be94-72f9-20fc-bb8368ef4c4f.htm" />
+    <HelpKINode Title="DrawingConvertExtensions - класс" Url="html/T_Recar2_DrawingConvertExtensions.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_DrawingConvertExtensions.htm" />
   </HelpKINode>
-  <HelpKINode Title="DrawingConvertExtensions.ToRect метод" Url="html/a3c3f4be-1db5-9a9a-1a8a-2945d6cfcf72.htm" />
-  <HelpKINode Title="DrawingConvertExtensions.ToSize метод" Url="html/2201d2ec-9586-3c65-2847-1f3157594236.htm" />
+  <HelpKINode Title="DrawingConvertExtensions.ToRect метод" Url="html/Overload_Recar2_DrawingConvertExtensions_ToRect.htm" />
+  <HelpKINode Title="DrawingConvertExtensions.ToSize метод" Url="html/Overload_Recar2_DrawingConvertExtensions_ToSize.htm" />
   <HelpKINode Title="EventId свойство">
-    <HelpKINode Title="IRecarSolution.EventId - свойство" Url="html/a62b17cc-c228-67e9-6316-306e9d8beb18.htm" />
-    <HelpKINode Title="NumberRecognizedEventArgs.EventId - свойство" Url="html/4ae2cf40-130b-0ae0-b8e8-31fc3bda3b79.htm" />
-    <HelpKINode Title="RecarSolution.EventId - свойство" Url="html/2ef78343-5eeb-2874-148c-725de7399c84.htm" />
+    <HelpKINode Title="IRecarSolution.EventId - свойство" Url="html/P_Recar2_Com_IRecarSolution_EventId.htm" />
+    <HelpKINode Title="NumberRecognizedEventArgs.EventId - свойство" Url="html/P_Recar2_NumberRecognizedEventArgs_EventId.htm" />
+    <HelpKINode Title="RecarSolution.EventId - свойство" Url="html/P_Recar2_Com_RecarSolution_EventId.htm" />
   </HelpKINode>
-  <HelpKINode Title="Expired - член перечисления" Url="html/b08cf0a4-8043-118b-52a2-3479a627a883.htm" />
-  <HelpKINode Title="ExternalEvent метод" Url="html/f972eefa-62e2-2405-50f8-1dda82e824f3.htm" />
+  <HelpKINode Title="Expired - член перечисления" Url="html/T_Recar2_TrialState.htm" />
   <HelpKINode Title="ExtPlateNumber - класс">
-    <HelpKINode Title="ExtPlateNumber - класс" Url="html/03e48409-642b-b9f9-7b66-d18a4ed134f1.htm" />
-    <HelpKINode Title="методы" Url="html/0f11ba28-64b3-ae9e-f0cf-c3ab49418866.htm" />
-    <HelpKINode Title="свойства" Url="html/fb36905b-6d54-e2fa-0049-0f45f88c3879.htm" />
+    <HelpKINode Title="ExtPlateNumber - класс" Url="html/T_Recar2_ExtPlateNumber.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_ExtPlateNumber.htm" />
+    <HelpKINode Title="свойства" Url="html/Properties_T_Recar2_ExtPlateNumber.htm" />
   </HelpKINode>
-  <HelpKINode Title="ExtPlateNumber.FramesTimeStamps свойство" Url="html/3a11561e-c1b2-4564-541c-b7d1cdc0a1a5.htm" />
-  <HelpKINode Title="ExtPlateNumber.MovementDirection свойство" Url="html/f8dbaea2-92ca-b4b0-457c-9f8499814745.htm" />
-  <HelpKINode Title="Fast - член перечисления" Url="html/1050c193-f7b5-c31a-95b8-3aa116d3a58a.htm" />
-  <HelpKINode Title="FirstGood - член перечисления" Url="html/05029b8e-22de-4f01-f25c-62d4cffe66f1.htm" />
-  <HelpKINode Title="FrameNumberFromDetectMotion свойство" Url="html/38352210-d6ef-9df3-7efc-81766ce9a383.htm" />
-  <HelpKINode Title="FrameQueueSize свойство" Url="html/47eaebad-1a06-e504-ca00-1c6c8377aac1.htm" />
-  <HelpKINode Title="FramesTimeStamps свойство" Url="html/3a11561e-c1b2-4564-541c-b7d1cdc0a1a5.htm" />
-  <HelpKINode Title="FullVersion свойство" Url="html/0a07e45f-1a99-cddc-282f-08954c57104f.htm" />
-  <HelpKINode Title="GetChannel метод" Url="html/f4c5022b-d4b2-17d0-898e-64d9c2b9f838.htm" />
-  <HelpKINode Title="GetEventBufferDepth метод" Url="html/ee0e5f8d-0c94-0e04-4b45-085a185f77d6.htm" />
-  <HelpKINode Title="GetInfo метод" Url="html/e6325a88-4479-5077-1315-b6f2f1423f4a.htm" />
-  <HelpKINode Title="GetMaximum метод" Url="html/476a81e7-6cec-ad9f-04a7-5aafcc9390ed.htm" />
-  <HelpKINode Title="GetMinimum метод" Url="html/39b6d0c1-1a99-8979-77c1-85cef454c97a.htm" />
-  <HelpKINode Title="GetPlate метод" Url="html/1dcd63d4-daa4-d100-68db-1ebc9fde9a4f.htm" />
-  <HelpKINode Title="GetSampleImage метод" Url="html/ee898904-3be2-ebaa-599f-d221baa93f1f.htm" />
+  <HelpKINode Title="ExtPlateNumber.FramesTimeStamps свойство" Url="html/P_Recar2_ExtPlateNumber_FramesTimeStamps.htm" />
+  <HelpKINode Title="ExtPlateNumber.MovementDirection свойство" Url="html/P_Recar2_ExtPlateNumber_MovementDirection.htm" />
+  <HelpKINode Title="Fast - член перечисления" Url="html/T_Recar2_ChannelSpeed.htm" />
+  <HelpKINode Title="FirstGood - член перечисления" Url="html/T_Recar2_ZoneSearchMethod.htm" />
+  <HelpKINode Title="FrameNumberFromDetectMotion свойство" Url="html/P_Recar2_VideoChannelSettings_FrameNumberFromDetectMotion.htm" />
+  <HelpKINode Title="FrameQueueSize свойство" Url="html/P_Recar2_VideoChannelSettings_FrameQueueSize.htm" />
+  <HelpKINode Title="FramesTimeStamps свойство" Url="html/P_Recar2_ExtPlateNumber_FramesTimeStamps.htm" />
+  <HelpKINode Title="GetMaximum метод" Url="html/M_Recar2_RangeSetting_1_GetMaximum.htm" />
+  <HelpKINode Title="GetMinimum метод" Url="html/M_Recar2_RangeSetting_1_GetMinimum.htm" />
+  <HelpKINode Title="GetPlate метод" Url="html/M_Recar2_Com_IPlatesList_GetPlate.htm" />
+  <HelpKINode Title="GetSampleImage метод" Url="html/M_Recar2_CoreExtensions_GetSampleImage.htm" />
   <HelpKINode Title="GetSettingDescription метод">
-    <HelpKINode Title="IVideoCore.GetSettingDescription - метод" Url="html/a682857a-4d4b-7582-578f-aeac70a1051d.htm" />
-    <HelpKINode Title="VideoCoreCom.GetSettingDescription - метод" Url="html/312e9eb8-0ae1-b906-bfb0-0de735365fe6.htm" />
+    <HelpKINode Title="IVideoCore.GetSettingDescription - метод" Url="html/M_Recar2_Com_IVideoCore_GetSettingDescription.htm" />
+    <HelpKINode Title="VideoCoreCom.GetSettingDescription - метод" Url="html/M_Recar2_Com_VideoCoreCom_GetSettingDescription.htm" />
   </HelpKINode>
   <HelpKINode Title="GetSettingDisplayNames метод">
-    <HelpKINode Title="IVideoCore.GetSettingDisplayNames - метод" Url="html/3009e6d2-4ddd-3561-29ea-2c98ecaf4429.htm" />
-    <HelpKINode Title="VideoCoreCom.GetSettingDisplayNames - метод" Url="html/960302ac-d012-3f18-0d77-ebb39cc5fa04.htm" />
+    <HelpKINode Title="IVideoCore.GetSettingDisplayNames - метод" Url="html/M_Recar2_Com_IVideoCore_GetSettingDisplayNames.htm" />
+    <HelpKINode Title="VideoCoreCom.GetSettingDisplayNames - метод" Url="html/M_Recar2_Com_VideoCoreCom_GetSettingDisplayNames.htm" />
   </HelpKINode>
   <HelpKINode Title="GetSettingNames метод">
-    <HelpKINode Title="IVideoCore.GetSettingNames - метод" Url="html/b9a2e92c-8f2b-8fb5-e610-308ca002c664.htm" />
-    <HelpKINode Title="VideoCoreCom.GetSettingNames - метод" Url="html/ac81fea3-1437-46fc-dc0c-f0c739a398d0.htm" />
+    <HelpKINode Title="IVideoCore.GetSettingNames - метод" Url="html/M_Recar2_Com_IVideoCore_GetSettingNames.htm" />
+    <HelpKINode Title="VideoCoreCom.GetSettingNames - метод" Url="html/M_Recar2_Com_VideoCoreCom_GetSettingNames.htm" />
   </HelpKINode>
   <HelpKINode Title="GetSettingSections метод">
-    <HelpKINode Title="IVideoCore.GetSettingSections - метод" Url="html/cef59738-7a3c-08d3-a8b3-d249d13d551b.htm" />
-    <HelpKINode Title="VideoCoreCom.GetSettingSections - метод" Url="html/18fceafc-47f1-6b69-d612-10da678acbc2.htm" />
+    <HelpKINode Title="IVideoCore.GetSettingSections - метод" Url="html/M_Recar2_Com_IVideoCore_GetSettingSections.htm" />
+    <HelpKINode Title="VideoCoreCom.GetSettingSections - метод" Url="html/M_Recar2_Com_VideoCoreCom_GetSettingSections.htm" />
   </HelpKINode>
   <HelpKINode Title="GetSettingValue метод">
-    <HelpKINode Title="IVideoCore.GetSettingValue - метод" Url="html/87b30a95-9ca1-5d4c-cb58-fb66e1ebe4b0.htm" />
-    <HelpKINode Title="VideoCoreCom.GetSettingValue - метод" Url="html/3a55a507-ebc6-1b14-5a31-267f1fb6acf5.htm" />
+    <HelpKINode Title="IVideoCore.GetSettingValue - метод" Url="html/M_Recar2_Com_IVideoCore_GetSettingValue.htm" />
+    <HelpKINode Title="VideoCoreCom.GetSettingValue - метод" Url="html/M_Recar2_Com_VideoCoreCom_GetSettingValue.htm" />
   </HelpKINode>
-  <HelpKINode Title="GetSetupControls метод" Url="html/4dd4d4b6-0071-cb1e-d47e-3dff635310a0.htm" />
-  <HelpKINode Title="GetStep метод" Url="html/d95f9a86-634f-caf8-733b-cdd876917365.htm" />
+  <HelpKINode Title="GetSetupControls метод" Url="html/M_Recar2_VideoCore_GetSetupControls.htm" />
+  <HelpKINode Title="GetStep метод" Url="html/M_Recar2_RangeSetting_1_GetStep.htm" />
   <HelpKINode Title="GetVideoChannel метод">
-    <HelpKINode Title="IVideoCore.GetVideoChannel - метод" Url="html/fe89e9ee-f29c-b73e-d7ff-4c03715c9f21.htm" />
-    <HelpKINode Title="VideoCoreCom.GetVideoChannel - метод" Url="html/1f928551-7e2a-f729-6ea1-9240b64d3bc6.htm" />
+    <HelpKINode Title="IVideoCore.GetVideoChannel - метод" Url="html/M_Recar2_Com_IVideoCore_GetVideoChannel.htm" />
+    <HelpKINode Title="VideoCoreCom.GetVideoChannel - метод" Url="html/M_Recar2_Com_VideoCoreCom_GetVideoChannel.htm" />
   </HelpKINode>
   <HelpKINode Title="HideLogForm метод">
-    <HelpKINode Title="IVideoCore.HideLogForm - метод" Url="html/c24dfe2f-f036-b412-c3f3-49896731d0c5.htm" />
-    <HelpKINode Title="VideoCoreCom.HideLogForm - метод" Url="html/8c176530-15c0-57f1-e1b9-5e8bddd5664c.htm" />
+    <HelpKINode Title="IVideoCore.HideLogForm - метод" Url="html/M_Recar2_Com_IVideoCore_HideLogForm.htm" />
+    <HelpKINode Title="VideoCoreCom.HideLogForm - метод" Url="html/M_Recar2_Com_VideoCoreCom_HideLogForm.htm" />
   </HelpKINode>
-  <HelpKINode Title="IAsyncEvent - интерфейс">
-    <HelpKINode Title="IAsyncEvent - интерфейс" Url="html/6e0a93bb-8e0c-5314-3c8e-1ca99f0e1d6d.htm" />
-    <HelpKINode Title="методы" Url="html/1a798162-637d-9275-b1e6-ded751715e5c.htm" />
-  </HelpKINode>
-  <HelpKINode Title="IAsyncEvent.CleanBuffer метод" Url="html/b9f54e05-9405-e7a7-c30d-92027d31c4f3.htm" />
-  <HelpKINode Title="IAsyncEvent.ExternalEvent метод" Url="html/f972eefa-62e2-2405-50f8-1dda82e824f3.htm" />
-  <HelpKINode Title="IAsyncEvent.GetEventBufferDepth метод" Url="html/ee0e5f8d-0c94-0e04-4b45-085a185f77d6.htm" />
-  <HelpKINode Title="IAsyncEvent.SetEventBufferDepth метод" Url="html/8837d8c2-7c30-df1d-5c8c-bf34fc16b5b4.htm" />
-  <HelpKINode Title="Id свойство" Url="html/391497c4-7c8c-b314-004d-8f1e3a193110.htm" />
-  <HelpKINode Title="IInitDone - интерфейс">
-    <HelpKINode Title="IInitDone - интерфейс" Url="html/e60796ec-d119-a247-2543-b527ace0c062.htm" />
-    <HelpKINode Title="методы" Url="html/6686583a-416e-dc99-266e-5ab59d2f039b.htm" />
-  </HelpKINode>
-  <HelpKINode Title="IInitDone.Done метод" Url="html/c3a2f123-5e53-712d-f7bd-3314f4b191c5.htm" />
-  <HelpKINode Title="IInitDone.GetInfo метод" Url="html/e6325a88-4479-5077-1315-b6f2f1423f4a.htm" />
-  <HelpKINode Title="IInitDone.Init метод" Url="html/f90163d0-ab26-a4f0-2937-6b74a731856e.htm" />
+  <HelpKINode Title="Id свойство" Url="html/P_Recar2_Com_IVideoChannel_Id.htm" />
   <HelpKINode Title="ImageCore - класс">
-    <HelpKINode Title="ImageCore - класс" Url="html/0ecd30a3-2420-dbc0-b961-311b9ee08659.htm" />
-    <HelpKINode Title="конструктор" Url="html/a2cc3f00-943c-18ff-6da6-33459a318b80.htm" />
-    <HelpKINode Title="методы" Url="html/56d9be6c-ee39-2126-75bf-3376a860fc6e.htm" />
-    <HelpKINode Title="свойства" Url="html/2c61224a-320e-720c-ad5b-7142d598498a.htm" />
+    <HelpKINode Title="ImageCore - класс" Url="html/T_Recar2_ImageCore.htm" />
+    <HelpKINode Title="конструктор" Url="html/M_Recar2_ImageCore__ctor.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_ImageCore.htm" />
   </HelpKINode>
-  <HelpKINode Title="ImageCore.ImageCore конструктор" Url="html/a2cc3f00-943c-18ff-6da6-33459a318b80.htm" />
-  <HelpKINode Title="ImageCore.ProcessImage метод" Url="html/d70e782e-b804-f2fb-079c-1b6a4440d271.htm" />
-  <HelpKINode Title="ImageCore.ProcessImageAsync метод" Url="html/95e4bacb-fa23-501e-2adc-3c98d8699cb5.htm" />
-  <HelpKINode Title="ImageCore.ProcessImageByVariants метод" Url="html/7759dccd-3abb-e65e-7add-4decad2dd089.htm" />
+  <HelpKINode Title="ImageCore.ImageCore конструктор" Url="html/M_Recar2_ImageCore__ctor.htm" />
+  <HelpKINode Title="ImageCore.ProcessImage метод" Url="html/Overload_Recar2_ImageCore_ProcessImage.htm" />
+  <HelpKINode Title="ImageCore.ProcessImageAsync метод" Url="html/Overload_Recar2_ImageCore_ProcessImageAsync.htm" />
+  <HelpKINode Title="ImageCore.ProcessImageByVariants метод" Url="html/M_Recar2_ImageCore_ProcessImageByVariants.htm" />
   <HelpKINode Title="ImageCoreExtensions - класс">
-    <HelpKINode Title="ImageCoreExtensions - класс" Url="html/2b4f57bb-b91d-8628-7953-265dba5838bc.htm" />
-    <HelpKINode Title="методы" Url="html/3261f08a-9fd5-b9f3-c75f-d9fe8deb8daf.htm" />
+    <HelpKINode Title="ImageCoreExtensions - класс" Url="html/T_Recar2_ImageCoreExtensions.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_ImageCoreExtensions.htm" />
   </HelpKINode>
-  <HelpKINode Title="ImageCoreExtensions.ShowCaptureAreaAndPlateSizeSetupForm метод" Url="html/b14bca96-a6bb-bae9-ddb8-035e840c408e.htm" />
+  <HelpKINode Title="ImageCoreExtensions.ShowCaptureAreaAndPlateSizeSetupForm метод" Url="html/M_Recar2_ImageCoreExtensions_ShowCaptureAreaAndPlateSizeSetupForm.htm" />
   <HelpKINode Title="ImageCoreInitializationParameters - класс">
-    <HelpKINode Title="ImageCoreInitializationParameters - класс" Url="html/5215cb7c-0cb3-2030-288d-88b6ced0b254.htm" />
-    <HelpKINode Title="конструктор" Url="html/de03fa7d-c3bc-bd1b-a95a-aa913fdde73f.htm" />
-    <HelpKINode Title="свойства" Url="html/bda491e9-b573-60ca-9687-b7f60540fe55.htm" />
+    <HelpKINode Title="ImageCoreInitializationParameters - класс" Url="html/T_Recar2_ImageCoreInitializationParameters.htm" />
+    <HelpKINode Title="конструктор" Url="html/M_Recar2_ImageCoreInitializationParameters__ctor.htm" />
+    <HelpKINode Title="свойства" Url="html/Properties_T_Recar2_ImageCoreInitializationParameters.htm" />
   </HelpKINode>
-  <HelpKINode Title="ImageCoreInitializationParameters.ImageCoreInitializationParameters конструктор" Url="html/de03fa7d-c3bc-bd1b-a95a-aa913fdde73f.htm" />
-  <HelpKINode Title="ImageCoreInitializationParameters.ImageProcessChannelCount свойство" Url="html/24ea057b-29c3-c646-55a3-465d090f4143.htm" />
+  <HelpKINode Title="ImageCoreInitializationParameters.ImageCoreInitializationParameters конструктор" Url="html/M_Recar2_ImageCoreInitializationParameters__ctor.htm" />
+  <HelpKINode Title="ImageCoreInitializationParameters.ImageProcessChannelCount свойство" Url="html/P_Recar2_ImageCoreInitializationParameters_ImageProcessChannelCount.htm" />
   <HelpKINode Title="ImageFileName свойство">
-    <HelpKINode Title="IRecarSolution.ImageFileName - свойство" Url="html/40f699be-8b3c-6359-8a46-7da3d1ffa923.htm" />
-    <HelpKINode Title="RecarSolution.ImageFileName - свойство" Url="html/407c76cf-87ad-363d-771f-4e9f8875220a.htm" />
+    <HelpKINode Title="IRecarSolution.ImageFileName - свойство" Url="html/P_Recar2_Com_IRecarSolution_ImageFileName.htm" />
+    <HelpKINode Title="RecarSolution.ImageFileName - свойство" Url="html/P_Recar2_Com_RecarSolution_ImageFileName.htm" />
   </HelpKINode>
-  <HelpKINode Title="ImageFormat свойство" Url="html/38b34ad8-2d66-daed-a864-0f5eb4023f96.htm" />
-  <HelpKINode Title="ImageHeight свойство" Url="html/b2fad550-e08e-7cd2-fb97-8e8a35162b66.htm" />
+  <HelpKINode Title="ImageFormat свойство" Url="html/P_Recar2_Utility_StencilsImagesCreater_ImageFormat.htm" />
+  <HelpKINode Title="ImageHeight свойство" Url="html/P_Recar2_Utility_StencilsImagesCreater_ImageHeight.htm" />
   <HelpKINode Title="ImageProcessChannelCount свойство">
-    <HelpKINode Title="ImageCoreInitializationParameters.ImageProcessChannelCount - свойство" Url="html/24ea057b-29c3-c646-55a3-465d090f4143.htm" />
-    <HelpKINode Title="LicenseInfo.ImageProcessChannelCount - свойство" Url="html/ea163e34-8314-371b-f8e9-8585a5dd2a53.htm" />
+    <HelpKINode Title="ImageCoreInitializationParameters.ImageProcessChannelCount - свойство" Url="html/P_Recar2_ImageCoreInitializationParameters_ImageProcessChannelCount.htm" />
+    <HelpKINode Title="LicenseInfo.ImageProcessChannelCount - свойство" Url="html/P_Recar2_LicenseInfo_ImageProcessChannelCount.htm" />
   </HelpKINode>
   <HelpKINode Title="ImageStorageEnabled свойство">
-    <HelpKINode Title="IVideoCore.ImageStorageEnabled - свойство" Url="html/3b71bf4d-1843-cd10-2eda-93e23df06c06.htm" />
-    <HelpKINode Title="VideoCoreCom.ImageStorageEnabled - свойство" Url="html/497b518f-aa74-6e1c-f882-067c3c96f956.htm" />
+    <HelpKINode Title="IVideoCore.ImageStorageEnabled - свойство" Url="html/P_Recar2_Com_IVideoCore_ImageStorageEnabled.htm" />
+    <HelpKINode Title="VideoCoreCom.ImageStorageEnabled - свойство" Url="html/P_Recar2_Com_VideoCoreCom_ImageStorageEnabled.htm" />
   </HelpKINode>
   <HelpKINode Title="ImageStoragePath свойство">
-    <HelpKINode Title="IVideoCore.ImageStoragePath - свойство" Url="html/1a2f588d-f66b-26b3-2e2f-b56c5c0d86f2.htm" />
-    <HelpKINode Title="VideoCoreCom.ImageStoragePath - свойство" Url="html/9bb273c5-6dc0-31d1-e0d2-95564d806e58.htm" />
+    <HelpKINode Title="IVideoCore.ImageStoragePath - свойство" Url="html/P_Recar2_Com_IVideoCore_ImageStoragePath.htm" />
+    <HelpKINode Title="VideoCoreCom.ImageStoragePath - свойство" Url="html/P_Recar2_Com_VideoCoreCom_ImageStoragePath.htm" />
   </HelpKINode>
-  <HelpKINode Title="ImageWidth свойство" Url="html/07f4fc4c-633f-5aa6-5e65-45a612a7918c.htm" />
-  <HelpKINode Title="Init метод" Url="html/f90163d0-ab26-a4f0-2937-6b74a731856e.htm" />
+  <HelpKINode Title="ImageWidth свойство" Url="html/P_Recar2_Utility_StencilsImagesCreater_ImageWidth.htm" />
   <HelpKINode Title="Initialize метод">
-    <HelpKINode Title="BaseCore.Initialize - метод" Url="html/c0709f20-49ca-88bc-25f8-f4af0f845461.htm" />
-    <HelpKINode Title="IVideoCore.Initialize - метод" Url="html/35990361-0fa8-e67f-2737-ed2c510613fe.htm" />
-    <HelpKINode Title="VideoCore.Initialize - метод" Url="html/c5ff2c3d-8466-5d39-6751-ed38042e3e3a.htm" />
-    <HelpKINode Title="VideoCoreCom.Initialize - метод" Url="html/909f247e-00af-635f-67a1-e6f24c988bce.htm" />
+    <HelpKINode Title="IVideoCore.Initialize - метод" Url="html/M_Recar2_Com_IVideoCore_Initialize.htm" />
+    <HelpKINode Title="VideoCore.Initialize - метод" Url="html/M_Recar2_VideoCore_Initialize.htm" />
+    <HelpKINode Title="VideoCoreCom.Initialize - метод" Url="html/M_Recar2_Com_VideoCoreCom_Initialize.htm" />
   </HelpKINode>
   <HelpKINode Title="IPlatesList - интерфейс">
-    <HelpKINode Title="IPlatesList - интерфейс" Url="html/6668be4e-1a4a-8add-41fc-84c2bba3586a.htm" />
-    <HelpKINode Title="методы" Url="html/9687ac56-5627-eacd-526c-64ce39e88e55.htm" />
-    <HelpKINode Title="свойства" Url="html/ef945cf6-acd6-0e40-1d05-2a6dba737cad.htm" />
+    <HelpKINode Title="IPlatesList - интерфейс" Url="html/T_Recar2_Com_IPlatesList.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_Com_IPlatesList.htm" />
+    <HelpKINode Title="свойства" Url="html/Properties_T_Recar2_Com_IPlatesList.htm" />
   </HelpKINode>
-  <HelpKINode Title="IPlatesList.GetPlate метод" Url="html/1dcd63d4-daa4-d100-68db-1ebc9fde9a4f.htm" />
-  <HelpKINode Title="IPlatesList.Length свойство" Url="html/50db43f2-3029-081d-54ec-0357ff54bea0.htm" />
+  <HelpKINode Title="IPlatesList.GetPlate метод" Url="html/M_Recar2_Com_IPlatesList_GetPlate.htm" />
+  <HelpKINode Title="IPlatesList.Length свойство" Url="html/P_Recar2_Com_IPlatesList_Length.htm" />
   <HelpKINode Title="IRecarSolution - интерфейс">
-    <HelpKINode Title="IRecarSolution - интерфейс" Url="html/c8fc0f66-db11-9b96-5b94-03633ffca39e.htm" />
-    <HelpKINode Title="методы" Url="html/636b7846-bca7-74e9-1bcc-6f60598920b7.htm" />
-    <HelpKINode Title="свойства" Url="html/5c32cf2d-70cf-11a9-dd5a-1f748a78607e.htm" />
+    <HelpKINode Title="IRecarSolution - интерфейс" Url="html/T_Recar2_Com_IRecarSolution.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_Com_IRecarSolution.htm" />
+    <HelpKINode Title="свойства" Url="html/Properties_T_Recar2_Com_IRecarSolution.htm" />
   </HelpKINode>
-  <HelpKINode Title="IRecarSolution.CameraId свойство" Url="html/ed220c27-39ce-70dd-c05c-32206bd00902.htm" />
-  <HelpKINode Title="IRecarSolution.EventId свойство" Url="html/a62b17cc-c228-67e9-6316-306e9d8beb18.htm" />
-  <HelpKINode Title="IRecarSolution.ImageFileName свойство" Url="html/40f699be-8b3c-6359-8a46-7da3d1ffa923.htm" />
-  <HelpKINode Title="IRecarSolution.MovementDirection свойство" Url="html/f226594a-ef9f-161f-daf6-bf99f8dc9155.htm" />
-  <HelpKINode Title="IRecarSolution.Number свойство" Url="html/fb96e5b8-a6e9-4ddd-bcf3-7aedb8c72bdc.htm" />
-  <HelpKINode Title="IRecarSolution.NumberType свойство" Url="html/b4c5c7eb-0dc5-31e4-e41b-ec8f49e8f954.htm" />
-  <HelpKINode Title="IRecarSolution.SaveImageToFile метод" Url="html/2d34bf12-c079-c956-76e9-17271a4c3d87.htm" />
-  <HelpKINode Title="IRecarSolution.TimeStamp свойство" Url="html/748270fc-8842-9d18-2491-d536fd41a512.htm" />
-  <HelpKINode Title="IsColorImageEnabled свойство" Url="html/72525a09-e105-5fe3-3cf3-75ac09023874.htm" />
+  <HelpKINode Title="IRecarSolution.CameraId свойство" Url="html/P_Recar2_Com_IRecarSolution_CameraId.htm" />
+  <HelpKINode Title="IRecarSolution.EventId свойство" Url="html/P_Recar2_Com_IRecarSolution_EventId.htm" />
+  <HelpKINode Title="IRecarSolution.ImageFileName свойство" Url="html/P_Recar2_Com_IRecarSolution_ImageFileName.htm" />
+  <HelpKINode Title="IRecarSolution.MovementDirection свойство" Url="html/P_Recar2_Com_IRecarSolution_MovementDirection.htm" />
+  <HelpKINode Title="IRecarSolution.Number свойство" Url="html/P_Recar2_Com_IRecarSolution_Number.htm" />
+  <HelpKINode Title="IRecarSolution.NumberType свойство" Url="html/P_Recar2_Com_IRecarSolution_NumberType.htm" />
+  <HelpKINode Title="IRecarSolution.SaveImageToFile метод" Url="html/M_Recar2_Com_IRecarSolution_SaveImageToFile.htm" />
+  <HelpKINode Title="IRecarSolution.TimeStamp свойство" Url="html/P_Recar2_Com_IRecarSolution_TimeStamp.htm" />
+  <HelpKINode Title="IsColorImageEnabled свойство" Url="html/P_Recar2_VideoChannelSettings_IsColorImageEnabled.htm" />
   <HelpKINode Title="IsInitialized свойство">
-    <HelpKINode Title="IVideoCore.IsInitialized - свойство" Url="html/44e99496-a24e-3a92-e352-11484bdcc75d.htm" />
-    <HelpKINode Title="VideoCoreCom.IsInitialized - свойство" Url="html/fdd419e2-058e-d2a0-401d-8ad214b3ede8.htm" />
+    <HelpKINode Title="IVideoCore.IsInitialized - свойство" Url="html/P_Recar2_Com_IVideoCore_IsInitialized.htm" />
+    <HelpKINode Title="VideoCoreCom.IsInitialized - свойство" Url="html/P_Recar2_Com_VideoCoreCom_IsInitialized.htm" />
   </HelpKINode>
-  <HelpKINode Title="IsProcess свойство" Url="html/3cab36fc-4f5b-8b72-551c-5033b78e9a7e.htm" />
-  <HelpKINode Title="IsProcessAllMatrixes свойство" Url="html/663dd428-9903-8ebe-f03b-4f142bcc1dec.htm" />
-  <HelpKINode Title="IStatusLine - интерфейс">
-    <HelpKINode Title="IStatusLine - интерфейс" Url="html/071d8471-4e35-d07d-5776-14b75f6182dd.htm" />
-    <HelpKINode Title="методы" Url="html/8afc9183-0d38-7738-4430-dc4dcd51c6f5.htm" />
-  </HelpKINode>
-  <HelpKINode Title="IStatusLine.ResetStatusLine метод" Url="html/857864bd-0e95-2831-a0ea-e15a4e682c8c.htm" />
-  <HelpKINode Title="IStatusLine.SetStatusLine метод" Url="html/d04d5adf-a811-011b-8074-bfb0662edf3a.htm" />
-  <HelpKINode Title="IsWorking свойство" Url="html/60d3223e-8443-4414-3b1e-5ab9884c70e7.htm" />
-  <HelpKINode Title="Item свойство" Url="html/9fa92661-7fa1-9a41-7335-68cad038b16e.htm" />
+  <HelpKINode Title="IsProcess свойство" Url="html/P_Recar2_Com_IVideoChannel_IsProcess.htm" />
+  <HelpKINode Title="IsProcessAllMatrixes свойство" Url="html/P_Recar2_VideoChannelSettings_IsProcessAllMatrixes.htm" />
+  <HelpKINode Title="IsWorking свойство" Url="html/P_Recar2_Com_IVideoChannel_IsWorking.htm" />
+  <HelpKINode Title="Item свойство" Url="html/P_Recar2_Settings_Item.htm" />
   <HelpKINode Title="IVideoChannel - интерфейс">
-    <HelpKINode Title="IVideoChannel - интерфейс" Url="html/56c8fb91-c4ca-188b-b3b2-11193d12b7b6.htm" />
-    <HelpKINode Title="методы" Url="html/1ae64823-8f9e-5e1a-6b1b-22fff6c91a1a.htm" />
-    <HelpKINode Title="свойства" Url="html/589ab4a5-30ca-6239-dec9-9f1395807b62.htm" />
+    <HelpKINode Title="IVideoChannel - интерфейс" Url="html/T_Recar2_Com_IVideoChannel.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_Com_IVideoChannel.htm" />
+    <HelpKINode Title="свойства" Url="html/Properties_T_Recar2_Com_IVideoChannel.htm" />
   </HelpKINode>
-  <HelpKINode Title="IVideoChannel.DispatchVideoFrame метод" Url="html/56a862df-ebb3-16b9-a7cd-733766ff9a27.htm" />
-  <HelpKINode Title="IVideoChannel.Id свойство" Url="html/391497c4-7c8c-b314-004d-8f1e3a193110.htm" />
-  <HelpKINode Title="IVideoChannel.IsProcess свойство" Url="html/3cab36fc-4f5b-8b72-551c-5033b78e9a7e.htm" />
-  <HelpKINode Title="IVideoChannel.IsWorking свойство" Url="html/60d3223e-8443-4414-3b1e-5ab9884c70e7.htm" />
-  <HelpKINode Title="IVideoChannel.Name свойство" Url="html/cb974d7c-8991-982d-9833-dd5a9afddc7c.htm" />
-  <HelpKINode Title="IVideoChannel.SaveCurrentImage метод" Url="html/c7e2d9aa-0b67-2833-148b-9b34fd3a178d.htm" />
-  <HelpKINode Title="IVideoChannel.SetMotionState метод" Url="html/e1a9adbc-6cee-9c38-4db4-66c766daed03.htm" />
-  <HelpKINode Title="IVideoChannel.SetupAlgs метод" Url="html/8336fa07-2cc2-690b-f169-64888ad8a76a.htm" />
-  <HelpKINode Title="IVideoChannel.SetupTransformation метод" Url="html/84928329-e973-d067-2cae-0326eda0c656.htm" />
-  <HelpKINode Title="IVideoChannel.SetupVideoSource метод" Url="html/53aabb6c-a078-b557-9852-22114f9f7283.htm" />
-  <HelpKINode Title="IVideoChannel.SetVideoSource метод" Url="html/44ceef02-fd9f-ecfa-584f-766655703a94.htm" />
+  <HelpKINode Title="IVideoChannel.DispatchVideoFrame метод" Url="html/M_Recar2_Com_IVideoChannel_DispatchVideoFrame.htm" />
+  <HelpKINode Title="IVideoChannel.Id свойство" Url="html/P_Recar2_Com_IVideoChannel_Id.htm" />
+  <HelpKINode Title="IVideoChannel.IsProcess свойство" Url="html/P_Recar2_Com_IVideoChannel_IsProcess.htm" />
+  <HelpKINode Title="IVideoChannel.IsWorking свойство" Url="html/P_Recar2_Com_IVideoChannel_IsWorking.htm" />
+  <HelpKINode Title="IVideoChannel.Name свойство" Url="html/P_Recar2_Com_IVideoChannel_Name.htm" />
+  <HelpKINode Title="IVideoChannel.SaveCurrentImage метод" Url="html/M_Recar2_Com_IVideoChannel_SaveCurrentImage.htm" />
+  <HelpKINode Title="IVideoChannel.SetMotionState метод" Url="html/M_Recar2_Com_IVideoChannel_SetMotionState.htm" />
+  <HelpKINode Title="IVideoChannel.SetupAlgs метод" Url="html/M_Recar2_Com_IVideoChannel_SetupAlgs.htm" />
+  <HelpKINode Title="IVideoChannel.SetupTransformation метод" Url="html/M_Recar2_Com_IVideoChannel_SetupTransformation.htm" />
+  <HelpKINode Title="IVideoChannel.SetupVideoSource метод" Url="html/M_Recar2_Com_IVideoChannel_SetupVideoSource.htm" />
+  <HelpKINode Title="IVideoChannel.SetVideoSource метод" Url="html/M_Recar2_Com_IVideoChannel_SetVideoSource.htm" />
   <HelpKINode Title="IVideoCore - интерфейс">
-    <HelpKINode Title="IVideoCore - интерфейс" Url="html/d95812bc-cb61-9b62-2a15-f86fcfc2ed7a.htm" />
-    <HelpKINode Title="методы" Url="html/2d8de633-a55d-b80b-2c8c-04b0067accb7.htm" />
-    <HelpKINode Title="свойства" Url="html/46da8705-a1e9-cf56-0624-8a33bf9df6f3.htm" />
+    <HelpKINode Title="IVideoCore - интерфейс" Url="html/T_Recar2_Com_IVideoCore.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_Com_IVideoCore.htm" />
+    <HelpKINode Title="свойства" Url="html/Properties_T_Recar2_Com_IVideoCore.htm" />
   </HelpKINode>
-  <HelpKINode Title="IVideoCore.AllowTrial метод" Url="html/bbe363e1-7bc0-1b53-ae17-d0d66b52416c.htm" />
-  <HelpKINode Title="IVideoCore.ConfigFilename свойство" Url="html/2487d5df-2dd3-2ed7-6680-ded5b55e5596.htm" />
-  <HelpKINode Title="IVideoCore.ConvertPlateToCapsLatin свойство" Url="html/42168483-a886-122b-340c-5823bf82347e.htm" />
-  <HelpKINode Title="IVideoCore.DispatchVideoFrame метод" Url="html/c9311895-9223-07d6-175f-a8efbe231dbe.htm" />
-  <HelpKINode Title="IVideoCore.Dispose метод" Url="html/e8d5c88a-a709-b8db-0a96-6cda3a249555.htm" />
-  <HelpKINode Title="IVideoCore.GetSettingDescription метод" Url="html/a682857a-4d4b-7582-578f-aeac70a1051d.htm" />
-  <HelpKINode Title="IVideoCore.GetSettingDisplayNames метод" Url="html/3009e6d2-4ddd-3561-29ea-2c98ecaf4429.htm" />
-  <HelpKINode Title="IVideoCore.GetSettingNames метод" Url="html/b9a2e92c-8f2b-8fb5-e610-308ca002c664.htm" />
-  <HelpKINode Title="IVideoCore.GetSettingSections метод" Url="html/cef59738-7a3c-08d3-a8b3-d249d13d551b.htm" />
-  <HelpKINode Title="IVideoCore.GetSettingValue метод" Url="html/87b30a95-9ca1-5d4c-cb58-fb66e1ebe4b0.htm" />
-  <HelpKINode Title="IVideoCore.GetVideoChannel метод" Url="html/fe89e9ee-f29c-b73e-d7ff-4c03715c9f21.htm" />
-  <HelpKINode Title="IVideoCore.HideLogForm метод" Url="html/c24dfe2f-f036-b412-c3f3-49896731d0c5.htm" />
-  <HelpKINode Title="IVideoCore.ImageStorageEnabled свойство" Url="html/3b71bf4d-1843-cd10-2eda-93e23df06c06.htm" />
-  <HelpKINode Title="IVideoCore.ImageStoragePath свойство" Url="html/1a2f588d-f66b-26b3-2e2f-b56c5c0d86f2.htm" />
-  <HelpKINode Title="IVideoCore.Initialize метод" Url="html/35990361-0fa8-e67f-2737-ed2c510613fe.htm" />
-  <HelpKINode Title="IVideoCore.IsInitialized свойство" Url="html/44e99496-a24e-3a92-e352-11484bdcc75d.htm" />
-  <HelpKINode Title="IVideoCore.LoadSettings метод" Url="html/64eaa3f0-63c2-a0c8-03b7-462f88132a30.htm" />
-  <HelpKINode Title="IVideoCore.LogDirectory свойство" Url="html/d683dd67-6ed2-ab43-09f4-dedc7cf133de.htm" />
-  <HelpKINode Title="IVideoCore.MakeImageSnapshot метод" Url="html/2f111fcd-402f-57e8-2e89-a5d1c0dea46f.htm" />
-  <HelpKINode Title="IVideoCore.RegisterNumberRecognizedCallback метод" Url="html/948fac03-fe92-c04c-21b5-458b96cbc8d8.htm" />
-  <HelpKINode Title="IVideoCore.SaveSettings метод" Url="html/2948e8d2-ae0a-0dbd-6415-a4fdd6831179.htm" />
-  <HelpKINode Title="IVideoCore.SetMotionState метод" Url="html/a17402d4-6fd6-b997-6322-97fa462c061a.htm" />
-  <HelpKINode Title="IVideoCore.SetSettingValue метод" Url="html/f423d384-b21f-356d-4f88-860cae49b247.htm" />
-  <HelpKINode Title="IVideoCore.SetVideoFormsLocked метод" Url="html/67dd0c1e-6e06-2a70-67aa-d6f43a6f80d4.htm" />
-  <HelpKINode Title="IVideoCore.SetVideoFormsTopMost метод" Url="html/2ac6e8bd-5104-65bc-45e3-169a2c8be979.htm" />
-  <HelpKINode Title="IVideoCore.SetVideoFormsVisible метод" Url="html/f274d1eb-e229-829d-9bd8-2afeb59e1919.htm" />
-  <HelpKINode Title="IVideoCore.SetVideoSource метод" Url="html/58936ba6-03b2-600b-94a6-4b13d48e1106.htm" />
-  <HelpKINode Title="IVideoCore.ShowAlgSetupForm метод" Url="html/64cc1c08-3977-03ad-98cf-567b7626555f.htm" />
-  <HelpKINode Title="IVideoCore.ShowLogForm метод" Url="html/1cbd2509-6be1-e0af-5dce-ef55eb76f450.htm" />
-  <HelpKINode Title="IVideoCore.ShowSetupForm метод" Url="html/355ec282-1e84-7400-d65b-cbfc6a11785e.htm" />
-  <HelpKINode Title="IVideoCore.Start метод" Url="html/84d8d3ce-770c-c549-5623-ca74c72c87cb.htm" />
-  <HelpKINode Title="IVideoCore.Stop метод" Url="html/c0d1f771-b7c0-e824-e383-0e7b3522a33f.htm" />
-  <HelpKINode Title="IVideoCore.UseIntegratedLogSubsystem свойство" Url="html/b047d52f-84f2-ad19-aa8a-ef0d7dd7bb06.htm" />
-  <HelpKINode Title="IVideoCore.VideoChannelExists метод" Url="html/2217dd4b-477a-8e37-f7ca-052f261afc21.htm" />
-  <HelpKINode Title="IVideoCore.VideoOnlyViewChannelCount свойство" Url="html/851658bf-4209-a9f9-3eb3-8f71294dac7f.htm" />
-  <HelpKINode Title="IVideoCore.VideoProcessChannelCount свойство" Url="html/450ae9b5-3d3f-2cba-ca8d-b1359b961769.htm" />
-  <HelpKINode Title="Length свойство" Url="html/50db43f2-3029-081d-54ec-0357ff54bea0.htm" />
-  <HelpKINode Title="LicenseFileLocation свойство" Url="html/eacb5c29-d708-41d9-07b8-2a662a4c9b2d.htm" />
+  <HelpKINode Title="IVideoCore.AllowTrial метод" Url="html/M_Recar2_Com_IVideoCore_AllowTrial.htm" />
+  <HelpKINode Title="IVideoCore.ConfigFilename свойство" Url="html/P_Recar2_Com_IVideoCore_ConfigFilename.htm" />
+  <HelpKINode Title="IVideoCore.ConvertPlateToCapsLatin свойство" Url="html/P_Recar2_Com_IVideoCore_ConvertPlateToCapsLatin.htm" />
+  <HelpKINode Title="IVideoCore.DispatchVideoFrame метод" Url="html/M_Recar2_Com_IVideoCore_DispatchVideoFrame.htm" />
+  <HelpKINode Title="IVideoCore.Dispose метод" Url="html/M_Recar2_Com_IVideoCore_Dispose.htm" />
+  <HelpKINode Title="IVideoCore.GetSettingDescription метод" Url="html/M_Recar2_Com_IVideoCore_GetSettingDescription.htm" />
+  <HelpKINode Title="IVideoCore.GetSettingDisplayNames метод" Url="html/M_Recar2_Com_IVideoCore_GetSettingDisplayNames.htm" />
+  <HelpKINode Title="IVideoCore.GetSettingNames метод" Url="html/M_Recar2_Com_IVideoCore_GetSettingNames.htm" />
+  <HelpKINode Title="IVideoCore.GetSettingSections метод" Url="html/M_Recar2_Com_IVideoCore_GetSettingSections.htm" />
+  <HelpKINode Title="IVideoCore.GetSettingValue метод" Url="html/M_Recar2_Com_IVideoCore_GetSettingValue.htm" />
+  <HelpKINode Title="IVideoCore.GetVideoChannel метод" Url="html/M_Recar2_Com_IVideoCore_GetVideoChannel.htm" />
+  <HelpKINode Title="IVideoCore.HideLogForm метод" Url="html/M_Recar2_Com_IVideoCore_HideLogForm.htm" />
+  <HelpKINode Title="IVideoCore.ImageStorageEnabled свойство" Url="html/P_Recar2_Com_IVideoCore_ImageStorageEnabled.htm" />
+  <HelpKINode Title="IVideoCore.ImageStoragePath свойство" Url="html/P_Recar2_Com_IVideoCore_ImageStoragePath.htm" />
+  <HelpKINode Title="IVideoCore.Initialize метод" Url="html/M_Recar2_Com_IVideoCore_Initialize.htm" />
+  <HelpKINode Title="IVideoCore.IsInitialized свойство" Url="html/P_Recar2_Com_IVideoCore_IsInitialized.htm" />
+  <HelpKINode Title="IVideoCore.LoadSettings метод" Url="html/M_Recar2_Com_IVideoCore_LoadSettings.htm" />
+  <HelpKINode Title="IVideoCore.LogDirectory свойство" Url="html/P_Recar2_Com_IVideoCore_LogDirectory.htm" />
+  <HelpKINode Title="IVideoCore.MakeImageSnapshot метод" Url="html/M_Recar2_Com_IVideoCore_MakeImageSnapshot.htm" />
+  <HelpKINode Title="IVideoCore.RegisterNumberRecognizedCallback метод" Url="html/M_Recar2_Com_IVideoCore_RegisterNumberRecognizedCallback.htm" />
+  <HelpKINode Title="IVideoCore.SaveSettings метод" Url="html/M_Recar2_Com_IVideoCore_SaveSettings.htm" />
+  <HelpKINode Title="IVideoCore.SetMotionState метод" Url="html/M_Recar2_Com_IVideoCore_SetMotionState.htm" />
+  <HelpKINode Title="IVideoCore.SetSettingValue метод" Url="html/M_Recar2_Com_IVideoCore_SetSettingValue.htm" />
+  <HelpKINode Title="IVideoCore.SetVideoFormsLocked метод" Url="html/M_Recar2_Com_IVideoCore_SetVideoFormsLocked.htm" />
+  <HelpKINode Title="IVideoCore.SetVideoFormsTopMost метод" Url="html/M_Recar2_Com_IVideoCore_SetVideoFormsTopMost.htm" />
+  <HelpKINode Title="IVideoCore.SetVideoFormsVisible метод" Url="html/M_Recar2_Com_IVideoCore_SetVideoFormsVisible.htm" />
+  <HelpKINode Title="IVideoCore.SetVideoSource метод" Url="html/M_Recar2_Com_IVideoCore_SetVideoSource.htm" />
+  <HelpKINode Title="IVideoCore.ShowAlgSetupForm метод" Url="html/M_Recar2_Com_IVideoCore_ShowAlgSetupForm.htm" />
+  <HelpKINode Title="IVideoCore.ShowLogForm метод" Url="html/M_Recar2_Com_IVideoCore_ShowLogForm.htm" />
+  <HelpKINode Title="IVideoCore.ShowSetupForm метод" Url="html/M_Recar2_Com_IVideoCore_ShowSetupForm.htm" />
+  <HelpKINode Title="IVideoCore.Start метод" Url="html/M_Recar2_Com_IVideoCore_Start.htm" />
+  <HelpKINode Title="IVideoCore.Stop метод" Url="html/M_Recar2_Com_IVideoCore_Stop.htm" />
+  <HelpKINode Title="IVideoCore.UseIntegratedLogSubsystem свойство" Url="html/P_Recar2_Com_IVideoCore_UseIntegratedLogSubsystem.htm" />
+  <HelpKINode Title="IVideoCore.VideoChannelExists метод" Url="html/M_Recar2_Com_IVideoCore_VideoChannelExists.htm" />
+  <HelpKINode Title="IVideoCore.VideoOnlyViewChannelCount свойство" Url="html/P_Recar2_Com_IVideoCore_VideoOnlyViewChannelCount.htm" />
+  <HelpKINode Title="IVideoCore.VideoProcessChannelCount свойство" Url="html/P_Recar2_Com_IVideoCore_VideoProcessChannelCount.htm" />
+  <HelpKINode Title="Length свойство" Url="html/P_Recar2_Com_IPlatesList_Length.htm" />
   <HelpKINode Title="LicenseInfo - класс">
-    <HelpKINode Title="LicenseInfo - класс" Url="html/41c89417-4e35-5a9d-3870-dcbf9d7022b0.htm" />
-    <HelpKINode Title="методы" Url="html/c2da67ef-5877-f075-99bd-3c6addf5443f.htm" />
-    <HelpKINode Title="свойства" Url="html/6565c783-f962-76b7-d65b-a049d808c2c7.htm" />
+    <HelpKINode Title="LicenseInfo - класс" Url="html/T_Recar2_LicenseInfo.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_LicenseInfo.htm" />
+    <HelpKINode Title="свойства" Url="html/Properties_T_Recar2_LicenseInfo.htm" />
   </HelpKINode>
-  <HelpKINode Title="LicenseInfo свойство" Url="html/835f4b5d-54fe-1ee2-10b5-d5ac205cb9dc.htm" />
-  <HelpKINode Title="LicenseInfo.ImageProcessChannelCount свойство" Url="html/ea163e34-8314-371b-f8e9-8585a5dd2a53.htm" />
-  <HelpKINode Title="LicenseInfo.Owner свойство" Url="html/78276377-0876-f5dc-fed0-b7fa232faaa7.htm" />
-  <HelpKINode Title="LicenseInfo.Speed свойство" Url="html/ce98d199-8eb6-400d-ff80-96e956547b09.htm" />
-  <HelpKINode Title="LicenseInfo.ToString метод" Url="html/5b88e37e-7ec2-eab0-5baf-a641f6eeeb26.htm" />
-  <HelpKINode Title="LicenseInfo.VideoOnlyViewChannelCount свойство" Url="html/fb3bdb74-531d-b8b6-a866-e1d388acd895.htm" />
-  <HelpKINode Title="LicenseInfo.VideoProcessChannelCount свойство" Url="html/06c832aa-59fb-3981-e19f-795798a97749.htm" />
-  <HelpKINode Title="Lite - член перечисления" Url="html/c7f11a08-b956-1ebd-e8e5-0baf8082a04b.htm" />
+  <HelpKINode Title="LicenseInfo.ImageProcessChannelCount свойство" Url="html/P_Recar2_LicenseInfo_ImageProcessChannelCount.htm" />
+  <HelpKINode Title="LicenseInfo.Owner свойство" Url="html/P_Recar2_LicenseInfo_Owner.htm" />
+  <HelpKINode Title="LicenseInfo.Speed свойство" Url="html/P_Recar2_LicenseInfo_Speed.htm" />
+  <HelpKINode Title="LicenseInfo.ToString метод" Url="html/M_Recar2_LicenseInfo_ToString.htm" />
+  <HelpKINode Title="LicenseInfo.VideoOnlyViewChannelCount свойство" Url="html/P_Recar2_LicenseInfo_VideoOnlyViewChannelCount.htm" />
+  <HelpKINode Title="LicenseInfo.VideoProcessChannelCount свойство" Url="html/P_Recar2_LicenseInfo_VideoProcessChannelCount.htm" />
+  <HelpKINode Title="Lite - член перечисления" Url="html/T_Recar2_ProcessingStrategy.htm" />
   <HelpKINode Title="LoadSettings метод">
-    <HelpKINode Title="BaseCore.LoadSettings - метод" Url="html/5ba355cc-a8d0-26b2-f98b-6f8e04c0eb8a.htm" />
-    <HelpKINode Title="IVideoCore.LoadSettings - метод" Url="html/64eaa3f0-63c2-a0c8-03b7-462f88132a30.htm" />
-    <HelpKINode Title="VideoCoreCom.LoadSettings - метод" Url="html/a34854a1-9f2c-6429-4e7d-c16e3159874d.htm" />
+    <HelpKINode Title="IVideoCore.LoadSettings - метод" Url="html/M_Recar2_Com_IVideoCore_LoadSettings.htm" />
+    <HelpKINode Title="VideoCoreCom.LoadSettings - метод" Url="html/M_Recar2_Com_VideoCoreCom_LoadSettings.htm" />
   </HelpKINode>
-  <HelpKINode Title="LocalizationBrightStep свойство" Url="html/41a18b2d-1752-73fd-ddde-d2ccab192de5.htm" />
+  <HelpKINode Title="LocalizationBrightStep свойство" Url="html/P_Recar2_VideoChannelSettings_LocalizationBrightStep.htm" />
   <HelpKINode Title="LogDirectory свойство">
-    <HelpKINode Title="BaseCoreInitializationParameters.LogDirectory - свойство" Url="html/9fa4524f-2e74-ca4c-a28e-7e09f09642cf.htm" />
-    <HelpKINode Title="IVideoCore.LogDirectory - свойство" Url="html/d683dd67-6ed2-ab43-09f4-dedc7cf133de.htm" />
-    <HelpKINode Title="VideoCoreCom.LogDirectory - свойство" Url="html/0582cda3-9f2e-2932-ff17-797585a4d78c.htm" />
+    <HelpKINode Title="IVideoCore.LogDirectory - свойство" Url="html/P_Recar2_Com_IVideoCore_LogDirectory.htm" />
+    <HelpKINode Title="VideoCoreCom.LogDirectory - свойство" Url="html/P_Recar2_Com_VideoCoreCom_LogDirectory.htm" />
   </HelpKINode>
-  <HelpKINode Title="LookupVideoSources свойство" Url="html/7dffd603-5136-10af-c27b-8c86031d6f6b.htm" />
+  <HelpKINode Title="LookupVideoSources свойство" Url="html/P_Recar2_VideoCoreInitializationParameters_LookupVideoSources.htm" />
   <HelpKINode Title="MakeImageSnapshot метод">
-    <HelpKINode Title="IVideoCore.MakeImageSnapshot - метод" Url="html/2f111fcd-402f-57e8-2e89-a5d1c0dea46f.htm" />
-    <HelpKINode Title="VideoCoreCom.MakeImageSnapshot - метод" Url="html/e9feaabd-9778-dade-ebef-0645bb27b371.htm" />
+    <HelpKINode Title="IVideoCore.MakeImageSnapshot - метод" Url="html/M_Recar2_Com_IVideoCore_MakeImageSnapshot.htm" />
+    <HelpKINode Title="VideoCoreCom.MakeImageSnapshot - метод" Url="html/M_Recar2_Com_VideoCoreCom_MakeImageSnapshot.htm" />
   </HelpKINode>
-  <HelpKINode Title="MakeUnrecogDecisionByMotion свойство" Url="html/5778e582-bf9f-43f6-94ff-b3d841031c76.htm" />
-  <HelpKINode Title="Matrix свойство" Url="html/48df8b68-b030-7f9e-57fe-b3991b09b3a4.htm" />
-  <HelpKINode Title="MaxAllowedUnrecognizedChars свойство" Url="html/adf58571-227f-48aa-1ac0-6f9a317bb694.htm" />
-  <HelpKINode Title="MaxDecisionFrames свойство" Url="html/a70c6d37-78bd-81d3-b4de-7a7962ca6a88.htm" />
-  <HelpKINode Title="Maximum свойство" Url="html/7b1fb871-99c7-e459-6383-4a0acd39bdd5.htm" />
-  <HelpKINode Title="MaxPlateSize свойство" Url="html/e5ab4ad0-4fbc-18cc-fa8e-a02d569e973c.htm" />
-  <HelpKINode Title="MaxProbDifference свойство" Url="html/b4d3cca7-9196-1aca-51f2-da4fe297d3c3.htm" />
-  <HelpKINode Title="MinDecisionFrames свойство" Url="html/43ee266f-8c54-6c04-0c4e-2fc406a04cda.htm" />
-  <HelpKINode Title="MinDecisionThreshold свойство" Url="html/c796a66d-b854-58bf-d178-0b1aee340591.htm" />
-  <HelpKINode Title="Minimum свойство" Url="html/efd870c5-7d10-bb11-2acb-eb5584ccb5a9.htm" />
-  <HelpKINode Title="MinMaxChanged событие" Url="html/da7b8a86-c703-411e-1219-20027951d702.htm" />
-  <HelpKINode Title="MinPlateSize свойство" Url="html/daf3ffbf-dea9-0dfa-4d60-75d2c251dd2d.htm" />
-  <HelpKINode Title="MinUnrecogDecisionFrames свойство" Url="html/e4dae7f5-fef1-4de7-dd18-4e89c1a61cef.htm" />
-  <HelpKINode Title="Models свойство" Url="html/9e85204d-6775-1e6d-ed86-6de3ba65459b.htm" />
-  <HelpKINode Title="MotionDetected событие" Url="html/a7304e23-7fb0-4171-34d7-4b9b9ce8db15.htm" />
-  <HelpKINode Title="MotionDetectMethod свойство" Url="html/a66e183d-ae37-a4d3-3d4c-6682eb239a4e.htm" />
-  <HelpKINode Title="MotionTimeout свойство" Url="html/2631430d-48fb-9c6f-58d1-f063e1b08f04.htm" />
-  <HelpKINode Title="MovementDirection - перечисление" Url="html/01832ec4-d1ec-1ade-377a-2ec812e1a2d9.htm" />
+  <HelpKINode Title="MakeUnrecogDecisionByMotion свойство" Url="html/P_Recar2_VideoChannelSettings_MakeUnrecogDecisionByMotion.htm" />
+  <HelpKINode Title="Matrix свойство" Url="html/P_Recar2_NumberRecognizedEventArgs_Matrix.htm" />
+  <HelpKINode Title="MaxAllowedUnrecognizedChars свойство" Url="html/P_Recar2_VideoChannelSettings_MaxAllowedUnrecognizedChars.htm" />
+  <HelpKINode Title="MaxDecisionFrames свойство" Url="html/P_Recar2_VideoChannelSettings_MaxDecisionFrames.htm" />
+  <HelpKINode Title="Maximum свойство" Url="html/P_Recar2_RangeSetting_1_Maximum.htm" />
+  <HelpKINode Title="MaxPlateSize свойство" Url="html/P_Recar2_VideoChannelSettings_MaxPlateSize.htm" />
+  <HelpKINode Title="MaxProbDifference свойство" Url="html/P_Recar2_VideoChannelSettings_MaxProbDifference.htm" />
+  <HelpKINode Title="MinDecisionFrames свойство" Url="html/P_Recar2_VideoChannelSettings_MinDecisionFrames.htm" />
+  <HelpKINode Title="MinDecisionThreshold свойство" Url="html/P_Recar2_VideoChannelSettings_MinDecisionThreshold.htm" />
+  <HelpKINode Title="Minimum свойство" Url="html/P_Recar2_RangeSetting_1_Minimum.htm" />
+  <HelpKINode Title="MinMaxChanged событие" Url="html/E_Recar2_RangeSetting_1_MinMaxChanged.htm" />
+  <HelpKINode Title="MinPlateSize свойство" Url="html/P_Recar2_VideoChannelSettings_MinPlateSize.htm" />
+  <HelpKINode Title="MinUnrecogDecisionFrames свойство" Url="html/P_Recar2_VideoChannelSettings_MinUnrecogDecisionFrames.htm" />
+  <HelpKINode Title="Models свойство" Url="html/P_Recar2_Settings_Models.htm" />
+  <HelpKINode Title="MotionDetected событие" Url="html/E_Recar2_VideoCore_MotionDetected.htm" />
+  <HelpKINode Title="MotionDetectMethod свойство" Url="html/P_Recar2_VideoChannelSettings_MotionDetectMethod.htm" />
+  <HelpKINode Title="MotionTimeout свойство" Url="html/P_Recar2_VideoChannelSettings_MotionTimeout.htm" />
+  <HelpKINode Title="MovementDirection - перечисление" Url="html/T_Recar2_MovementDirection.htm" />
   <HelpKINode Title="MovementDirection свойство">
-    <HelpKINode Title="ExtPlateNumber.MovementDirection - свойство" Url="html/f8dbaea2-92ca-b4b0-457c-9f8499814745.htm" />
-    <HelpKINode Title="IRecarSolution.MovementDirection - свойство" Url="html/f226594a-ef9f-161f-daf6-bf99f8dc9155.htm" />
-    <HelpKINode Title="RecarSolution.MovementDirection - свойство" Url="html/60057f2c-4cde-157d-b0b6-200f71e9a215.htm" />
+    <HelpKINode Title="ExtPlateNumber.MovementDirection - свойство" Url="html/P_Recar2_ExtPlateNumber_MovementDirection.htm" />
+    <HelpKINode Title="IRecarSolution.MovementDirection - свойство" Url="html/P_Recar2_Com_IRecarSolution_MovementDirection.htm" />
+    <HelpKINode Title="RecarSolution.MovementDirection - свойство" Url="html/P_Recar2_Com_RecarSolution_MovementDirection.htm" />
   </HelpKINode>
-  <HelpKINode Title="Name свойство" Url="html/cb974d7c-8991-982d-9833-dd5a9afddc7c.htm" />
-  <HelpKINode Title="NonActivate - член перечисления" Url="html/b08cf0a4-8043-118b-52a2-3479a627a883.htm" />
+  <HelpKINode Title="Name свойство" Url="html/P_Recar2_Com_IVideoChannel_Name.htm" />
+  <HelpKINode Title="NonActivate - член перечисления" Url="html/T_Recar2_TrialState.htm" />
   <HelpKINode Title="Number свойство">
-    <HelpKINode Title="IRecarSolution.Number - свойство" Url="html/fb96e5b8-a6e9-4ddd-bcf3-7aedb8c72bdc.htm" />
-    <HelpKINode Title="NumberRecognizedEventArgs.Number - свойство" Url="html/73cb3a41-073b-24a1-c883-98c0a6018617.htm" />
-    <HelpKINode Title="RecarSolution.Number - свойство" Url="html/862d1e7f-d5f7-5b1e-3739-6829fe072eae.htm" />
+    <HelpKINode Title="IRecarSolution.Number - свойство" Url="html/P_Recar2_Com_IRecarSolution_Number.htm" />
+    <HelpKINode Title="NumberRecognizedEventArgs.Number - свойство" Url="html/P_Recar2_NumberRecognizedEventArgs_Number.htm" />
+    <HelpKINode Title="RecarSolution.Number - свойство" Url="html/P_Recar2_Com_RecarSolution_Number.htm" />
   </HelpKINode>
-  <HelpKINode Title="NumberRecognized метод" Url="html/e85079e4-7fe8-f8c2-697c-c1a0d2de0568.htm" />
+  <HelpKINode Title="NumberRecognized метод" Url="html/M_Recar2_Com__IVideoCoreEvents_NumberRecognized.htm" />
   <HelpKINode Title="NumberRecognized событие">
-    <HelpKINode Title="VideoCore.NumberRecognized - событие" Url="html/2ad4e0b3-cff0-e72d-e7f6-123da0a8f5c5.htm" />
-    <HelpKINode Title="VideoCoreCom.NumberRecognized - событие" Url="html/c883573e-d448-7e2a-a02c-3b06a38802ff.htm" />
+    <HelpKINode Title="VideoCore.NumberRecognized - событие" Url="html/E_Recar2_VideoCore_NumberRecognized.htm" />
+    <HelpKINode Title="VideoCoreCom.NumberRecognized - событие" Url="html/E_Recar2_Com_VideoCoreCom_NumberRecognized.htm" />
   </HelpKINode>
   <HelpKINode Title="NumberRecognizedEventArgs - класс">
-    <HelpKINode Title="NumberRecognizedEventArgs - класс" Url="html/47a62179-bab3-7c15-4618-5e6f873d4023.htm" />
-    <HelpKINode Title="конструктор" Url="html/8d04656c-4054-9f36-edef-5efe8a35147b.htm" />
-    <HelpKINode Title="свойства" Url="html/3e5bfa78-d0cb-1eb9-45ac-50aa551a0c5b.htm" />
+    <HelpKINode Title="NumberRecognizedEventArgs - класс" Url="html/T_Recar2_NumberRecognizedEventArgs.htm" />
+    <HelpKINode Title="конструктор" Url="html/M_Recar2_NumberRecognizedEventArgs__ctor.htm" />
+    <HelpKINode Title="свойства" Url="html/Properties_T_Recar2_NumberRecognizedEventArgs.htm" />
   </HelpKINode>
-  <HelpKINode Title="NumberRecognizedEventArgs.Channel свойство" Url="html/e422e801-fd34-3c73-56c7-b94f739b49a7.htm" />
-  <HelpKINode Title="NumberRecognizedEventArgs.EventId свойство" Url="html/4ae2cf40-130b-0ae0-b8e8-31fc3bda3b79.htm" />
-  <HelpKINode Title="NumberRecognizedEventArgs.Matrix свойство" Url="html/48df8b68-b030-7f9e-57fe-b3991b09b3a4.htm" />
-  <HelpKINode Title="NumberRecognizedEventArgs.Number свойство" Url="html/73cb3a41-073b-24a1-c883-98c0a6018617.htm" />
-  <HelpKINode Title="NumberRecognizedEventArgs.NumberRecognizedEventArgs конструктор" Url="html/8d04656c-4054-9f36-edef-5efe8a35147b.htm" />
-  <HelpKINode Title="NumberRecognizedHandler - делегат" Url="html/2b87b1bb-0f66-d0a4-4435-ce43596e4229.htm" />
+  <HelpKINode Title="NumberRecognizedEventArgs.Channel свойство" Url="html/P_Recar2_NumberRecognizedEventArgs_Channel.htm" />
+  <HelpKINode Title="NumberRecognizedEventArgs.EventId свойство" Url="html/P_Recar2_NumberRecognizedEventArgs_EventId.htm" />
+  <HelpKINode Title="NumberRecognizedEventArgs.Matrix свойство" Url="html/P_Recar2_NumberRecognizedEventArgs_Matrix.htm" />
+  <HelpKINode Title="NumberRecognizedEventArgs.Number свойство" Url="html/P_Recar2_NumberRecognizedEventArgs_Number.htm" />
+  <HelpKINode Title="NumberRecognizedEventArgs.NumberRecognizedEventArgs конструктор" Url="html/M_Recar2_NumberRecognizedEventArgs__ctor.htm" />
+  <HelpKINode Title="NumberRecognizedHandler - делегат" Url="html/T_Recar2_Com_NumberRecognizedHandler.htm" />
   <HelpKINode Title="NumberType свойство">
-    <HelpKINode Title="IRecarSolution.NumberType - свойство" Url="html/b4c5c7eb-0dc5-31e4-e41b-ec8f49e8f954.htm" />
-    <HelpKINode Title="PlateNumber.NumberType - свойство" Url="html/b049977c-e00c-82fa-f10f-608983c22c09.htm" />
-    <HelpKINode Title="RecarSolution.NumberType - свойство" Url="html/2091cbfd-cebd-4929-2528-a1bd57bb5ec4.htm" />
+    <HelpKINode Title="IRecarSolution.NumberType - свойство" Url="html/P_Recar2_Com_IRecarSolution_NumberType.htm" />
+    <HelpKINode Title="PlateNumber.NumberType - свойство" Url="html/P_Recar2_PlateNumber_NumberType.htm" />
+    <HelpKINode Title="RecarSolution.NumberType - свойство" Url="html/P_Recar2_Com_RecarSolution_NumberType.htm" />
   </HelpKINode>
-  <HelpKINode Title="Opacity свойство" Url="html/297cf496-4cf8-9a14-343f-85b7364e8da7.htm" />
-  <HelpKINode Title="Owner свойство" Url="html/78276377-0876-f5dc-fed0-b7fa232faaa7.htm" />
-  <HelpKINode Title="Pixel - член перечисления" Url="html/82273c1b-6a19-b744-1029-545901b3b113.htm" />
+  <HelpKINode Title="Opacity свойство" Url="html/P_Recar2_Utility_StencilsImagesCreater_Opacity.htm" />
+  <HelpKINode Title="Owner свойство" Url="html/P_Recar2_LicenseInfo_Owner.htm" />
+  <HelpKINode Title="Pixel - член перечисления" Url="html/T_Recar2_ZoneSizeMode.htm" />
   <HelpKINode Title="PlateNumber - класс">
-    <HelpKINode Title="PlateNumber - класс" Url="html/32a9f62f-82c7-f7ca-5f55-1fb694756b18.htm" />
-    <HelpKINode Title="методы" Url="html/b02647ff-4d6a-364b-9bdc-5dc2c9682cad.htm" />
-    <HelpKINode Title="свойства" Url="html/febbd018-b7ed-4fe0-9666-eda7c2cc100e.htm" />
+    <HelpKINode Title="PlateNumber - класс" Url="html/T_Recar2_PlateNumber.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_PlateNumber.htm" />
+    <HelpKINode Title="свойства" Url="html/Properties_T_Recar2_PlateNumber.htm" />
   </HelpKINode>
-  <HelpKINode Title="PlateNumber.BestFrameTimeStamp свойство" Url="html/21ddb1d5-60e9-9291-3aae-ba67deabc89f.htm" />
-  <HelpKINode Title="PlateNumber.NumberType свойство" Url="html/b049977c-e00c-82fa-f10f-608983c22c09.htm" />
-  <HelpKINode Title="PlateNumber.Reliability свойство" Url="html/76184a15-beca-1d3b-26cc-094e520e0e80.htm" />
-  <HelpKINode Title="PlateNumber.Text свойство" Url="html/51ee2045-a609-fc0a-118c-66a443c643d9.htm" />
-  <HelpKINode Title="PlateNumber.ToString метод" Url="html/38b9f4ea-1876-dfe2-ab86-6ea99e39f8bb.htm" />
-  <HelpKINode Title="PlateNumber.Zone свойство" Url="html/0d970621-85c0-1909-d02f-3ed11080f29d.htm" />
-  <HelpKINode Title="Points свойство" Url="html/33b007ce-2194-cbaf-ea60-36c0e0d9735b.htm" />
-  <HelpKINode Title="PreLocalization - член перечисления" Url="html/c7f11a08-b956-1ebd-e8e5-0baf8082a04b.htm" />
-  <HelpKINode Title="ProcessAll - член перечисления" Url="html/05029b8e-22de-4f01-f25c-62d4cffe66f1.htm" />
-  <HelpKINode Title="ProcessFrame метод" Url="html/fe6a2274-69ec-dcc8-56ad-97ee7a42ec94.htm" />
-  <HelpKINode Title="ProcessImage метод" Url="html/d70e782e-b804-f2fb-079c-1b6a4440d271.htm" />
-  <HelpKINode Title="ProcessImageAsync метод" Url="html/95e4bacb-fa23-501e-2adc-3c98d8699cb5.htm" />
-  <HelpKINode Title="ProcessImageByVariants метод" Url="html/7759dccd-3abb-e65e-7add-4decad2dd089.htm" />
-  <HelpKINode Title="ProcessingStrategy - перечисление" Url="html/c7f11a08-b956-1ebd-e8e5-0baf8082a04b.htm" />
-  <HelpKINode Title="ProcessStrategy свойство" Url="html/4148cf00-1f78-7b61-a90f-24dcfc1a6d20.htm" />
+  <HelpKINode Title="PlateNumber.BestFrameTimeStamp свойство" Url="html/P_Recar2_PlateNumber_BestFrameTimeStamp.htm" />
+  <HelpKINode Title="PlateNumber.NumberType свойство" Url="html/P_Recar2_PlateNumber_NumberType.htm" />
+  <HelpKINode Title="PlateNumber.Reliability свойство" Url="html/P_Recar2_PlateNumber_Reliability.htm" />
+  <HelpKINode Title="PlateNumber.Text свойство" Url="html/P_Recar2_PlateNumber_Text.htm" />
+  <HelpKINode Title="PlateNumber.ToString метод" Url="html/M_Recar2_PlateNumber_ToString.htm" />
+  <HelpKINode Title="PlateNumber.Zone свойство" Url="html/P_Recar2_PlateNumber_Zone.htm" />
+  <HelpKINode Title="Points свойство" Url="html/P_Recar2_Roi_Points.htm" />
+  <HelpKINode Title="PreLocalization - член перечисления" Url="html/T_Recar2_ProcessingStrategy.htm" />
+  <HelpKINode Title="ProcessAll - член перечисления" Url="html/T_Recar2_ZoneSearchMethod.htm" />
+  <HelpKINode Title="ProcessFrame метод" Url="html/M_Recar2_VideoCore_ProcessFrame.htm" />
+  <HelpKINode Title="ProcessImage метод" Url="html/Overload_Recar2_ImageCore_ProcessImage.htm" />
+  <HelpKINode Title="ProcessImageAsync метод" Url="html/Overload_Recar2_ImageCore_ProcessImageAsync.htm" />
+  <HelpKINode Title="ProcessImageByVariants метод" Url="html/M_Recar2_ImageCore_ProcessImageByVariants.htm" />
+  <HelpKINode Title="ProcessingStrategy - перечисление" Url="html/T_Recar2_ProcessingStrategy.htm" />
+  <HelpKINode Title="ProcessStrategy свойство" Url="html/P_Recar2_VideoChannelSettings_ProcessStrategy.htm" />
   <HelpKINode Title="RangeSetting(Of T) - класс">
-    <HelpKINode Title="RangeSetting(T) - класс" Url="html/2910bd38-cc50-a5e9-0b85-00e9fafb978e.htm" />
-    <HelpKINode Title="методы" Url="html/1e5007de-e20a-081b-4d60-4dc336552788.htm" />
-    <HelpKINode Title="свойства" Url="html/840c18cf-03de-abc8-6123-5a855e944824.htm" />
-    <HelpKINode Title="события" Url="html/1875c8f2-fd00-db3a-104a-3bc8c9c5e362.htm" />
+    <HelpKINode Title="RangeSetting(T) - класс" Url="html/T_Recar2_RangeSetting_1.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_RangeSetting_1.htm" />
+    <HelpKINode Title="свойства" Url="html/Properties_T_Recar2_RangeSetting_1.htm" />
+    <HelpKINode Title="события" Url="html/Events_T_Recar2_RangeSetting_1.htm" />
   </HelpKINode>
-  <HelpKINode Title="RangeSetting(Of T).GetMaximum метод" Url="html/476a81e7-6cec-ad9f-04a7-5aafcc9390ed.htm" />
-  <HelpKINode Title="RangeSetting(Of T).GetMinimum метод" Url="html/39b6d0c1-1a99-8979-77c1-85cef454c97a.htm" />
-  <HelpKINode Title="RangeSetting(Of T).GetStep метод" Url="html/d95f9a86-634f-caf8-733b-cdd876917365.htm" />
-  <HelpKINode Title="RangeSetting(Of T).Maximum свойство" Url="html/7b1fb871-99c7-e459-6383-4a0acd39bdd5.htm" />
-  <HelpKINode Title="RangeSetting(Of T).Minimum свойство" Url="html/efd870c5-7d10-bb11-2acb-eb5584ccb5a9.htm" />
-  <HelpKINode Title="RangeSetting(Of T).MinMaxChanged событие" Url="html/da7b8a86-c703-411e-1219-20027951d702.htm" />
-  <HelpKINode Title="RangeSetting(Of T).Step свойство" Url="html/4915932f-5796-8c11-c0a6-e5eac8d3eacb.htm" />
-  <HelpKINode Title="RangeSetting(Of T).StepChanged событие" Url="html/e367c97a-c769-a6a3-a200-7d995f6607d0.htm" />
-  <HelpKINode Title="RangeSetting(Of T).ToString метод" Url="html/2ee9bb8d-23df-1f28-1495-b5a2bd75ccc5.htm" />
-  <HelpKINode Title="RangeSetting(Of T).ValidateValue метод" Url="html/ba46e555-c420-c8c1-1ca6-a2693d707e86.htm" />
-  <HelpKINode Title="RangeSetting(Of T).Value свойство" Url="html/3aada5bd-94c7-5fc7-b627-2dcfb8bac578.htm" />
+  <HelpKINode Title="RangeSetting(Of T).GetMaximum метод" Url="html/M_Recar2_RangeSetting_1_GetMaximum.htm" />
+  <HelpKINode Title="RangeSetting(Of T).GetMinimum метод" Url="html/M_Recar2_RangeSetting_1_GetMinimum.htm" />
+  <HelpKINode Title="RangeSetting(Of T).GetStep метод" Url="html/M_Recar2_RangeSetting_1_GetStep.htm" />
+  <HelpKINode Title="RangeSetting(Of T).Maximum свойство" Url="html/P_Recar2_RangeSetting_1_Maximum.htm" />
+  <HelpKINode Title="RangeSetting(Of T).Minimum свойство" Url="html/P_Recar2_RangeSetting_1_Minimum.htm" />
+  <HelpKINode Title="RangeSetting(Of T).MinMaxChanged событие" Url="html/E_Recar2_RangeSetting_1_MinMaxChanged.htm" />
+  <HelpKINode Title="RangeSetting(Of T).Step свойство" Url="html/P_Recar2_RangeSetting_1_Step.htm" />
+  <HelpKINode Title="RangeSetting(Of T).StepChanged событие" Url="html/E_Recar2_RangeSetting_1_StepChanged.htm" />
+  <HelpKINode Title="RangeSetting(Of T).ToString метод" Url="html/M_Recar2_RangeSetting_1_ToString.htm" />
+  <HelpKINode Title="RangeSetting(Of T).ValidateValue метод" Url="html/M_Recar2_RangeSetting_1_ValidateValue.htm" />
+  <HelpKINode Title="RangeSetting(Of T).Value свойство" Url="html/P_Recar2_RangeSetting_1_Value.htm" />
   <HelpKINode Title="RangeSetting&lt;T&gt; - класс">
-    <HelpKINode Title="RangeSetting(T) - класс" Url="html/2910bd38-cc50-a5e9-0b85-00e9fafb978e.htm" />
-    <HelpKINode Title="методы" Url="html/1e5007de-e20a-081b-4d60-4dc336552788.htm" />
-    <HelpKINode Title="свойства" Url="html/840c18cf-03de-abc8-6123-5a855e944824.htm" />
-    <HelpKINode Title="события" Url="html/1875c8f2-fd00-db3a-104a-3bc8c9c5e362.htm" />
+    <HelpKINode Title="RangeSetting(T) - класс" Url="html/T_Recar2_RangeSetting_1.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_RangeSetting_1.htm" />
+    <HelpKINode Title="свойства" Url="html/Properties_T_Recar2_RangeSetting_1.htm" />
+    <HelpKINode Title="события" Url="html/Events_T_Recar2_RangeSetting_1.htm" />
   </HelpKINode>
-  <HelpKINode Title="RangeSetting&lt;T&gt;.GetMaximum метод" Url="html/476a81e7-6cec-ad9f-04a7-5aafcc9390ed.htm" />
-  <HelpKINode Title="RangeSetting&lt;T&gt;.GetMinimum метод" Url="html/39b6d0c1-1a99-8979-77c1-85cef454c97a.htm" />
-  <HelpKINode Title="RangeSetting&lt;T&gt;.GetStep метод" Url="html/d95f9a86-634f-caf8-733b-cdd876917365.htm" />
-  <HelpKINode Title="RangeSetting&lt;T&gt;.Maximum свойство" Url="html/7b1fb871-99c7-e459-6383-4a0acd39bdd5.htm" />
-  <HelpKINode Title="RangeSetting&lt;T&gt;.Minimum свойство" Url="html/efd870c5-7d10-bb11-2acb-eb5584ccb5a9.htm" />
-  <HelpKINode Title="RangeSetting&lt;T&gt;.MinMaxChanged событие" Url="html/da7b8a86-c703-411e-1219-20027951d702.htm" />
-  <HelpKINode Title="RangeSetting&lt;T&gt;.Step свойство" Url="html/4915932f-5796-8c11-c0a6-e5eac8d3eacb.htm" />
-  <HelpKINode Title="RangeSetting&lt;T&gt;.StepChanged событие" Url="html/e367c97a-c769-a6a3-a200-7d995f6607d0.htm" />
-  <HelpKINode Title="RangeSetting&lt;T&gt;.ToString метод" Url="html/2ee9bb8d-23df-1f28-1495-b5a2bd75ccc5.htm" />
-  <HelpKINode Title="RangeSetting&lt;T&gt;.ValidateValue метод" Url="html/ba46e555-c420-c8c1-1ca6-a2693d707e86.htm" />
-  <HelpKINode Title="RangeSetting&lt;T&gt;.Value свойство" Url="html/3aada5bd-94c7-5fc7-b627-2dcfb8bac578.htm" />
-  <HelpKINode Title="RealZoneSizeMode свойство" Url="html/e5a2d313-6ec7-2be3-1a27-173e3e3d085d.htm" />
-  <HelpKINode Title="Recar2 - пространство имён" Url="html/0dd0c505-07fc-c3e8-128c-d1a0701f2a29.htm" />
-  <HelpKINode Title="Recar2.AddIn - пространство имён" Url="html/96a2666c-3296-a881-fb0f-9d8f97e17c76.htm" />
-  <HelpKINode Title="Recar2.AddIn.IAsyncEvent - интерфейс" Url="html/6e0a93bb-8e0c-5314-3c8e-1ca99f0e1d6d.htm" />
-  <HelpKINode Title="Recar2.AddIn.IInitDone - интерфейс" Url="html/e60796ec-d119-a247-2543-b527ace0c062.htm" />
-  <HelpKINode Title="Recar2.AddIn.IStatusLine - интерфейс" Url="html/071d8471-4e35-d07d-5776-14b75f6182dd.htm" />
-  <HelpKINode Title="Recar2.BaseCoreExtensions - класс" Url="html/0561b959-4ae3-eabf-dd45-dfa4e434be86.htm" />
-  <HelpKINode Title="Recar2.ChannelSpeed - перечисление" Url="html/1050c193-f7b5-c31a-95b8-3aa116d3a58a.htm" />
-  <HelpKINode Title="Recar2.Com - пространство имён" Url="html/68726a4f-5108-9c67-8918-cc6a6e73f216.htm" />
-  <HelpKINode Title="Recar2.Com.IPlatesList - интерфейс" Url="html/6668be4e-1a4a-8add-41fc-84c2bba3586a.htm" />
-  <HelpKINode Title="Recar2.Com.IRecarSolution - интерфейс" Url="html/c8fc0f66-db11-9b96-5b94-03633ffca39e.htm" />
-  <HelpKINode Title="Recar2.Com.IVideoChannel - интерфейс" Url="html/56c8fb91-c4ca-188b-b3b2-11193d12b7b6.htm" />
-  <HelpKINode Title="Recar2.Com.IVideoCore - интерфейс" Url="html/d95812bc-cb61-9b62-2a15-f86fcfc2ed7a.htm" />
-  <HelpKINode Title="Recar2.Com.NumberRecognizedHandler - делегат" Url="html/2b87b1bb-0f66-d0a4-4435-ce43596e4229.htm" />
-  <HelpKINode Title="Recar2.Com.RecarSolution - класс" Url="html/e14aa29d-ef2f-13de-5e80-a958cdec2097.htm" />
-  <HelpKINode Title="Recar2.Com.VideoCoreCom - класс" Url="html/ccf26244-bb52-2173-a366-1022cb598c45.htm" />
-  <HelpKINode Title="Recar2.Com._IVideoCoreEvents - интерфейс" Url="html/18c6bc37-a43c-4f41-ff45-e3ffc58ea60c.htm" />
-  <HelpKINode Title="Recar2.CoreExtensions - класс" Url="html/5ba49a35-7e5c-029c-481a-c3ab6ec739a9.htm" />
-  <HelpKINode Title="Recar2.DrawingConvertExtensions - класс" Url="html/67592883-d8de-6ace-73b6-1cfaa6443988.htm" />
-  <HelpKINode Title="Recar2.ExtPlateNumber - класс" Url="html/03e48409-642b-b9f9-7b66-d18a4ed134f1.htm" />
-  <HelpKINode Title="Recar2.ImageCore - класс" Url="html/0ecd30a3-2420-dbc0-b961-311b9ee08659.htm" />
-  <HelpKINode Title="Recar2.ImageCoreExtensions - класс" Url="html/2b4f57bb-b91d-8628-7953-265dba5838bc.htm" />
-  <HelpKINode Title="Recar2.ImageCoreInitializationParameters - класс" Url="html/5215cb7c-0cb3-2030-288d-88b6ced0b254.htm" />
-  <HelpKINode Title="Recar2.Internals - пространство имён" Url="html/6da04919-8d63-2c8f-14b3-136fe2e029ba.htm" />
-  <HelpKINode Title="Recar2.Internals.BaseCore - класс" Url="html/5d7b3a7d-89fd-7a42-1091-912a0f6d1528.htm" />
-  <HelpKINode Title="Recar2.Internals.BaseCoreInitializationParameters - класс" Url="html/bcb0609a-f3e9-5366-8c3f-78338d44cd0b.htm" />
-  <HelpKINode Title="Recar2.LicenseInfo - класс" Url="html/41c89417-4e35-5a9d-3870-dcbf9d7022b0.htm" />
-  <HelpKINode Title="Recar2.MovementDirection - перечисление" Url="html/01832ec4-d1ec-1ade-377a-2ec812e1a2d9.htm" />
-  <HelpKINode Title="Recar2.NumberRecognizedEventArgs - класс" Url="html/47a62179-bab3-7c15-4618-5e6f873d4023.htm" />
-  <HelpKINode Title="Recar2.PlateNumber - класс" Url="html/32a9f62f-82c7-f7ca-5f55-1fb694756b18.htm" />
-  <HelpKINode Title="Recar2.ProcessingStrategy - перечисление" Url="html/c7f11a08-b956-1ebd-e8e5-0baf8082a04b.htm" />
-  <HelpKINode Title="Recar2.RangeSetting(Of T) - класс" Url="html/2910bd38-cc50-a5e9-0b85-00e9fafb978e.htm" />
-  <HelpKINode Title="Recar2.RangeSetting&lt;T&gt; - класс" Url="html/2910bd38-cc50-a5e9-0b85-00e9fafb978e.htm" />
-  <HelpKINode Title="Recar2.Roi - структура" Url="html/262429f5-c169-d506-9f23-8cc61f10759c.htm" />
-  <HelpKINode Title="Recar2.Setting(Of T) - класс" Url="html/76bcfcc2-d123-a60f-de58-e3e65126f7c7.htm" />
-  <HelpKINode Title="Recar2.Setting&lt;T&gt; - класс" Url="html/76bcfcc2-d123-a60f-de58-e3e65126f7c7.htm" />
-  <HelpKINode Title="Recar2.Settings - класс" Url="html/724ba2bd-56df-8c51-8ab8-4848297280db.htm" />
-  <HelpKINode Title="Recar2.TrialDelegate - делегат" Url="html/a67a1876-f24d-c971-69f3-b98101a0561b.htm" />
-  <HelpKINode Title="Recar2.TrialState - перечисление" Url="html/b08cf0a4-8043-118b-52a2-3479a627a883.htm" />
-  <HelpKINode Title="Recar2.Utility - пространство имён" Url="html/d50c0792-8760-2227-d62c-fe7f043caae9.htm" />
-  <HelpKINode Title="Recar2.Utility.StencilsImagesCreater - класс" Url="html/dc84e1de-15d1-4eab-86c0-761eac727aa6.htm" />
-  <HelpKINode Title="Recar2.VideoChannelSettings - класс" Url="html/e9c16317-8a46-c70d-6253-3004e99076b2.htm" />
-  <HelpKINode Title="Recar2.VideoCore - класс" Url="html/cb693d57-5030-3855-e4bc-6cd1f1721585.htm" />
-  <HelpKINode Title="Recar2.VideoCoreExtensions - класс" Url="html/773c337b-ef08-3750-20b3-f98e5e62a721.htm" />
-  <HelpKINode Title="Recar2.VideoCoreInitializationParameters - класс" Url="html/5028043f-0656-071f-d1d4-743d7fca7262.htm" />
-  <HelpKINode Title="Recar2.ZoneSearchMethod - перечисление" Url="html/05029b8e-22de-4f01-f25c-62d4cffe66f1.htm" />
-  <HelpKINode Title="Recar2.ZoneSizeMode - перечисление" Url="html/82273c1b-6a19-b744-1029-545901b3b113.htm" />
+  <HelpKINode Title="RangeSetting&lt;T&gt;.GetMaximum метод" Url="html/M_Recar2_RangeSetting_1_GetMaximum.htm" />
+  <HelpKINode Title="RangeSetting&lt;T&gt;.GetMinimum метод" Url="html/M_Recar2_RangeSetting_1_GetMinimum.htm" />
+  <HelpKINode Title="RangeSetting&lt;T&gt;.GetStep метод" Url="html/M_Recar2_RangeSetting_1_GetStep.htm" />
+  <HelpKINode Title="RangeSetting&lt;T&gt;.Maximum свойство" Url="html/P_Recar2_RangeSetting_1_Maximum.htm" />
+  <HelpKINode Title="RangeSetting&lt;T&gt;.Minimum свойство" Url="html/P_Recar2_RangeSetting_1_Minimum.htm" />
+  <HelpKINode Title="RangeSetting&lt;T&gt;.MinMaxChanged событие" Url="html/E_Recar2_RangeSetting_1_MinMaxChanged.htm" />
+  <HelpKINode Title="RangeSetting&lt;T&gt;.Step свойство" Url="html/P_Recar2_RangeSetting_1_Step.htm" />
+  <HelpKINode Title="RangeSetting&lt;T&gt;.StepChanged событие" Url="html/E_Recar2_RangeSetting_1_StepChanged.htm" />
+  <HelpKINode Title="RangeSetting&lt;T&gt;.ToString метод" Url="html/M_Recar2_RangeSetting_1_ToString.htm" />
+  <HelpKINode Title="RangeSetting&lt;T&gt;.ValidateValue метод" Url="html/M_Recar2_RangeSetting_1_ValidateValue.htm" />
+  <HelpKINode Title="RangeSetting&lt;T&gt;.Value свойство" Url="html/P_Recar2_RangeSetting_1_Value.htm" />
+  <HelpKINode Title="RealZoneSizeMode свойство" Url="html/P_Recar2_VideoChannelSettings_RealZoneSizeMode.htm" />
+  <HelpKINode Title="Recar2 - пространство имён" Url="html/N_Recar2.htm" />
+  <HelpKINode Title="Recar2.BaseCoreExtensions - класс" Url="html/T_Recar2_BaseCoreExtensions.htm" />
+  <HelpKINode Title="Recar2.ChannelSpeed - перечисление" Url="html/T_Recar2_ChannelSpeed.htm" />
+  <HelpKINode Title="Recar2.Com - пространство имён" Url="html/N_Recar2_Com.htm" />
+  <HelpKINode Title="Recar2.Com.IPlatesList - интерфейс" Url="html/T_Recar2_Com_IPlatesList.htm" />
+  <HelpKINode Title="Recar2.Com.IRecarSolution - интерфейс" Url="html/T_Recar2_Com_IRecarSolution.htm" />
+  <HelpKINode Title="Recar2.Com.IVideoChannel - интерфейс" Url="html/T_Recar2_Com_IVideoChannel.htm" />
+  <HelpKINode Title="Recar2.Com.IVideoCore - интерфейс" Url="html/T_Recar2_Com_IVideoCore.htm" />
+  <HelpKINode Title="Recar2.Com.NumberRecognizedHandler - делегат" Url="html/T_Recar2_Com_NumberRecognizedHandler.htm" />
+  <HelpKINode Title="Recar2.Com.RecarSolution - класс" Url="html/T_Recar2_Com_RecarSolution.htm" />
+  <HelpKINode Title="Recar2.Com.VideoCoreCom - класс" Url="html/T_Recar2_Com_VideoCoreCom.htm" />
+  <HelpKINode Title="Recar2.Com._IVideoCoreEvents - интерфейс" Url="html/T_Recar2_Com__IVideoCoreEvents.htm" />
+  <HelpKINode Title="Recar2.CoreExtensions - класс" Url="html/T_Recar2_CoreExtensions.htm" />
+  <HelpKINode Title="Recar2.DrawingConvertExtensions - класс" Url="html/T_Recar2_DrawingConvertExtensions.htm" />
+  <HelpKINode Title="Recar2.ExtPlateNumber - класс" Url="html/T_Recar2_ExtPlateNumber.htm" />
+  <HelpKINode Title="Recar2.ImageCore - класс" Url="html/T_Recar2_ImageCore.htm" />
+  <HelpKINode Title="Recar2.ImageCoreExtensions - класс" Url="html/T_Recar2_ImageCoreExtensions.htm" />
+  <HelpKINode Title="Recar2.ImageCoreInitializationParameters - класс" Url="html/T_Recar2_ImageCoreInitializationParameters.htm" />
+  <HelpKINode Title="Recar2.LicenseInfo - класс" Url="html/T_Recar2_LicenseInfo.htm" />
+  <HelpKINode Title="Recar2.MovementDirection - перечисление" Url="html/T_Recar2_MovementDirection.htm" />
+  <HelpKINode Title="Recar2.NumberRecognizedEventArgs - класс" Url="html/T_Recar2_NumberRecognizedEventArgs.htm" />
+  <HelpKINode Title="Recar2.PlateNumber - класс" Url="html/T_Recar2_PlateNumber.htm" />
+  <HelpKINode Title="Recar2.ProcessingStrategy - перечисление" Url="html/T_Recar2_ProcessingStrategy.htm" />
+  <HelpKINode Title="Recar2.RangeSetting(Of T) - класс" Url="html/T_Recar2_RangeSetting_1.htm" />
+  <HelpKINode Title="Recar2.RangeSetting&lt;T&gt; - класс" Url="html/T_Recar2_RangeSetting_1.htm" />
+  <HelpKINode Title="Recar2.Roi - структура" Url="html/T_Recar2_Roi.htm" />
+  <HelpKINode Title="Recar2.Setting(Of T) - класс" Url="html/T_Recar2_Setting_1.htm" />
+  <HelpKINode Title="Recar2.Setting&lt;T&gt; - класс" Url="html/T_Recar2_Setting_1.htm" />
+  <HelpKINode Title="Recar2.Settings - класс" Url="html/T_Recar2_Settings.htm" />
+  <HelpKINode Title="Recar2.TrialDelegate - делегат" Url="html/T_Recar2_TrialDelegate.htm" />
+  <HelpKINode Title="Recar2.TrialState - перечисление" Url="html/T_Recar2_TrialState.htm" />
+  <HelpKINode Title="Recar2.Utility - пространство имён" Url="html/N_Recar2_Utility.htm" />
+  <HelpKINode Title="Recar2.Utility.StencilsImagesCreater - класс" Url="html/T_Recar2_Utility_StencilsImagesCreater.htm" />
+  <HelpKINode Title="Recar2.VideoChannelSettings - класс" Url="html/T_Recar2_VideoChannelSettings.htm" />
+  <HelpKINode Title="Recar2.VideoCore - класс" Url="html/T_Recar2_VideoCore.htm" />
+  <HelpKINode Title="Recar2.VideoCoreExtensions - класс" Url="html/T_Recar2_VideoCoreExtensions.htm" />
+  <HelpKINode Title="Recar2.VideoCoreInitializationParameters - класс" Url="html/T_Recar2_VideoCoreInitializationParameters.htm" />
+  <HelpKINode Title="Recar2.ZoneSearchMethod - перечисление" Url="html/T_Recar2_ZoneSearchMethod.htm" />
+  <HelpKINode Title="Recar2.ZoneSizeMode - перечисление" Url="html/T_Recar2_ZoneSizeMode.htm" />
   <HelpKINode Title="RecarSolution - класс">
-    <HelpKINode Title="RecarSolution - класс" Url="html/e14aa29d-ef2f-13de-5e80-a958cdec2097.htm" />
-    <HelpKINode Title="методы" Url="html/e4fad8f9-946e-59d5-7155-2ad4792b2e4c.htm" />
-    <HelpKINode Title="свойства" Url="html/d45ed755-8dcc-194e-0b36-24a057953dc1.htm" />
+    <HelpKINode Title="RecarSolution - класс" Url="html/T_Recar2_Com_RecarSolution.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_Com_RecarSolution.htm" />
+    <HelpKINode Title="свойства" Url="html/Properties_T_Recar2_Com_RecarSolution.htm" />
   </HelpKINode>
-  <HelpKINode Title="RecarSolution.CameraId свойство" Url="html/1cc788d2-a1b9-abec-6d77-46be07e1c851.htm" />
-  <HelpKINode Title="RecarSolution.EventId свойство" Url="html/2ef78343-5eeb-2874-148c-725de7399c84.htm" />
-  <HelpKINode Title="RecarSolution.ImageFileName свойство" Url="html/407c76cf-87ad-363d-771f-4e9f8875220a.htm" />
-  <HelpKINode Title="RecarSolution.MovementDirection свойство" Url="html/60057f2c-4cde-157d-b0b6-200f71e9a215.htm" />
-  <HelpKINode Title="RecarSolution.Number свойство" Url="html/862d1e7f-d5f7-5b1e-3739-6829fe072eae.htm" />
-  <HelpKINode Title="RecarSolution.NumberType свойство" Url="html/2091cbfd-cebd-4929-2528-a1bd57bb5ec4.htm" />
-  <HelpKINode Title="RecarSolution.SaveImageToFile метод" Url="html/e9c2bc8b-42f6-3881-8ced-2548d0f5522e.htm" />
-  <HelpKINode Title="RecarSolution.TimeStamp свойство" Url="html/a100e049-f95e-c7d2-8c3c-fa5b39426a69.htm" />
-  <HelpKINode Title="RecognitionBrightStep свойство" Url="html/6a89375d-cf30-0ad3-d77e-f5a837052914.htm" />
-  <HelpKINode Title="RegisterImage метод" Url="html/cd2e8377-5ae7-1e3b-bfbe-050591f2732b.htm" />
+  <HelpKINode Title="RecarSolution.CameraId свойство" Url="html/P_Recar2_Com_RecarSolution_CameraId.htm" />
+  <HelpKINode Title="RecarSolution.EventId свойство" Url="html/P_Recar2_Com_RecarSolution_EventId.htm" />
+  <HelpKINode Title="RecarSolution.ImageFileName свойство" Url="html/P_Recar2_Com_RecarSolution_ImageFileName.htm" />
+  <HelpKINode Title="RecarSolution.MovementDirection свойство" Url="html/P_Recar2_Com_RecarSolution_MovementDirection.htm" />
+  <HelpKINode Title="RecarSolution.Number свойство" Url="html/P_Recar2_Com_RecarSolution_Number.htm" />
+  <HelpKINode Title="RecarSolution.NumberType свойство" Url="html/P_Recar2_Com_RecarSolution_NumberType.htm" />
+  <HelpKINode Title="RecarSolution.SaveImageToFile метод" Url="html/M_Recar2_Com_RecarSolution_SaveImageToFile.htm" />
+  <HelpKINode Title="RecarSolution.TimeStamp свойство" Url="html/P_Recar2_Com_RecarSolution_TimeStamp.htm" />
+  <HelpKINode Title="RecognitionBrightStep свойство" Url="html/P_Recar2_VideoChannelSettings_RecognitionBrightStep.htm" />
+  <HelpKINode Title="RegisterImage метод" Url="html/M_Recar2_VideoCoreExtensions_RegisterImage.htm" />
   <HelpKINode Title="RegisterNumberRecognizedCallback метод">
-    <HelpKINode Title="IVideoCore.RegisterNumberRecognizedCallback - метод" Url="html/948fac03-fe92-c04c-21b5-458b96cbc8d8.htm" />
-    <HelpKINode Title="VideoCoreCom.RegisterNumberRecognizedCallback - метод" Url="html/80e17681-ccb8-44db-b880-13f0235279bc.htm" />
+    <HelpKINode Title="IVideoCore.RegisterNumberRecognizedCallback - метод" Url="html/M_Recar2_Com_IVideoCore_RegisterNumberRecognizedCallback.htm" />
+    <HelpKINode Title="VideoCoreCom.RegisterNumberRecognizedCallback - метод" Url="html/M_Recar2_Com_VideoCoreCom_RegisterNumberRecognizedCallback.htm" />
   </HelpKINode>
-  <HelpKINode Title="Relative - член перечисления" Url="html/82273c1b-6a19-b744-1029-545901b3b113.htm" />
-  <HelpKINode Title="Reliability свойство" Url="html/76184a15-beca-1d3b-26cc-094e520e0e80.htm" />
-  <HelpKINode Title="Reload метод" Url="html/33493070-cee2-a352-ae24-54e389cf8f54.htm" />
-  <HelpKINode Title="ResetStatusLine метод" Url="html/857864bd-0e95-2831-a0ea-e15a4e682c8c.htm" />
+  <HelpKINode Title="Relative - член перечисления" Url="html/T_Recar2_ZoneSizeMode.htm" />
+  <HelpKINode Title="Reliability свойство" Url="html/P_Recar2_PlateNumber_Reliability.htm" />
+  <HelpKINode Title="Reload метод" Url="html/M_Recar2_VideoChannelSettings_Reload.htm" />
   <HelpKINode Title="Roi - структура">
-    <HelpKINode Title="Roi - структура" Url="html/262429f5-c169-d506-9f23-8cc61f10759c.htm" />
-    <HelpKINode Title="свойства" Url="html/f5a5bea3-65a4-7f72-2f76-c8bb65fe3be0.htm" />
+    <HelpKINode Title="Roi - структура" Url="html/T_Recar2_Roi.htm" />
+    <HelpKINode Title="свойства" Url="html/Properties_T_Recar2_Roi.htm" />
   </HelpKINode>
-  <HelpKINode Title="Roi поле" Url="html/1dd0d9dd-b18e-b4e7-3ef9-2cd69e5a29bc.htm" />
-  <HelpKINode Title="Roi.Points свойство" Url="html/33b007ce-2194-cbaf-ea60-36c0e0d9735b.htm" />
-  <HelpKINode Title="SaveCurrentImage метод" Url="html/c7e2d9aa-0b67-2833-148b-9b34fd3a178d.htm" />
-  <HelpKINode Title="SaveImages метод" Url="html/d43f4a93-9c98-34df-b421-2fda70e1c9fb.htm" />
+  <HelpKINode Title="Roi поле" Url="html/F_Recar2_VideoChannelSettings_Roi.htm" />
+  <HelpKINode Title="Roi.Points свойство" Url="html/P_Recar2_Roi_Points.htm" />
+  <HelpKINode Title="SaveCurrentImage метод" Url="html/M_Recar2_Com_IVideoChannel_SaveCurrentImage.htm" />
+  <HelpKINode Title="SaveImages метод" Url="html/M_Recar2_Utility_StencilsImagesCreater_SaveImages.htm" />
   <HelpKINode Title="SaveImageToFile метод">
-    <HelpKINode Title="IRecarSolution.SaveImageToFile - метод" Url="html/2d34bf12-c079-c956-76e9-17271a4c3d87.htm" />
-    <HelpKINode Title="RecarSolution.SaveImageToFile - метод" Url="html/e9c2bc8b-42f6-3881-8ced-2548d0f5522e.htm" />
+    <HelpKINode Title="IRecarSolution.SaveImageToFile - метод" Url="html/M_Recar2_Com_IRecarSolution_SaveImageToFile.htm" />
+    <HelpKINode Title="RecarSolution.SaveImageToFile - метод" Url="html/M_Recar2_Com_RecarSolution_SaveImageToFile.htm" />
   </HelpKINode>
   <HelpKINode Title="SaveSettings метод">
-    <HelpKINode Title="BaseCore.SaveSettings - метод" Url="html/27a8629f-6137-b611-964d-dedc1866cdbe.htm" />
-    <HelpKINode Title="IVideoCore.SaveSettings - метод" Url="html/2948e8d2-ae0a-0dbd-6415-a4fdd6831179.htm" />
-    <HelpKINode Title="VideoCoreCom.SaveSettings - метод" Url="html/d6bd9d37-2428-cc94-f0cd-929c2f0fe423.htm" />
+    <HelpKINode Title="IVideoCore.SaveSettings - метод" Url="html/M_Recar2_Com_IVideoCore_SaveSettings.htm" />
+    <HelpKINode Title="VideoCoreCom.SaveSettings - метод" Url="html/M_Recar2_Com_VideoCoreCom_SaveSettings.htm" />
   </HelpKINode>
   <HelpKINode Title="SetDefaults метод">
-    <HelpKINode Title="Settings.SetDefaults - метод" Url="html/b335fb1d-f582-571f-09d8-31b306d9cf76.htm" />
-    <HelpKINode Title="VideoChannelSettings.SetDefaults - метод" Url="html/48c66b1c-49e8-653a-548e-2047d10efd1d.htm" />
+    <HelpKINode Title="Settings.SetDefaults - метод" Url="html/M_Recar2_Settings_SetDefaults.htm" />
+    <HelpKINode Title="VideoChannelSettings.SetDefaults - метод" Url="html/M_Recar2_VideoChannelSettings_SetDefaults.htm" />
   </HelpKINode>
-  <HelpKINode Title="SetEventBufferDepth метод" Url="html/8837d8c2-7c30-df1d-5c8c-bf34fc16b5b4.htm" />
   <HelpKINode Title="SetMotionState метод">
-    <HelpKINode Title="IVideoChannel.SetMotionState - метод" Url="html/e1a9adbc-6cee-9c38-4db4-66c766daed03.htm" />
-    <HelpKINode Title="IVideoCore.SetMotionState - метод" Url="html/a17402d4-6fd6-b997-6322-97fa462c061a.htm" />
-    <HelpKINode Title="VideoCoreCom.SetMotionState - метод" Url="html/2b837639-9c36-6b36-9664-17421f2b7272.htm" />
+    <HelpKINode Title="IVideoChannel.SetMotionState - метод" Url="html/M_Recar2_Com_IVideoChannel_SetMotionState.htm" />
+    <HelpKINode Title="IVideoCore.SetMotionState - метод" Url="html/M_Recar2_Com_IVideoCore_SetMotionState.htm" />
+    <HelpKINode Title="VideoCoreCom.SetMotionState - метод" Url="html/M_Recar2_Com_VideoCoreCom_SetMotionState.htm" />
   </HelpKINode>
   <HelpKINode Title="SetSettingValue метод">
-    <HelpKINode Title="IVideoCore.SetSettingValue - метод" Url="html/f423d384-b21f-356d-4f88-860cae49b247.htm" />
-    <HelpKINode Title="VideoCoreCom.SetSettingValue - метод" Url="html/5500ea5c-00d4-1c3c-3a80-ec526467127c.htm" />
+    <HelpKINode Title="IVideoCore.SetSettingValue - метод" Url="html/M_Recar2_Com_IVideoCore_SetSettingValue.htm" />
+    <HelpKINode Title="VideoCoreCom.SetSettingValue - метод" Url="html/M_Recar2_Com_VideoCoreCom_SetSettingValue.htm" />
   </HelpKINode>
-  <HelpKINode Title="SetStatusLine метод" Url="html/d04d5adf-a811-011b-8074-bfb0662edf3a.htm" />
   <HelpKINode Title="Setting(Of T) - класс">
-    <HelpKINode Title="Setting(T) - класс" Url="html/76bcfcc2-d123-a60f-de58-e3e65126f7c7.htm" />
-    <HelpKINode Title="конструктор" Url="html/f045faf4-46a8-0cda-83ad-a669ce4a459c.htm" />
-    <HelpKINode Title="методы" Url="html/b4be6de9-a31f-3f3a-4568-c207a369762e.htm" />
-    <HelpKINode Title="свойства" Url="html/24c4902a-fd6c-c37e-69c6-fee9246497ca.htm" />
-    <HelpKINode Title="события" Url="html/bf9c16cd-91a5-767c-a99a-1e237cd38409.htm" />
+    <HelpKINode Title="Setting(T) - класс" Url="html/T_Recar2_Setting_1.htm" />
+    <HelpKINode Title="конструктор" Url="html/Overload_Recar2_Setting_1__ctor.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_Setting_1.htm" />
+    <HelpKINode Title="свойства" Url="html/Properties_T_Recar2_Setting_1.htm" />
+    <HelpKINode Title="события" Url="html/Events_T_Recar2_Setting_1.htm" />
   </HelpKINode>
-  <HelpKINode Title="Setting(Of T).Setting конструктор" Url="html/f045faf4-46a8-0cda-83ad-a669ce4a459c.htm" />
-  <HelpKINode Title="Setting(Of T).ValidateValue метод" Url="html/0ac17d5b-8848-e7e7-7672-131abb960d70.htm" />
+  <HelpKINode Title="Setting(Of T).Setting конструктор" Url="html/Overload_Recar2_Setting_1__ctor.htm" />
+  <HelpKINode Title="Setting(Of T).ValidateValue метод" Url="html/M_Recar2_Setting_1_ValidateValue.htm" />
   <HelpKINode Title="Setting&lt;T&gt; - класс">
-    <HelpKINode Title="Setting(T) - класс" Url="html/76bcfcc2-d123-a60f-de58-e3e65126f7c7.htm" />
-    <HelpKINode Title="конструктор" Url="html/f045faf4-46a8-0cda-83ad-a669ce4a459c.htm" />
-    <HelpKINode Title="методы" Url="html/b4be6de9-a31f-3f3a-4568-c207a369762e.htm" />
-    <HelpKINode Title="свойства" Url="html/24c4902a-fd6c-c37e-69c6-fee9246497ca.htm" />
-    <HelpKINode Title="события" Url="html/bf9c16cd-91a5-767c-a99a-1e237cd38409.htm" />
+    <HelpKINode Title="Setting(T) - класс" Url="html/T_Recar2_Setting_1.htm" />
+    <HelpKINode Title="конструктор" Url="html/Overload_Recar2_Setting_1__ctor.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_Setting_1.htm" />
+    <HelpKINode Title="свойства" Url="html/Properties_T_Recar2_Setting_1.htm" />
+    <HelpKINode Title="события" Url="html/Events_T_Recar2_Setting_1.htm" />
   </HelpKINode>
-  <HelpKINode Title="Setting&lt;T&gt;.Setting конструктор" Url="html/f045faf4-46a8-0cda-83ad-a669ce4a459c.htm" />
-  <HelpKINode Title="Setting&lt;T&gt;.ValidateValue метод" Url="html/0ac17d5b-8848-e7e7-7672-131abb960d70.htm" />
+  <HelpKINode Title="Setting&lt;T&gt;.Setting конструктор" Url="html/Overload_Recar2_Setting_1__ctor.htm" />
+  <HelpKINode Title="Setting&lt;T&gt;.ValidateValue метод" Url="html/M_Recar2_Setting_1_ValidateValue.htm" />
   <HelpKINode Title="Settings - класс">
-    <HelpKINode Title="Settings - класс" Url="html/724ba2bd-56df-8c51-8ab8-4848297280db.htm" />
-    <HelpKINode Title="методы" Url="html/413d3fa3-160d-728e-b3de-93a3afb07965.htm" />
-    <HelpKINode Title="свойства" Url="html/cf6c98fc-79c4-d320-07a8-ea5102b29e0a.htm" />
+    <HelpKINode Title="Settings - класс" Url="html/T_Recar2_Settings.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_Settings.htm" />
+    <HelpKINode Title="свойства" Url="html/Properties_T_Recar2_Settings.htm" />
   </HelpKINode>
-  <HelpKINode Title="Settings свойство">
-    <HelpKINode Title="BaseCore.Settings - свойство" Url="html/2dbc41c2-92af-dbd0-1ea7-e47530b767f5.htm" />
-    <HelpKINode Title="VideoCoreCom.Settings - свойство" Url="html/e4062cc1-35a1-b9cd-dd53-d07d9918dd75.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Settings.Apply метод" Url="html/a123ac9b-62fa-bcc7-67ee-cf74514da612.htm" />
-  <HelpKINode Title="Settings.Channel метод" Url="html/9b88bbc4-c710-c790-bcaf-4c588d983f6d.htm" />
-  <HelpKINode Title="Settings.Item свойство" Url="html/9fa92661-7fa1-9a41-7335-68cad038b16e.htm" />
-  <HelpKINode Title="Settings.Models свойство" Url="html/9e85204d-6775-1e6d-ed86-6de3ba65459b.htm" />
-  <HelpKINode Title="Settings.SetDefaults метод" Url="html/b335fb1d-f582-571f-09d8-31b306d9cf76.htm" />
-  <HelpKINode Title="SetupAlgs метод" Url="html/8336fa07-2cc2-690b-f169-64888ad8a76a.htm" />
+  <HelpKINode Title="Settings свойство" Url="html/P_Recar2_Com_VideoCoreCom_Settings.htm" />
+  <HelpKINode Title="Settings.Apply метод" Url="html/M_Recar2_Settings_Apply.htm" />
+  <HelpKINode Title="Settings.Channel метод" Url="html/M_Recar2_Settings_Channel.htm" />
+  <HelpKINode Title="Settings.Item свойство" Url="html/P_Recar2_Settings_Item.htm" />
+  <HelpKINode Title="Settings.Models свойство" Url="html/P_Recar2_Settings_Models.htm" />
+  <HelpKINode Title="Settings.SetDefaults метод" Url="html/M_Recar2_Settings_SetDefaults.htm" />
+  <HelpKINode Title="SetupAlgs метод" Url="html/M_Recar2_Com_IVideoChannel_SetupAlgs.htm" />
   <HelpKINode Title="SetupTransformation метод">
-    <HelpKINode Title="BaseCore.SetupTransformation - метод" Url="html/606c89d3-8a8a-2420-6f72-2d25fe454e16.htm" />
-    <HelpKINode Title="IVideoChannel.SetupTransformation - метод" Url="html/84928329-e973-d067-2cae-0326eda0c656.htm" />
-    <HelpKINode Title="VideoCore.SetupTransformation - метод" Url="html/62090baa-8c4e-837d-aa1b-01098ccca321.htm" />
+    <HelpKINode Title="IVideoChannel.SetupTransformation - метод" Url="html/M_Recar2_Com_IVideoChannel_SetupTransformation.htm" />
+    <HelpKINode Title="VideoCore.SetupTransformation - метод" Url="html/M_Recar2_VideoCore_SetupTransformation.htm" />
   </HelpKINode>
-  <HelpKINode Title="SetupVideoSource метод" Url="html/53aabb6c-a078-b557-9852-22114f9f7283.htm" />
+  <HelpKINode Title="SetupVideoSource метод" Url="html/M_Recar2_Com_IVideoChannel_SetupVideoSource.htm" />
   <HelpKINode Title="SetVideoFormsLocked метод">
-    <HelpKINode Title="IVideoCore.SetVideoFormsLocked - метод" Url="html/67dd0c1e-6e06-2a70-67aa-d6f43a6f80d4.htm" />
-    <HelpKINode Title="VideoCoreCom.SetVideoFormsLocked - метод" Url="html/4b1a3707-bea4-d1de-700a-2e4423c9a6bf.htm" />
+    <HelpKINode Title="IVideoCore.SetVideoFormsLocked - метод" Url="html/M_Recar2_Com_IVideoCore_SetVideoFormsLocked.htm" />
+    <HelpKINode Title="VideoCoreCom.SetVideoFormsLocked - метод" Url="html/M_Recar2_Com_VideoCoreCom_SetVideoFormsLocked.htm" />
   </HelpKINode>
   <HelpKINode Title="SetVideoFormsTopMost метод">
-    <HelpKINode Title="IVideoCore.SetVideoFormsTopMost - метод" Url="html/2ac6e8bd-5104-65bc-45e3-169a2c8be979.htm" />
-    <HelpKINode Title="VideoCoreCom.SetVideoFormsTopMost - метод" Url="html/e9fed715-e603-6889-39f9-1a2ad937813b.htm" />
+    <HelpKINode Title="IVideoCore.SetVideoFormsTopMost - метод" Url="html/M_Recar2_Com_IVideoCore_SetVideoFormsTopMost.htm" />
+    <HelpKINode Title="VideoCoreCom.SetVideoFormsTopMost - метод" Url="html/M_Recar2_Com_VideoCoreCom_SetVideoFormsTopMost.htm" />
   </HelpKINode>
   <HelpKINode Title="SetVideoFormsVisible метод">
-    <HelpKINode Title="IVideoCore.SetVideoFormsVisible - метод" Url="html/f274d1eb-e229-829d-9bd8-2afeb59e1919.htm" />
-    <HelpKINode Title="VideoCoreCom.SetVideoFormsVisible - метод" Url="html/21620465-e71c-516e-f433-b77e1784f6a4.htm" />
+    <HelpKINode Title="IVideoCore.SetVideoFormsVisible - метод" Url="html/M_Recar2_Com_IVideoCore_SetVideoFormsVisible.htm" />
+    <HelpKINode Title="VideoCoreCom.SetVideoFormsVisible - метод" Url="html/M_Recar2_Com_VideoCoreCom_SetVideoFormsVisible.htm" />
   </HelpKINode>
   <HelpKINode Title="SetVideoSource метод">
-    <HelpKINode Title="IVideoChannel.SetVideoSource - метод" Url="html/44ceef02-fd9f-ecfa-584f-766655703a94.htm" />
-    <HelpKINode Title="IVideoCore.SetVideoSource - метод" Url="html/58936ba6-03b2-600b-94a6-4b13d48e1106.htm" />
-    <HelpKINode Title="VideoCoreCom.SetVideoSource - метод" Url="html/c0b4b843-cb4a-358d-c8a7-a6ee8b787369.htm" />
+    <HelpKINode Title="IVideoChannel.SetVideoSource - метод" Url="html/M_Recar2_Com_IVideoChannel_SetVideoSource.htm" />
+    <HelpKINode Title="IVideoCore.SetVideoSource - метод" Url="html/M_Recar2_Com_IVideoCore_SetVideoSource.htm" />
+    <HelpKINode Title="VideoCoreCom.SetVideoSource - метод" Url="html/M_Recar2_Com_VideoCoreCom_SetVideoSource.htm" />
   </HelpKINode>
   <HelpKINode Title="ShowAlgSetupForm метод">
-    <HelpKINode Title="BaseCore.ShowAlgSetupForm - метод" Url="html/ca8b80f6-e2be-9091-940f-76e62fe445c5.htm" />
-    <HelpKINode Title="IVideoCore.ShowAlgSetupForm - метод" Url="html/64cc1c08-3977-03ad-98cf-567b7626555f.htm" />
-    <HelpKINode Title="VideoCoreCom.ShowAlgSetupForm - метод" Url="html/220a5822-2e3e-2d5e-6c7e-90e8de2bff96.htm" />
+    <HelpKINode Title="IVideoCore.ShowAlgSetupForm - метод" Url="html/M_Recar2_Com_IVideoCore_ShowAlgSetupForm.htm" />
+    <HelpKINode Title="VideoCoreCom.ShowAlgSetupForm - метод" Url="html/M_Recar2_Com_VideoCoreCom_ShowAlgSetupForm.htm" />
   </HelpKINode>
-  <HelpKINode Title="ShowAlgsSetupForm метод" Url="html/6d854ccf-6491-6d6f-a525-ec112fdd5efb.htm" />
-  <HelpKINode Title="ShowCaptureAreaAndPlateSizeSetupForm метод" Url="html/b14bca96-a6bb-bae9-ddb8-035e840c408e.htm" />
+  <HelpKINode Title="ShowAlgsSetupForm метод" Url="html/M_Recar2_VideoCore_ShowAlgsSetupForm.htm" />
+  <HelpKINode Title="ShowCaptureAreaAndPlateSizeSetupForm метод" Url="html/M_Recar2_ImageCoreExtensions_ShowCaptureAreaAndPlateSizeSetupForm.htm" />
   <HelpKINode Title="ShowLogForm метод">
-    <HelpKINode Title="IVideoCore.ShowLogForm - метод" Url="html/1cbd2509-6be1-e0af-5dce-ef55eb76f450.htm" />
-    <HelpKINode Title="VideoCoreCom.ShowLogForm - метод" Url="html/d4244fba-3e0a-cffe-62e0-aadcf14d52df.htm" />
+    <HelpKINode Title="IVideoCore.ShowLogForm - метод" Url="html/M_Recar2_Com_IVideoCore_ShowLogForm.htm" />
+    <HelpKINode Title="VideoCoreCom.ShowLogForm - метод" Url="html/M_Recar2_Com_VideoCoreCom_ShowLogForm.htm" />
   </HelpKINode>
   <HelpKINode Title="ShowSetupForm метод">
-    <HelpKINode Title="BaseCoreExtensions.ShowSetupForm - метод" Url="html/f273fd22-2c6d-a3de-368e-3833b24ea879.htm" />
-    <HelpKINode Title="IVideoCore.ShowSetupForm - метод" Url="html/355ec282-1e84-7400-d65b-cbfc6a11785e.htm" />
-    <HelpKINode Title="VideoCoreCom.ShowSetupForm - метод" Url="html/3ce3c2cc-b398-58f2-4471-e56c4f39f655.htm" />
-    <HelpKINode Title="VideoCoreExtensions.ShowSetupForm - метод" Url="html/7f98fb01-744b-3429-f10d-56d5958ba487.htm" />
+    <HelpKINode Title="BaseCoreExtensions.ShowSetupForm - метод" Url="html/M_Recar2_BaseCoreExtensions_ShowSetupForm.htm" />
+    <HelpKINode Title="IVideoCore.ShowSetupForm - метод" Url="html/M_Recar2_Com_IVideoCore_ShowSetupForm.htm" />
+    <HelpKINode Title="VideoCoreCom.ShowSetupForm - метод" Url="html/M_Recar2_Com_VideoCoreCom_ShowSetupForm.htm" />
+    <HelpKINode Title="VideoCoreExtensions.ShowSetupForm - метод" Url="html/M_Recar2_VideoCoreExtensions_ShowSetupForm.htm" />
   </HelpKINode>
-  <HelpKINode Title="Slow - член перечисления" Url="html/1050c193-f7b5-c31a-95b8-3aa116d3a58a.htm" />
-  <HelpKINode Title="Speed свойство" Url="html/ce98d199-8eb6-400d-ff80-96e956547b09.htm" />
+  <HelpKINode Title="Slow - член перечисления" Url="html/T_Recar2_ChannelSpeed.htm" />
+  <HelpKINode Title="Speed свойство" Url="html/P_Recar2_LicenseInfo_Speed.htm" />
   <HelpKINode Title="Start метод">
-    <HelpKINode Title="IVideoCore.Start - метод" Url="html/84d8d3ce-770c-c549-5623-ca74c72c87cb.htm" />
-    <HelpKINode Title="VideoCore.Start - метод" Url="html/15ba9417-ccdb-58ec-8a3e-4131e25ca929.htm" />
-    <HelpKINode Title="VideoCoreCom.Start - метод" Url="html/0e164772-8a42-2f43-8df5-4c58858ef40b.htm" />
+    <HelpKINode Title="IVideoCore.Start - метод" Url="html/M_Recar2_Com_IVideoCore_Start.htm" />
+    <HelpKINode Title="VideoCore.Start - метод" Url="html/M_Recar2_VideoCore_Start.htm" />
+    <HelpKINode Title="VideoCoreCom.Start - метод" Url="html/M_Recar2_Com_VideoCoreCom_Start.htm" />
   </HelpKINode>
   <HelpKINode Title="StencilsImagesCreater - класс">
-    <HelpKINode Title="StencilsImagesCreater - класс" Url="html/dc84e1de-15d1-4eab-86c0-761eac727aa6.htm" />
-    <HelpKINode Title="конструктор" Url="html/8cce364c-a2dc-d17f-093a-5a28c953bb10.htm" />
-    <HelpKINode Title="методы" Url="html/21b4b9f2-1151-6529-708e-12dcbfbd2871.htm" />
-    <HelpKINode Title="свойства" Url="html/3d42ddb9-98a1-6e7d-d6eb-4b5d3029dbb7.htm" />
+    <HelpKINode Title="StencilsImagesCreater - класс" Url="html/T_Recar2_Utility_StencilsImagesCreater.htm" />
+    <HelpKINode Title="конструктор" Url="html/M_Recar2_Utility_StencilsImagesCreater__ctor.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_Utility_StencilsImagesCreater.htm" />
+    <HelpKINode Title="свойства" Url="html/Properties_T_Recar2_Utility_StencilsImagesCreater.htm" />
   </HelpKINode>
-  <HelpKINode Title="StencilsImagesCreater.BackColor свойство" Url="html/0e69ef66-257e-1c32-fbf3-50e44fcfcee5.htm" />
-  <HelpKINode Title="StencilsImagesCreater.ImageFormat свойство" Url="html/38b34ad8-2d66-daed-a864-0f5eb4023f96.htm" />
-  <HelpKINode Title="StencilsImagesCreater.ImageHeight свойство" Url="html/b2fad550-e08e-7cd2-fb97-8e8a35162b66.htm" />
-  <HelpKINode Title="StencilsImagesCreater.ImageWidth свойство" Url="html/07f4fc4c-633f-5aa6-5e65-45a612a7918c.htm" />
-  <HelpKINode Title="StencilsImagesCreater.Opacity свойство" Url="html/297cf496-4cf8-9a14-343f-85b7364e8da7.htm" />
-  <HelpKINode Title="StencilsImagesCreater.SaveImages метод" Url="html/d43f4a93-9c98-34df-b421-2fda70e1c9fb.htm" />
-  <HelpKINode Title="StencilsImagesCreater.StencilsImagesCreater конструктор" Url="html/8cce364c-a2dc-d17f-093a-5a28c953bb10.htm" />
-  <HelpKINode Title="Step свойство" Url="html/4915932f-5796-8c11-c0a6-e5eac8d3eacb.htm" />
-  <HelpKINode Title="StepChanged событие" Url="html/e367c97a-c769-a6a3-a200-7d995f6607d0.htm" />
+  <HelpKINode Title="StencilsImagesCreater.BackColor свойство" Url="html/P_Recar2_Utility_StencilsImagesCreater_BackColor.htm" />
+  <HelpKINode Title="StencilsImagesCreater.ImageFormat свойство" Url="html/P_Recar2_Utility_StencilsImagesCreater_ImageFormat.htm" />
+  <HelpKINode Title="StencilsImagesCreater.ImageHeight свойство" Url="html/P_Recar2_Utility_StencilsImagesCreater_ImageHeight.htm" />
+  <HelpKINode Title="StencilsImagesCreater.ImageWidth свойство" Url="html/P_Recar2_Utility_StencilsImagesCreater_ImageWidth.htm" />
+  <HelpKINode Title="StencilsImagesCreater.Opacity свойство" Url="html/P_Recar2_Utility_StencilsImagesCreater_Opacity.htm" />
+  <HelpKINode Title="StencilsImagesCreater.SaveImages метод" Url="html/M_Recar2_Utility_StencilsImagesCreater_SaveImages.htm" />
+  <HelpKINode Title="StencilsImagesCreater.StencilsImagesCreater конструктор" Url="html/M_Recar2_Utility_StencilsImagesCreater__ctor.htm" />
+  <HelpKINode Title="Step свойство" Url="html/P_Recar2_RangeSetting_1_Step.htm" />
+  <HelpKINode Title="StepChanged событие" Url="html/E_Recar2_RangeSetting_1_StepChanged.htm" />
   <HelpKINode Title="Stop метод">
-    <HelpKINode Title="IVideoCore.Stop - метод" Url="html/c0d1f771-b7c0-e824-e383-0e7b3522a33f.htm" />
-    <HelpKINode Title="VideoCore.Stop - метод" Url="html/6eb29f35-e28e-ea21-94e3-0633cde91053.htm" />
-    <HelpKINode Title="VideoCoreCom.Stop - метод" Url="html/c927a872-5a4f-800d-b67f-d977cd2388e7.htm" />
+    <HelpKINode Title="IVideoCore.Stop - метод" Url="html/M_Recar2_Com_IVideoCore_Stop.htm" />
+    <HelpKINode Title="VideoCore.Stop - метод" Url="html/M_Recar2_VideoCore_Stop.htm" />
+    <HelpKINode Title="VideoCoreCom.Stop - метод" Url="html/M_Recar2_Com_VideoCoreCom_Stop.htm" />
   </HelpKINode>
-  <HelpKINode Title="Text свойство" Url="html/51ee2045-a609-fc0a-118c-66a443c643d9.htm" />
+  <HelpKINode Title="Text свойство" Url="html/P_Recar2_PlateNumber_Text.htm" />
   <HelpKINode Title="TimeStamp свойство">
-    <HelpKINode Title="IRecarSolution.TimeStamp - свойство" Url="html/748270fc-8842-9d18-2491-d536fd41a512.htm" />
-    <HelpKINode Title="RecarSolution.TimeStamp - свойство" Url="html/a100e049-f95e-c7d2-8c3c-fa5b39426a69.htm" />
+    <HelpKINode Title="IRecarSolution.TimeStamp - свойство" Url="html/P_Recar2_Com_IRecarSolution_TimeStamp.htm" />
+    <HelpKINode Title="RecarSolution.TimeStamp - свойство" Url="html/P_Recar2_Com_RecarSolution_TimeStamp.htm" />
   </HelpKINode>
-  <HelpKINode Title="TopDown - член перечисления" Url="html/01832ec4-d1ec-1ade-377a-2ec812e1a2d9.htm" />
-  <HelpKINode Title="ToRect метод" Url="html/a3c3f4be-1db5-9a9a-1a8a-2945d6cfcf72.htm" />
-  <HelpKINode Title="ToSize метод" Url="html/2201d2ec-9586-3c65-2847-1f3157594236.htm" />
+  <HelpKINode Title="TopDown - член перечисления" Url="html/T_Recar2_MovementDirection.htm" />
+  <HelpKINode Title="ToRect метод" Url="html/Overload_Recar2_DrawingConvertExtensions_ToRect.htm" />
+  <HelpKINode Title="ToSize метод" Url="html/Overload_Recar2_DrawingConvertExtensions_ToSize.htm" />
   <HelpKINode Title="ToString метод">
-    <HelpKINode Title="LicenseInfo.ToString - метод" Url="html/5b88e37e-7ec2-eab0-5baf-a641f6eeeb26.htm" />
-    <HelpKINode Title="PlateNumber.ToString - метод" Url="html/38b9f4ea-1876-dfe2-ab86-6ea99e39f8bb.htm" />
-    <HelpKINode Title="RangeSetting(T).ToString - метод" Url="html/2ee9bb8d-23df-1f28-1495-b5a2bd75ccc5.htm" />
+    <HelpKINode Title="LicenseInfo.ToString - метод" Url="html/M_Recar2_LicenseInfo_ToString.htm" />
+    <HelpKINode Title="PlateNumber.ToString - метод" Url="html/M_Recar2_PlateNumber_ToString.htm" />
+    <HelpKINode Title="RangeSetting(T).ToString - метод" Url="html/M_Recar2_RangeSetting_1_ToString.htm" />
   </HelpKINode>
-  <HelpKINode Title="TrialDelegate - делегат" Url="html/a67a1876-f24d-c971-69f3-b98101a0561b.htm" />
-  <HelpKINode Title="TrialDelegate свойство" Url="html/5a24b3fd-2e62-b471-d870-7dcc92272a6f.htm" />
-  <HelpKINode Title="TrialState - перечисление" Url="html/b08cf0a4-8043-118b-52a2-3479a627a883.htm" />
-  <HelpKINode Title="Undefined - член перечисления" Url="html/01832ec4-d1ec-1ade-377a-2ec812e1a2d9.htm" />
+  <HelpKINode Title="TrialDelegate - делегат" Url="html/T_Recar2_TrialDelegate.htm" />
+  <HelpKINode Title="TrialState - перечисление" Url="html/T_Recar2_TrialState.htm" />
+  <HelpKINode Title="Undefined - член перечисления" Url="html/T_Recar2_MovementDirection.htm" />
   <HelpKINode Title="UseIntegratedLogSubsystem свойство">
-    <HelpKINode Title="BaseCoreInitializationParameters.UseIntegratedLogSubsystem - свойство" Url="html/3ac16454-e7a8-7054-5815-b5cbc8b3251c.htm" />
-    <HelpKINode Title="IVideoCore.UseIntegratedLogSubsystem - свойство" Url="html/b047d52f-84f2-ad19-aa8a-ef0d7dd7bb06.htm" />
-    <HelpKINode Title="VideoCoreCom.UseIntegratedLogSubsystem - свойство" Url="html/ac7ce87c-cfc8-7cc6-99e6-bef251d51399.htm" />
+    <HelpKINode Title="IVideoCore.UseIntegratedLogSubsystem - свойство" Url="html/P_Recar2_Com_IVideoCore_UseIntegratedLogSubsystem.htm" />
+    <HelpKINode Title="VideoCoreCom.UseIntegratedLogSubsystem - свойство" Url="html/P_Recar2_Com_VideoCoreCom_UseIntegratedLogSubsystem.htm" />
   </HelpKINode>
   <HelpKINode Title="ValidateValue метод">
-    <HelpKINode Title="RangeSetting(T).ValidateValue - метод" Url="html/ba46e555-c420-c8c1-1ca6-a2693d707e86.htm" />
-    <HelpKINode Title="Setting(T).ValidateValue - метод" Url="html/0ac17d5b-8848-e7e7-7672-131abb960d70.htm" />
+    <HelpKINode Title="RangeSetting(T).ValidateValue - метод" Url="html/M_Recar2_RangeSetting_1_ValidateValue.htm" />
+    <HelpKINode Title="Setting(T).ValidateValue - метод" Url="html/M_Recar2_Setting_1_ValidateValue.htm" />
   </HelpKINode>
-  <HelpKINode Title="Value свойство" Url="html/3aada5bd-94c7-5fc7-b627-2dcfb8bac578.htm" />
-  <HelpKINode Title="Version свойство" Url="html/0f015a00-a7a9-c995-0f07-5e20bdf00754.htm" />
+  <HelpKINode Title="Value свойство" Url="html/P_Recar2_RangeSetting_1_Value.htm" />
   <HelpKINode Title="VideoChannelExists метод">
-    <HelpKINode Title="IVideoCore.VideoChannelExists - метод" Url="html/2217dd4b-477a-8e37-f7ca-052f261afc21.htm" />
-    <HelpKINode Title="VideoCoreCom.VideoChannelExists - метод" Url="html/1cff904e-7965-ab96-9919-bebc1d3cc032.htm" />
+    <HelpKINode Title="IVideoCore.VideoChannelExists - метод" Url="html/M_Recar2_Com_IVideoCore_VideoChannelExists.htm" />
+    <HelpKINode Title="VideoCoreCom.VideoChannelExists - метод" Url="html/M_Recar2_Com_VideoCoreCom_VideoChannelExists.htm" />
   </HelpKINode>
   <HelpKINode Title="VideoChannelSettings - класс">
-    <HelpKINode Title="VideoChannelSettings - класс" Url="html/e9c16317-8a46-c70d-6253-3004e99076b2.htm" />
-    <HelpKINode Title="методы" Url="html/ea25e31b-7450-b66e-2002-bfd173412a89.htm" />
-    <HelpKINode Title="поля" Url="html/cb0c48ec-faf7-dcd5-345e-8e6edf673057.htm" />
-    <HelpKINode Title="свойства" Url="html/d4486326-98aa-8a5b-4647-68ebe5748b59.htm" />
+    <HelpKINode Title="VideoChannelSettings - класс" Url="html/T_Recar2_VideoChannelSettings.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_VideoChannelSettings.htm" />
+    <HelpKINode Title="поля" Url="html/Fields_T_Recar2_VideoChannelSettings.htm" />
+    <HelpKINode Title="свойства" Url="html/Properties_T_Recar2_VideoChannelSettings.htm" />
   </HelpKINode>
-  <HelpKINode Title="VideoChannelSettings.Apply метод" Url="html/9d87f734-35f1-4ec7-f921-747222f20890.htm" />
-  <HelpKINode Title="VideoChannelSettings.BlockByPrevDecisionMode свойство" Url="html/6d868942-5303-3864-3dc0-3ff0a0c9feef.htm" />
-  <HelpKINode Title="VideoChannelSettings.BlockDirectionDown свойство" Url="html/34fc74ad-23ff-b984-cf09-c1d86912db8e.htm" />
-  <HelpKINode Title="VideoChannelSettings.BlockDirectionUndefined свойство" Url="html/40f0199e-7fbf-4609-56e7-b135f483ae97.htm" />
-  <HelpKINode Title="VideoChannelSettings.BlockDirectionUp свойство" Url="html/fcfff71b-fd0d-9db0-4cba-c232ef66bc57.htm" />
-  <HelpKINode Title="VideoChannelSettings.CoefMaxThreshold свойство" Url="html/4d135e4e-fc6e-a37a-1488-92f346498bae.htm" />
-  <HelpKINode Title="VideoChannelSettings.CoefMinThreshold свойство" Url="html/43bbcd08-8c17-6506-9359-495ed61760dc.htm" />
-  <HelpKINode Title="VideoChannelSettings.DecisionKeepTimeout свойство" Url="html/da01cf0b-0065-66aa-43dc-ad2d4df1b542.htm" />
-  <HelpKINode Title="VideoChannelSettings.DecisionTimeout свойство" Url="html/353ac0de-91b6-de74-98c0-95aad29769c4.htm" />
-  <HelpKINode Title="VideoChannelSettings.FrameNumberFromDetectMotion свойство" Url="html/38352210-d6ef-9df3-7efc-81766ce9a383.htm" />
-  <HelpKINode Title="VideoChannelSettings.FrameQueueSize свойство" Url="html/47eaebad-1a06-e504-ca00-1c6c8377aac1.htm" />
-  <HelpKINode Title="VideoChannelSettings.IsColorImageEnabled свойство" Url="html/72525a09-e105-5fe3-3cf3-75ac09023874.htm" />
-  <HelpKINode Title="VideoChannelSettings.IsProcessAllMatrixes свойство" Url="html/663dd428-9903-8ebe-f03b-4f142bcc1dec.htm" />
-  <HelpKINode Title="VideoChannelSettings.LocalizationBrightStep свойство" Url="html/41a18b2d-1752-73fd-ddde-d2ccab192de5.htm" />
-  <HelpKINode Title="VideoChannelSettings.MakeUnrecogDecisionByMotion свойство" Url="html/5778e582-bf9f-43f6-94ff-b3d841031c76.htm" />
-  <HelpKINode Title="VideoChannelSettings.MaxAllowedUnrecognizedChars свойство" Url="html/adf58571-227f-48aa-1ac0-6f9a317bb694.htm" />
-  <HelpKINode Title="VideoChannelSettings.MaxDecisionFrames свойство" Url="html/a70c6d37-78bd-81d3-b4de-7a7962ca6a88.htm" />
-  <HelpKINode Title="VideoChannelSettings.MaxPlateSize свойство" Url="html/e5ab4ad0-4fbc-18cc-fa8e-a02d569e973c.htm" />
-  <HelpKINode Title="VideoChannelSettings.MaxProbDifference свойство" Url="html/b4d3cca7-9196-1aca-51f2-da4fe297d3c3.htm" />
-  <HelpKINode Title="VideoChannelSettings.MinDecisionFrames свойство" Url="html/43ee266f-8c54-6c04-0c4e-2fc406a04cda.htm" />
-  <HelpKINode Title="VideoChannelSettings.MinDecisionThreshold свойство" Url="html/c796a66d-b854-58bf-d178-0b1aee340591.htm" />
-  <HelpKINode Title="VideoChannelSettings.MinPlateSize свойство" Url="html/daf3ffbf-dea9-0dfa-4d60-75d2c251dd2d.htm" />
-  <HelpKINode Title="VideoChannelSettings.MinUnrecogDecisionFrames свойство" Url="html/e4dae7f5-fef1-4de7-dd18-4e89c1a61cef.htm" />
-  <HelpKINode Title="VideoChannelSettings.MotionDetectMethod свойство" Url="html/a66e183d-ae37-a4d3-3d4c-6682eb239a4e.htm" />
-  <HelpKINode Title="VideoChannelSettings.MotionTimeout свойство" Url="html/2631430d-48fb-9c6f-58d1-f063e1b08f04.htm" />
-  <HelpKINode Title="VideoChannelSettings.ProcessStrategy свойство" Url="html/4148cf00-1f78-7b61-a90f-24dcfc1a6d20.htm" />
-  <HelpKINode Title="VideoChannelSettings.RealZoneSizeMode свойство" Url="html/e5a2d313-6ec7-2be3-1a27-173e3e3d085d.htm" />
-  <HelpKINode Title="VideoChannelSettings.RecognitionBrightStep свойство" Url="html/6a89375d-cf30-0ad3-d77e-f5a837052914.htm" />
-  <HelpKINode Title="VideoChannelSettings.Reload метод" Url="html/33493070-cee2-a352-ae24-54e389cf8f54.htm" />
-  <HelpKINode Title="VideoChannelSettings.Roi поле" Url="html/1dd0d9dd-b18e-b4e7-3ef9-2cd69e5a29bc.htm" />
-  <HelpKINode Title="VideoChannelSettings.SetDefaults метод" Url="html/48c66b1c-49e8-653a-548e-2047d10efd1d.htm" />
-  <HelpKINode Title="VideoChannelSettings.VideoSourceCyclicReconnection свойство" Url="html/9c7ed928-d23b-f20a-c8f4-09bbcff8c11b.htm" />
-  <HelpKINode Title="VideoChannelSettings.VideoSourceCyclicReconnectionTimeout свойство" Url="html/d4526e07-fa13-7171-ba15-f26171800570.htm" />
-  <HelpKINode Title="VideoChannelSettings.VideoSourceReconnection свойство" Url="html/e845fbaa-90c7-d8f0-ffd1-e1b95ed2ec21.htm" />
-  <HelpKINode Title="VideoChannelSettings.VideoSourceReconnectionTimeout свойство" Url="html/7b423d19-92ab-0509-af9a-a99d572dfcac.htm" />
-  <HelpKINode Title="VideoChannelSettings.VideoSourceUpdateMatrixTimeout свойство" Url="html/3ee50330-f3d9-338e-7d29-8bd9e762f26b.htm" />
-  <HelpKINode Title="VideoChannelSettings.ZoneSearchMethod свойство" Url="html/2cb1290e-677a-8cbd-dcdb-6da1e20d0acd.htm" />
+  <HelpKINode Title="VideoChannelSettings.Apply метод" Url="html/M_Recar2_VideoChannelSettings_Apply.htm" />
+  <HelpKINode Title="VideoChannelSettings.BlockByPrevDecisionMode свойство" Url="html/P_Recar2_VideoChannelSettings_BlockByPrevDecisionMode.htm" />
+  <HelpKINode Title="VideoChannelSettings.BlockDirectionDown свойство" Url="html/P_Recar2_VideoChannelSettings_BlockDirectionDown.htm" />
+  <HelpKINode Title="VideoChannelSettings.BlockDirectionUndefined свойство" Url="html/P_Recar2_VideoChannelSettings_BlockDirectionUndefined.htm" />
+  <HelpKINode Title="VideoChannelSettings.BlockDirectionUp свойство" Url="html/P_Recar2_VideoChannelSettings_BlockDirectionUp.htm" />
+  <HelpKINode Title="VideoChannelSettings.CoefMaxThreshold свойство" Url="html/P_Recar2_VideoChannelSettings_CoefMaxThreshold.htm" />
+  <HelpKINode Title="VideoChannelSettings.CoefMinThreshold свойство" Url="html/P_Recar2_VideoChannelSettings_CoefMinThreshold.htm" />
+  <HelpKINode Title="VideoChannelSettings.DecisionKeepTimeout свойство" Url="html/P_Recar2_VideoChannelSettings_DecisionKeepTimeout.htm" />
+  <HelpKINode Title="VideoChannelSettings.DecisionTimeout свойство" Url="html/P_Recar2_VideoChannelSettings_DecisionTimeout.htm" />
+  <HelpKINode Title="VideoChannelSettings.FrameNumberFromDetectMotion свойство" Url="html/P_Recar2_VideoChannelSettings_FrameNumberFromDetectMotion.htm" />
+  <HelpKINode Title="VideoChannelSettings.FrameQueueSize свойство" Url="html/P_Recar2_VideoChannelSettings_FrameQueueSize.htm" />
+  <HelpKINode Title="VideoChannelSettings.IsColorImageEnabled свойство" Url="html/P_Recar2_VideoChannelSettings_IsColorImageEnabled.htm" />
+  <HelpKINode Title="VideoChannelSettings.IsProcessAllMatrixes свойство" Url="html/P_Recar2_VideoChannelSettings_IsProcessAllMatrixes.htm" />
+  <HelpKINode Title="VideoChannelSettings.LocalizationBrightStep свойство" Url="html/P_Recar2_VideoChannelSettings_LocalizationBrightStep.htm" />
+  <HelpKINode Title="VideoChannelSettings.MakeUnrecogDecisionByMotion свойство" Url="html/P_Recar2_VideoChannelSettings_MakeUnrecogDecisionByMotion.htm" />
+  <HelpKINode Title="VideoChannelSettings.MaxAllowedUnrecognizedChars свойство" Url="html/P_Recar2_VideoChannelSettings_MaxAllowedUnrecognizedChars.htm" />
+  <HelpKINode Title="VideoChannelSettings.MaxDecisionFrames свойство" Url="html/P_Recar2_VideoChannelSettings_MaxDecisionFrames.htm" />
+  <HelpKINode Title="VideoChannelSettings.MaxPlateSize свойство" Url="html/P_Recar2_VideoChannelSettings_MaxPlateSize.htm" />
+  <HelpKINode Title="VideoChannelSettings.MaxProbDifference свойство" Url="html/P_Recar2_VideoChannelSettings_MaxProbDifference.htm" />
+  <HelpKINode Title="VideoChannelSettings.MinDecisionFrames свойство" Url="html/P_Recar2_VideoChannelSettings_MinDecisionFrames.htm" />
+  <HelpKINode Title="VideoChannelSettings.MinDecisionThreshold свойство" Url="html/P_Recar2_VideoChannelSettings_MinDecisionThreshold.htm" />
+  <HelpKINode Title="VideoChannelSettings.MinPlateSize свойство" Url="html/P_Recar2_VideoChannelSettings_MinPlateSize.htm" />
+  <HelpKINode Title="VideoChannelSettings.MinUnrecogDecisionFrames свойство" Url="html/P_Recar2_VideoChannelSettings_MinUnrecogDecisionFrames.htm" />
+  <HelpKINode Title="VideoChannelSettings.MotionDetectMethod свойство" Url="html/P_Recar2_VideoChannelSettings_MotionDetectMethod.htm" />
+  <HelpKINode Title="VideoChannelSettings.MotionTimeout свойство" Url="html/P_Recar2_VideoChannelSettings_MotionTimeout.htm" />
+  <HelpKINode Title="VideoChannelSettings.ProcessStrategy свойство" Url="html/P_Recar2_VideoChannelSettings_ProcessStrategy.htm" />
+  <HelpKINode Title="VideoChannelSettings.RealZoneSizeMode свойство" Url="html/P_Recar2_VideoChannelSettings_RealZoneSizeMode.htm" />
+  <HelpKINode Title="VideoChannelSettings.RecognitionBrightStep свойство" Url="html/P_Recar2_VideoChannelSettings_RecognitionBrightStep.htm" />
+  <HelpKINode Title="VideoChannelSettings.Reload метод" Url="html/M_Recar2_VideoChannelSettings_Reload.htm" />
+  <HelpKINode Title="VideoChannelSettings.Roi поле" Url="html/F_Recar2_VideoChannelSettings_Roi.htm" />
+  <HelpKINode Title="VideoChannelSettings.SetDefaults метод" Url="html/M_Recar2_VideoChannelSettings_SetDefaults.htm" />
+  <HelpKINode Title="VideoChannelSettings.VideoSourceCyclicReconnection свойство" Url="html/P_Recar2_VideoChannelSettings_VideoSourceCyclicReconnection.htm" />
+  <HelpKINode Title="VideoChannelSettings.VideoSourceCyclicReconnectionTimeout свойство" Url="html/P_Recar2_VideoChannelSettings_VideoSourceCyclicReconnectionTimeout.htm" />
+  <HelpKINode Title="VideoChannelSettings.VideoSourceReconnection свойство" Url="html/P_Recar2_VideoChannelSettings_VideoSourceReconnection.htm" />
+  <HelpKINode Title="VideoChannelSettings.VideoSourceReconnectionTimeout свойство" Url="html/P_Recar2_VideoChannelSettings_VideoSourceReconnectionTimeout.htm" />
+  <HelpKINode Title="VideoChannelSettings.VideoSourceUpdateMatrixTimeout свойство" Url="html/P_Recar2_VideoChannelSettings_VideoSourceUpdateMatrixTimeout.htm" />
+  <HelpKINode Title="VideoChannelSettings.ZoneSearchMethod свойство" Url="html/P_Recar2_VideoChannelSettings_ZoneSearchMethod.htm" />
   <HelpKINode Title="VideoCore - класс">
-    <HelpKINode Title="VideoCore - класс" Url="html/cb693d57-5030-3855-e4bc-6cd1f1721585.htm" />
-    <HelpKINode Title="конструктор" Url="html/5a956ccd-04b0-6cf3-0841-59535c92e850.htm" />
-    <HelpKINode Title="методы" Url="html/c9b0e0f5-bcd9-de8f-7e7c-ea4f348aa0e4.htm" />
-    <HelpKINode Title="свойства" Url="html/6122efcb-cafb-4505-b15b-bf8dcdf8ed89.htm" />
-    <HelpKINode Title="события" Url="html/6e6c9088-43f1-7ba1-23e6-9b1178fc9574.htm" />
+    <HelpKINode Title="VideoCore - класс" Url="html/T_Recar2_VideoCore.htm" />
+    <HelpKINode Title="конструктор" Url="html/M_Recar2_VideoCore__ctor.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_VideoCore.htm" />
+    <HelpKINode Title="свойства" Url="html/Properties_T_Recar2_VideoCore.htm" />
+    <HelpKINode Title="события" Url="html/Events_T_Recar2_VideoCore.htm" />
   </HelpKINode>
-  <HelpKINode Title="VideoCore.CreateMultiVideoForm метод" Url="html/154ade6a-5e17-e196-6795-5c78a95adfc0.htm" />
-  <HelpKINode Title="VideoCore.GetSetupControls метод" Url="html/4dd4d4b6-0071-cb1e-d47e-3dff635310a0.htm" />
-  <HelpKINode Title="VideoCore.Initialize метод" Url="html/c5ff2c3d-8466-5d39-6751-ed38042e3e3a.htm" />
-  <HelpKINode Title="VideoCore.MotionDetected событие" Url="html/a7304e23-7fb0-4171-34d7-4b9b9ce8db15.htm" />
-  <HelpKINode Title="VideoCore.NumberRecognized событие" Url="html/2ad4e0b3-cff0-e72d-e7f6-123da0a8f5c5.htm" />
-  <HelpKINode Title="VideoCore.ProcessFrame метод" Url="html/fe6a2274-69ec-dcc8-56ad-97ee7a42ec94.htm" />
-  <HelpKINode Title="VideoCore.SetupTransformation метод" Url="html/62090baa-8c4e-837d-aa1b-01098ccca321.htm" />
-  <HelpKINode Title="VideoCore.ShowAlgsSetupForm метод" Url="html/6d854ccf-6491-6d6f-a525-ec112fdd5efb.htm" />
-  <HelpKINode Title="VideoCore.Start метод" Url="html/15ba9417-ccdb-58ec-8a3e-4131e25ca929.htm" />
-  <HelpKINode Title="VideoCore.Stop метод" Url="html/6eb29f35-e28e-ea21-94e3-0633cde91053.htm" />
-  <HelpKINode Title="VideoCore.VideoCore конструктор" Url="html/5a956ccd-04b0-6cf3-0841-59535c92e850.htm" />
-  <HelpKINode Title="VideoCore.VideoManager свойство" Url="html/4d86c14c-8286-b37a-720f-e38051027d45.htm" />
+  <HelpKINode Title="VideoCore.CreateMultiVideoForm метод" Url="html/M_Recar2_VideoCore_CreateMultiVideoForm.htm" />
+  <HelpKINode Title="VideoCore.GetSetupControls метод" Url="html/M_Recar2_VideoCore_GetSetupControls.htm" />
+  <HelpKINode Title="VideoCore.Initialize метод" Url="html/M_Recar2_VideoCore_Initialize.htm" />
+  <HelpKINode Title="VideoCore.MotionDetected событие" Url="html/E_Recar2_VideoCore_MotionDetected.htm" />
+  <HelpKINode Title="VideoCore.NumberRecognized событие" Url="html/E_Recar2_VideoCore_NumberRecognized.htm" />
+  <HelpKINode Title="VideoCore.ProcessFrame метод" Url="html/M_Recar2_VideoCore_ProcessFrame.htm" />
+  <HelpKINode Title="VideoCore.SetupTransformation метод" Url="html/M_Recar2_VideoCore_SetupTransformation.htm" />
+  <HelpKINode Title="VideoCore.ShowAlgsSetupForm метод" Url="html/M_Recar2_VideoCore_ShowAlgsSetupForm.htm" />
+  <HelpKINode Title="VideoCore.Start метод" Url="html/M_Recar2_VideoCore_Start.htm" />
+  <HelpKINode Title="VideoCore.Stop метод" Url="html/M_Recar2_VideoCore_Stop.htm" />
+  <HelpKINode Title="VideoCore.VideoCore конструктор" Url="html/M_Recar2_VideoCore__ctor.htm" />
+  <HelpKINode Title="VideoCore.VideoManager свойство" Url="html/P_Recar2_VideoCore_VideoManager.htm" />
   <HelpKINode Title="VideoCoreCom - класс">
-    <HelpKINode Title="VideoCoreCom - класс" Url="html/ccf26244-bb52-2173-a366-1022cb598c45.htm" />
-    <HelpKINode Title="конструктор" Url="html/54a440d1-1988-fa67-390b-9fe52e36fba1.htm" />
-    <HelpKINode Title="методы" Url="html/f8b23342-7919-1574-ff8f-522e6c7e5955.htm" />
-    <HelpKINode Title="свойства" Url="html/1968f440-990f-bbbd-e86d-a1eaa0aac884.htm" />
-    <HelpKINode Title="события" Url="html/edf80f4c-5a20-eeeb-22e1-bcef31974ebb.htm" />
+    <HelpKINode Title="VideoCoreCom - класс" Url="html/T_Recar2_Com_VideoCoreCom.htm" />
+    <HelpKINode Title="конструктор" Url="html/M_Recar2_Com_VideoCoreCom__ctor.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_Com_VideoCoreCom.htm" />
+    <HelpKINode Title="свойства" Url="html/Properties_T_Recar2_Com_VideoCoreCom.htm" />
+    <HelpKINode Title="события" Url="html/Events_T_Recar2_Com_VideoCoreCom.htm" />
   </HelpKINode>
-  <HelpKINode Title="VideoCoreCom.AllowTrial метод" Url="html/7f777d9a-aec4-aeb5-5f56-d905abd4472d.htm" />
-  <HelpKINode Title="VideoCoreCom.ConfigFilename свойство" Url="html/6c8c62ea-3525-9635-d1b1-8c15a53e32f8.htm" />
-  <HelpKINode Title="VideoCoreCom.ConvertPlateToCapsLatin свойство" Url="html/37443aa5-b9b9-4a19-08c8-a93d24b9e91a.htm" />
-  <HelpKINode Title="VideoCoreCom.DispatchVideoFrame метод" Url="html/61a169fa-dd20-d3ec-1bb6-959fa5e80f03.htm" />
-  <HelpKINode Title="VideoCoreCom.Dispose метод" Url="html/634a7018-96d9-8d64-a0fd-8543239ae206.htm" />
-  <HelpKINode Title="VideoCoreCom.GetSettingDescription метод" Url="html/312e9eb8-0ae1-b906-bfb0-0de735365fe6.htm" />
-  <HelpKINode Title="VideoCoreCom.GetSettingDisplayNames метод" Url="html/960302ac-d012-3f18-0d77-ebb39cc5fa04.htm" />
-  <HelpKINode Title="VideoCoreCom.GetSettingNames метод" Url="html/ac81fea3-1437-46fc-dc0c-f0c739a398d0.htm" />
-  <HelpKINode Title="VideoCoreCom.GetSettingSections метод" Url="html/18fceafc-47f1-6b69-d612-10da678acbc2.htm" />
-  <HelpKINode Title="VideoCoreCom.GetSettingValue метод" Url="html/3a55a507-ebc6-1b14-5a31-267f1fb6acf5.htm" />
-  <HelpKINode Title="VideoCoreCom.GetVideoChannel метод" Url="html/1f928551-7e2a-f729-6ea1-9240b64d3bc6.htm" />
-  <HelpKINode Title="VideoCoreCom.HideLogForm метод" Url="html/8c176530-15c0-57f1-e1b9-5e8bddd5664c.htm" />
-  <HelpKINode Title="VideoCoreCom.ImageStorageEnabled свойство" Url="html/497b518f-aa74-6e1c-f882-067c3c96f956.htm" />
-  <HelpKINode Title="VideoCoreCom.ImageStoragePath свойство" Url="html/9bb273c5-6dc0-31d1-e0d2-95564d806e58.htm" />
-  <HelpKINode Title="VideoCoreCom.Initialize метод" Url="html/909f247e-00af-635f-67a1-e6f24c988bce.htm" />
-  <HelpKINode Title="VideoCoreCom.IsInitialized свойство" Url="html/fdd419e2-058e-d2a0-401d-8ad214b3ede8.htm" />
-  <HelpKINode Title="VideoCoreCom.LoadSettings метод" Url="html/a34854a1-9f2c-6429-4e7d-c16e3159874d.htm" />
-  <HelpKINode Title="VideoCoreCom.LogDirectory свойство" Url="html/0582cda3-9f2e-2932-ff17-797585a4d78c.htm" />
-  <HelpKINode Title="VideoCoreCom.MakeImageSnapshot метод" Url="html/e9feaabd-9778-dade-ebef-0645bb27b371.htm" />
-  <HelpKINode Title="VideoCoreCom.NumberRecognized событие" Url="html/c883573e-d448-7e2a-a02c-3b06a38802ff.htm" />
-  <HelpKINode Title="VideoCoreCom.RegisterNumberRecognizedCallback метод" Url="html/80e17681-ccb8-44db-b880-13f0235279bc.htm" />
-  <HelpKINode Title="VideoCoreCom.SaveSettings метод" Url="html/d6bd9d37-2428-cc94-f0cd-929c2f0fe423.htm" />
-  <HelpKINode Title="VideoCoreCom.SetMotionState метод" Url="html/2b837639-9c36-6b36-9664-17421f2b7272.htm" />
-  <HelpKINode Title="VideoCoreCom.SetSettingValue метод" Url="html/5500ea5c-00d4-1c3c-3a80-ec526467127c.htm" />
-  <HelpKINode Title="VideoCoreCom.Settings свойство" Url="html/e4062cc1-35a1-b9cd-dd53-d07d9918dd75.htm" />
-  <HelpKINode Title="VideoCoreCom.SetVideoFormsLocked метод" Url="html/4b1a3707-bea4-d1de-700a-2e4423c9a6bf.htm" />
-  <HelpKINode Title="VideoCoreCom.SetVideoFormsTopMost метод" Url="html/e9fed715-e603-6889-39f9-1a2ad937813b.htm" />
-  <HelpKINode Title="VideoCoreCom.SetVideoFormsVisible метод" Url="html/21620465-e71c-516e-f433-b77e1784f6a4.htm" />
-  <HelpKINode Title="VideoCoreCom.SetVideoSource метод" Url="html/c0b4b843-cb4a-358d-c8a7-a6ee8b787369.htm" />
-  <HelpKINode Title="VideoCoreCom.ShowAlgSetupForm метод" Url="html/220a5822-2e3e-2d5e-6c7e-90e8de2bff96.htm" />
-  <HelpKINode Title="VideoCoreCom.ShowLogForm метод" Url="html/d4244fba-3e0a-cffe-62e0-aadcf14d52df.htm" />
-  <HelpKINode Title="VideoCoreCom.ShowSetupForm метод" Url="html/3ce3c2cc-b398-58f2-4471-e56c4f39f655.htm" />
-  <HelpKINode Title="VideoCoreCom.Start метод" Url="html/0e164772-8a42-2f43-8df5-4c58858ef40b.htm" />
-  <HelpKINode Title="VideoCoreCom.Stop метод" Url="html/c927a872-5a4f-800d-b67f-d977cd2388e7.htm" />
-  <HelpKINode Title="VideoCoreCom.UseIntegratedLogSubsystem свойство" Url="html/ac7ce87c-cfc8-7cc6-99e6-bef251d51399.htm" />
-  <HelpKINode Title="VideoCoreCom.VideoChannelExists метод" Url="html/1cff904e-7965-ab96-9919-bebc1d3cc032.htm" />
-  <HelpKINode Title="VideoCoreCom.VideoCoreCom конструктор" Url="html/54a440d1-1988-fa67-390b-9fe52e36fba1.htm" />
-  <HelpKINode Title="VideoCoreCom.VideoOnlyViewChannelCount свойство" Url="html/8583edf7-26cf-7b51-dc3e-dca3128fdecc.htm" />
-  <HelpKINode Title="VideoCoreCom.VideoProcessChannelCount свойство" Url="html/17378201-bc47-a664-c9d3-500e41503db3.htm" />
+  <HelpKINode Title="VideoCoreCom.AllowTrial метод" Url="html/M_Recar2_Com_VideoCoreCom_AllowTrial.htm" />
+  <HelpKINode Title="VideoCoreCom.ConfigFilename свойство" Url="html/P_Recar2_Com_VideoCoreCom_ConfigFilename.htm" />
+  <HelpKINode Title="VideoCoreCom.ConvertPlateToCapsLatin свойство" Url="html/P_Recar2_Com_VideoCoreCom_ConvertPlateToCapsLatin.htm" />
+  <HelpKINode Title="VideoCoreCom.DispatchVideoFrame метод" Url="html/M_Recar2_Com_VideoCoreCom_DispatchVideoFrame.htm" />
+  <HelpKINode Title="VideoCoreCom.Dispose метод" Url="html/M_Recar2_Com_VideoCoreCom_Dispose.htm" />
+  <HelpKINode Title="VideoCoreCom.GetSettingDescription метод" Url="html/M_Recar2_Com_VideoCoreCom_GetSettingDescription.htm" />
+  <HelpKINode Title="VideoCoreCom.GetSettingDisplayNames метод" Url="html/M_Recar2_Com_VideoCoreCom_GetSettingDisplayNames.htm" />
+  <HelpKINode Title="VideoCoreCom.GetSettingNames метод" Url="html/M_Recar2_Com_VideoCoreCom_GetSettingNames.htm" />
+  <HelpKINode Title="VideoCoreCom.GetSettingSections метод" Url="html/M_Recar2_Com_VideoCoreCom_GetSettingSections.htm" />
+  <HelpKINode Title="VideoCoreCom.GetSettingValue метод" Url="html/M_Recar2_Com_VideoCoreCom_GetSettingValue.htm" />
+  <HelpKINode Title="VideoCoreCom.GetVideoChannel метод" Url="html/M_Recar2_Com_VideoCoreCom_GetVideoChannel.htm" />
+  <HelpKINode Title="VideoCoreCom.HideLogForm метод" Url="html/M_Recar2_Com_VideoCoreCom_HideLogForm.htm" />
+  <HelpKINode Title="VideoCoreCom.ImageStorageEnabled свойство" Url="html/P_Recar2_Com_VideoCoreCom_ImageStorageEnabled.htm" />
+  <HelpKINode Title="VideoCoreCom.ImageStoragePath свойство" Url="html/P_Recar2_Com_VideoCoreCom_ImageStoragePath.htm" />
+  <HelpKINode Title="VideoCoreCom.Initialize метод" Url="html/M_Recar2_Com_VideoCoreCom_Initialize.htm" />
+  <HelpKINode Title="VideoCoreCom.IsInitialized свойство" Url="html/P_Recar2_Com_VideoCoreCom_IsInitialized.htm" />
+  <HelpKINode Title="VideoCoreCom.LoadSettings метод" Url="html/M_Recar2_Com_VideoCoreCom_LoadSettings.htm" />
+  <HelpKINode Title="VideoCoreCom.LogDirectory свойство" Url="html/P_Recar2_Com_VideoCoreCom_LogDirectory.htm" />
+  <HelpKINode Title="VideoCoreCom.MakeImageSnapshot метод" Url="html/M_Recar2_Com_VideoCoreCom_MakeImageSnapshot.htm" />
+  <HelpKINode Title="VideoCoreCom.NumberRecognized событие" Url="html/E_Recar2_Com_VideoCoreCom_NumberRecognized.htm" />
+  <HelpKINode Title="VideoCoreCom.RegisterNumberRecognizedCallback метод" Url="html/M_Recar2_Com_VideoCoreCom_RegisterNumberRecognizedCallback.htm" />
+  <HelpKINode Title="VideoCoreCom.SaveSettings метод" Url="html/M_Recar2_Com_VideoCoreCom_SaveSettings.htm" />
+  <HelpKINode Title="VideoCoreCom.SetMotionState метод" Url="html/M_Recar2_Com_VideoCoreCom_SetMotionState.htm" />
+  <HelpKINode Title="VideoCoreCom.SetSettingValue метод" Url="html/M_Recar2_Com_VideoCoreCom_SetSettingValue.htm" />
+  <HelpKINode Title="VideoCoreCom.Settings свойство" Url="html/P_Recar2_Com_VideoCoreCom_Settings.htm" />
+  <HelpKINode Title="VideoCoreCom.SetVideoFormsLocked метод" Url="html/M_Recar2_Com_VideoCoreCom_SetVideoFormsLocked.htm" />
+  <HelpKINode Title="VideoCoreCom.SetVideoFormsTopMost метод" Url="html/M_Recar2_Com_VideoCoreCom_SetVideoFormsTopMost.htm" />
+  <HelpKINode Title="VideoCoreCom.SetVideoFormsVisible метод" Url="html/M_Recar2_Com_VideoCoreCom_SetVideoFormsVisible.htm" />
+  <HelpKINode Title="VideoCoreCom.SetVideoSource метод" Url="html/M_Recar2_Com_VideoCoreCom_SetVideoSource.htm" />
+  <HelpKINode Title="VideoCoreCom.ShowAlgSetupForm метод" Url="html/M_Recar2_Com_VideoCoreCom_ShowAlgSetupForm.htm" />
+  <HelpKINode Title="VideoCoreCom.ShowLogForm метод" Url="html/M_Recar2_Com_VideoCoreCom_ShowLogForm.htm" />
+  <HelpKINode Title="VideoCoreCom.ShowSetupForm метод" Url="html/M_Recar2_Com_VideoCoreCom_ShowSetupForm.htm" />
+  <HelpKINode Title="VideoCoreCom.Start метод" Url="html/M_Recar2_Com_VideoCoreCom_Start.htm" />
+  <HelpKINode Title="VideoCoreCom.Stop метод" Url="html/M_Recar2_Com_VideoCoreCom_Stop.htm" />
+  <HelpKINode Title="VideoCoreCom.UseIntegratedLogSubsystem свойство" Url="html/P_Recar2_Com_VideoCoreCom_UseIntegratedLogSubsystem.htm" />
+  <HelpKINode Title="VideoCoreCom.VideoChannelExists метод" Url="html/M_Recar2_Com_VideoCoreCom_VideoChannelExists.htm" />
+  <HelpKINode Title="VideoCoreCom.VideoCoreCom конструктор" Url="html/M_Recar2_Com_VideoCoreCom__ctor.htm" />
+  <HelpKINode Title="VideoCoreCom.VideoOnlyViewChannelCount свойство" Url="html/P_Recar2_Com_VideoCoreCom_VideoOnlyViewChannelCount.htm" />
+  <HelpKINode Title="VideoCoreCom.VideoProcessChannelCount свойство" Url="html/P_Recar2_Com_VideoCoreCom_VideoProcessChannelCount.htm" />
   <HelpKINode Title="VideoCoreExtensions - класс">
-    <HelpKINode Title="VideoCoreExtensions - класс" Url="html/773c337b-ef08-3750-20b3-f98e5e62a721.htm" />
-    <HelpKINode Title="методы" Url="html/74a22c39-9e3f-d412-e1f6-21be060e38ae.htm" />
+    <HelpKINode Title="VideoCoreExtensions - класс" Url="html/T_Recar2_VideoCoreExtensions.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_VideoCoreExtensions.htm" />
   </HelpKINode>
-  <HelpKINode Title="VideoCoreExtensions.RegisterImage метод" Url="html/cd2e8377-5ae7-1e3b-bfbe-050591f2732b.htm" />
-  <HelpKINode Title="VideoCoreExtensions.ShowSetupForm метод" Url="html/7f98fb01-744b-3429-f10d-56d5958ba487.htm" />
+  <HelpKINode Title="VideoCoreExtensions.RegisterImage метод" Url="html/M_Recar2_VideoCoreExtensions_RegisterImage.htm" />
+  <HelpKINode Title="VideoCoreExtensions.ShowSetupForm метод" Url="html/M_Recar2_VideoCoreExtensions_ShowSetupForm.htm" />
   <HelpKINode Title="VideoCoreInitializationParameters - класс">
-    <HelpKINode Title="VideoCoreInitializationParameters - класс" Url="html/5028043f-0656-071f-d1d4-743d7fca7262.htm" />
-    <HelpKINode Title="конструктор" Url="html/b73d2c1b-fffb-77d4-199a-7b4a639b561e.htm" />
-    <HelpKINode Title="свойства" Url="html/79b6251c-b89e-ab38-7bea-bd2338b398ce.htm" />
+    <HelpKINode Title="VideoCoreInitializationParameters - класс" Url="html/T_Recar2_VideoCoreInitializationParameters.htm" />
+    <HelpKINode Title="конструктор" Url="html/M_Recar2_VideoCoreInitializationParameters__ctor.htm" />
+    <HelpKINode Title="свойства" Url="html/Properties_T_Recar2_VideoCoreInitializationParameters.htm" />
   </HelpKINode>
-  <HelpKINode Title="VideoCoreInitializationParameters.LookupVideoSources свойство" Url="html/7dffd603-5136-10af-c27b-8c86031d6f6b.htm" />
-  <HelpKINode Title="VideoCoreInitializationParameters.VideoCoreInitializationParameters конструктор" Url="html/b73d2c1b-fffb-77d4-199a-7b4a639b561e.htm" />
-  <HelpKINode Title="VideoCoreInitializationParameters.VideoOnlyViewChannelCount свойство" Url="html/19652ae3-5619-8546-42d3-8d655d79c46d.htm" />
-  <HelpKINode Title="VideoCoreInitializationParameters.VideoProcessChannelCount свойство" Url="html/baec472f-2ff5-9785-3025-352d740a291c.htm" />
-  <HelpKINode Title="VideoManager свойство" Url="html/4d86c14c-8286-b37a-720f-e38051027d45.htm" />
+  <HelpKINode Title="VideoCoreInitializationParameters.LookupVideoSources свойство" Url="html/P_Recar2_VideoCoreInitializationParameters_LookupVideoSources.htm" />
+  <HelpKINode Title="VideoCoreInitializationParameters.VideoCoreInitializationParameters конструктор" Url="html/M_Recar2_VideoCoreInitializationParameters__ctor.htm" />
+  <HelpKINode Title="VideoCoreInitializationParameters.VideoOnlyViewChannelCount свойство" Url="html/P_Recar2_VideoCoreInitializationParameters_VideoOnlyViewChannelCount.htm" />
+  <HelpKINode Title="VideoCoreInitializationParameters.VideoProcessChannelCount свойство" Url="html/P_Recar2_VideoCoreInitializationParameters_VideoProcessChannelCount.htm" />
+  <HelpKINode Title="VideoManager свойство" Url="html/P_Recar2_VideoCore_VideoManager.htm" />
   <HelpKINode Title="VideoOnlyViewChannelCount свойство">
-    <HelpKINode Title="IVideoCore.VideoOnlyViewChannelCount - свойство" Url="html/851658bf-4209-a9f9-3eb3-8f71294dac7f.htm" />
-    <HelpKINode Title="LicenseInfo.VideoOnlyViewChannelCount - свойство" Url="html/fb3bdb74-531d-b8b6-a866-e1d388acd895.htm" />
-    <HelpKINode Title="VideoCoreCom.VideoOnlyViewChannelCount - свойство" Url="html/8583edf7-26cf-7b51-dc3e-dca3128fdecc.htm" />
-    <HelpKINode Title="VideoCoreInitializationParameters.VideoOnlyViewChannelCount - свойство" Url="html/19652ae3-5619-8546-42d3-8d655d79c46d.htm" />
+    <HelpKINode Title="IVideoCore.VideoOnlyViewChannelCount - свойство" Url="html/P_Recar2_Com_IVideoCore_VideoOnlyViewChannelCount.htm" />
+    <HelpKINode Title="LicenseInfo.VideoOnlyViewChannelCount - свойство" Url="html/P_Recar2_LicenseInfo_VideoOnlyViewChannelCount.htm" />
+    <HelpKINode Title="VideoCoreCom.VideoOnlyViewChannelCount - свойство" Url="html/P_Recar2_Com_VideoCoreCom_VideoOnlyViewChannelCount.htm" />
+    <HelpKINode Title="VideoCoreInitializationParameters.VideoOnlyViewChannelCount - свойство" Url="html/P_Recar2_VideoCoreInitializationParameters_VideoOnlyViewChannelCount.htm" />
   </HelpKINode>
   <HelpKINode Title="VideoProcessChannelCount свойство">
-    <HelpKINode Title="IVideoCore.VideoProcessChannelCount - свойство" Url="html/450ae9b5-3d3f-2cba-ca8d-b1359b961769.htm" />
-    <HelpKINode Title="LicenseInfo.VideoProcessChannelCount - свойство" Url="html/06c832aa-59fb-3981-e19f-795798a97749.htm" />
-    <HelpKINode Title="VideoCoreCom.VideoProcessChannelCount - свойство" Url="html/17378201-bc47-a664-c9d3-500e41503db3.htm" />
-    <HelpKINode Title="VideoCoreInitializationParameters.VideoProcessChannelCount - свойство" Url="html/baec472f-2ff5-9785-3025-352d740a291c.htm" />
+    <HelpKINode Title="IVideoCore.VideoProcessChannelCount - свойство" Url="html/P_Recar2_Com_IVideoCore_VideoProcessChannelCount.htm" />
+    <HelpKINode Title="LicenseInfo.VideoProcessChannelCount - свойство" Url="html/P_Recar2_LicenseInfo_VideoProcessChannelCount.htm" />
+    <HelpKINode Title="VideoCoreCom.VideoProcessChannelCount - свойство" Url="html/P_Recar2_Com_VideoCoreCom_VideoProcessChannelCount.htm" />
+    <HelpKINode Title="VideoCoreInitializationParameters.VideoProcessChannelCount - свойство" Url="html/P_Recar2_VideoCoreInitializationParameters_VideoProcessChannelCount.htm" />
   </HelpKINode>
-  <HelpKINode Title="VideoSourceCyclicReconnection свойство" Url="html/9c7ed928-d23b-f20a-c8f4-09bbcff8c11b.htm" />
-  <HelpKINode Title="VideoSourceCyclicReconnectionTimeout свойство" Url="html/d4526e07-fa13-7171-ba15-f26171800570.htm" />
-  <HelpKINode Title="VideoSourceReconnection свойство" Url="html/e845fbaa-90c7-d8f0-ffd1-e1b95ed2ec21.htm" />
-  <HelpKINode Title="VideoSourceReconnectionTimeout свойство" Url="html/7b423d19-92ab-0509-af9a-a99d572dfcac.htm" />
-  <HelpKINode Title="VideoSourceUpdateMatrixTimeout свойство" Url="html/3ee50330-f3d9-338e-7d29-8bd9e762f26b.htm" />
-  <HelpKINode Title="Zone свойство" Url="html/0d970621-85c0-1909-d02f-3ed11080f29d.htm" />
-  <HelpKINode Title="ZoneSearchMethod - перечисление" Url="html/05029b8e-22de-4f01-f25c-62d4cffe66f1.htm" />
-  <HelpKINode Title="ZoneSearchMethod свойство" Url="html/2cb1290e-677a-8cbd-dcdb-6da1e20d0acd.htm" />
-  <HelpKINode Title="ZoneSizeMode - перечисление" Url="html/82273c1b-6a19-b744-1029-545901b3b113.htm" />
+  <HelpKINode Title="VideoSourceCyclicReconnection свойство" Url="html/P_Recar2_VideoChannelSettings_VideoSourceCyclicReconnection.htm" />
+  <HelpKINode Title="VideoSourceCyclicReconnectionTimeout свойство" Url="html/P_Recar2_VideoChannelSettings_VideoSourceCyclicReconnectionTimeout.htm" />
+  <HelpKINode Title="VideoSourceReconnection свойство" Url="html/P_Recar2_VideoChannelSettings_VideoSourceReconnection.htm" />
+  <HelpKINode Title="VideoSourceReconnectionTimeout свойство" Url="html/P_Recar2_VideoChannelSettings_VideoSourceReconnectionTimeout.htm" />
+  <HelpKINode Title="VideoSourceUpdateMatrixTimeout свойство" Url="html/P_Recar2_VideoChannelSettings_VideoSourceUpdateMatrixTimeout.htm" />
+  <HelpKINode Title="Zone свойство" Url="html/P_Recar2_PlateNumber_Zone.htm" />
+  <HelpKINode Title="ZoneSearchMethod - перечисление" Url="html/T_Recar2_ZoneSearchMethod.htm" />
+  <HelpKINode Title="ZoneSearchMethod свойство" Url="html/P_Recar2_VideoChannelSettings_ZoneSearchMethod.htm" />
+  <HelpKINode Title="ZoneSizeMode - перечисление" Url="html/T_Recar2_ZoneSizeMode.htm" />
   <HelpKINode Title="_IVideoCoreEvents - интерфейс">
-    <HelpKINode Title="_IVideoCoreEvents - интерфейс" Url="html/18c6bc37-a43c-4f41-ff45-e3ffc58ea60c.htm" />
-    <HelpKINode Title="методы" Url="html/ade92f08-ef74-fe0e-1476-dbd9056e06dd.htm" />
+    <HelpKINode Title="_IVideoCoreEvents - интерфейс" Url="html/T_Recar2_Com__IVideoCoreEvents.htm" />
+    <HelpKINode Title="методы" Url="html/Methods_T_Recar2_Com__IVideoCoreEvents.htm" />
   </HelpKINode>
-  <HelpKINode Title="_IVideoCoreEvents.NumberRecognized метод" Url="html/e85079e4-7fe8-f8c2-697c-c1a0d2de0568.htm" />
+  <HelpKINode Title="_IVideoCoreEvents.NumberRecognized метод" Url="html/M_Recar2_Com__IVideoCoreEvents_NumberRecognized.htm" />
 </HelpKI>
